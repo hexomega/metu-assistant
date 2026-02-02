@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Data files (optional - remove if you want to track data)
+#data/raw/
+#data/processed/
+#data/vectordb/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+.streamlit/secrets.toml

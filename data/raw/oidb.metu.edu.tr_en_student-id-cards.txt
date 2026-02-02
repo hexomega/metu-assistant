@@ -1,0 +1,71 @@
+Student ID Cards
+GENERAL INFORMATION
+Applications for “Student Identity Cards” without a Fee
+Applications made due to the first registration in the university's programs
+Applications made in case of the identity card being stolen (provided that the report from the district or local police stations is uploaded in the relevant program’s receipt section)
+Applications made in case of physical damage due to user error (provided that the damaged identity card is returned to the Student Affairs Office)
+Applications made due to a broken magnetic strip on the identity card (provided that approval is obtained from the IT department’s smart card unit and the identity card is returned to ÖİDB)
+Applications for “Student Identity Cards” with a Fee
+Requests for renewal due to the loss of the identity card
+Requests for renewal for students who took a break due to failure to renew their registration
+USAGE CONDITIONS OF THE STUDENT IDENTITY CARDS
+Student identity cards are issued to students registered in our university's programs. They can be used as long as the student is actively registered in the program.
+The identity cards of students, whose registration has been canceled (due to graduation, voluntary withdrawal, horizontal transfer, failure to renew registration, academic failure, etc.), are deactivated.
+HOW TO APPLY FOR A STUDENT IDENTITY CARD?
+The identity card application is made online via the website
+http://cardinfo.metu.edu.tr/
+To apply for the identity card, students must first obtain an METU user code and password from
+https://useraccount.metu.edu.tr/
+Students who must pay the identity card fee must upload their bank receipt in “jpeg format” to the system.
+During the application process, if there is an existing photo in the system, it will be displayed. You can use this photo on your identity card or upload a new one.
+Photo Requirements
+The photo should be 50 mm x 60 mm in size, with a white background and no patterns.
+The photo should not exceed 3MB and must be in png/jpg/jpeg/gif format.
+The head should be in a vertical position, and it should not be turned in any direction. The photo should not have inappropriate facial expressions.
+The eyes should be open and clearly visible. The photo should be taken while looking directly at the camera.
+The face should be centered in the photo.
+Photos that do not meet the official standards should not be uploaded to the system.
+Uploading the Photo to the System
+Information on uploading the photo to the system is available within the program. When uploading, the photo should be placed within the frame displayed in the program, ensuring proper alignment and size. Photos uploaded in an incorrect format will lead to the rejection of the application.
+Student Identity Card Preparation Process
+The identity card application is reviewed by the Registrar’s Office, and approval is given through the system for eligible applications.
+Applications that do not meet the criteria (such as missing or incorrect payment receipts for students required to pay, inappropriate photo uploads, etc.) will be rejected.
+For rejected applications, students must log into the program, make the necessary corrections, and complete their application.
+Students can track whether their applications have been approved or whether their identity cards have been prepared via the program they applied to (
+http://cardinfo.metu.edu.tr/
+).
+A “ready” notice in the application program means the printing stage has been completed by the company. The "Student Identity Cards" are then delivered to the relevant academic units (Institute Directorate/Department Chairmanship), so this may take some time. It is recommended that students visit the relevant academic unit for updates.
+Student Identity Card Distribution Process
+Class/Program
+Unit to Receive the Card
+Preparatory Class Students
+Department Heads
+Undergraduate Students
+Department Heads
+Graduate Program Students
+Department Heads
+Interdisciplinary Graduate Program Students
+Institute Directorates
+The “student identity card” will be delivered to the student by the relevant academic unit upon checking the "T.C. Identity Card".
+Identity cards not collected within 6 months will be destroyed by the relevant academic units.
+Information about the bank account numbers and fees for identity card payments is shared on the webpage
+https://oidb.metu.edu.tr/tr/ogrencilerden-bazi-hizmetler-karsiligi-alinan-ucretler
+. The student's number and full name should be specified in the description area of the receipt.
+LOSS OF IDENTITY CARD
+In case of loss of the identity card on campus, found identity cards are forwarded to the following units. Therefore, the first step should be to inquire at these units:
+Internal Services Directorate/ Rectorate/ Ground Floor
+Student Affairs Office (ÖİDB)/ Student Desks
+Academic Unit Secretariats (Faculty/Institute/Department/School)
+Smart cards that serve as student identity cards also function as electronic wallets. Since there may be money loaded onto the card, in case of loss, it must be canceled by the cardholder from
+http://cardinfo.metu.edu.tr/
+to prevent misuse by others. If the cancellation process is not carried out, the student will bear full responsibility.
+RECOMMENDATIONS FOR USING THE IDENTITY CARD
+The identity card should not come into contact with water, oil, chemicals, etc.
+Do not puncture or make holes in the identity card with a stapler or similar items.
+The identity card should not be bent or used for tasks like scraping ice.
+The identity card should not be scratched with sharp or pointed objects.
+The identity card should not be left under direct sunlight for extended periods.
+Since the identity card has an electronic wallet feature, it should not be left as a deposit.
+The identity card should not be given to others for use.
+Last updated
+12/01/2026 - 13:12
