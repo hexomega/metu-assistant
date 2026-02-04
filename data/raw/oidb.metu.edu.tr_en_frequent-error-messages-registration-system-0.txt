@@ -1,0 +1,72 @@
+Frequent Error Messages in the Registration System
+Please see the frequently taken errors during the interactive registrations. For those errors which are not explained here, please visit this page:
+https://faq.cc.metu.edu.tr/tr/sss/oibs-kayit-sistemi-karsilasilan-hatal…
+;
+First Page Controls
+6. You are not authorized to use this program.
+Registration program has not opened yet for the student by that date and time. Please check the start date and time of the registrations using this link:
+http://oidb2.metu.edu.tr/en/registration-dates-and-hours
+Your user code may be not defined in the system. You may send an email to
+register@metu.edu.tr
+stating your user code.
+Students will be able to login to the registration program by turns of class.
+Starting from 09.00: 4th-grade students
+Starting from 10.00: 3rd and 4th-grade students
+Starting from 11.00: 2nd, 3rd, and 4th-grade students
+Starting from 12.00: 1st, 2nd, 3rd, and 4th-grade students
+Starting from 13.00: 1st, 2nd, 3rd, and 4th-grade students and the graduate students
+Registration and advisor approval program will close at 17:00 on the last date of the registrations.
+10. You cannot register since you did not make interactive registration. For detailed information, please see
+http://oidb2.metu.edu.tr/
+Students who do not register or get advisor approval during the registration dates cannot register in the add/drop period. The student should check his/her status using
+https://oibs2.metu.edu.tr/Student_Information
+.
+12. Academic term([semester]) registration does not exist. Please visit the Student's Registrar Office.
+Please first check the student information using
+https://oibs2.metu.edu.tr/Student_Information
+and if the current semester has not been created for you, contact the Registrar's Office.
+13. Your registration has been approved by your advisor. You cannot make changes. Please go to your advisor for the removal of the approval.
+Student has got the advisor's approval. He or she cannot log in to the registration program. First, the advisor should cancel the approval. Please contact your department and your academic advisor. In the absence of the advisor, the head of the department can also cancel the approval and give approval.
+19. Can not find payment information. Please visit The Student Social Services Office of Student Accounts(Art and Science Dean's Building/2nd floor).
+Student payment information is generated on a semester basis. If the payment information for a specific semester could not be generated, please contact the Tuition Fee Office.
+20. Tuition Fee Errors
+Tuition Fee:
+Second Univ. Fee:
+Prev. Sem. Debt:
+Total Debt:
+Scholarship/Exemption:
+Payment:
+Remaining:
+If you paid your tuition fee you can visit Tuition Fee Office for more info.
+You can visit the Tuition Fee Office for more info.
+For your scholarship/exemption, you can visit METU Scholarship Office.
+If the student did not pay the full amount of the tuition fee or the tuition fee scholarship does not cover the full amount or the system cannot retrieve the payment information despite the payment, student cannot log in to the system. Please check the "Semester Details" tab on
+https://oibs2.metu.edu.tr/Student_Information
+CONTROLS FOR ADDING COURSES
+14. The course is not offered. Course Code: [course code] You can have the information from the related department
+The course that the student wants to register is not opened by the department. If the student enters the course code correctly and if the course must be opened in the semester, it is required to contact the related department. Students can check the courses opened in a semester using Course->Course Semester Information link on
+https://sis.metu.edu.tr
+16. Course capacity is full: [Course code]- [section]
+The course capacity is full for this course. Please contact the related department to request an increase in the course capacity. You may check the course capacity information of courses using "View Course Capacity" program on
+https://oibs.metu.edu.tr
+17. The course group is not offered. Course Code: [Course Code]Group Code: [Section]
+The course section that the student wants to register is not opened by the department. If the student enters the section code correctly and if the section must be opened in the semester, it is required to contact the related department. Students can check the courses opened in a semester using Course->Course Semester Information link on
+https://sis.metu.edu.tr
+18. The course is not offered for your department or your conditions are inappropriate:[course code]- [section]
+The course criteria set by the department do not match with the student's status. The student should check the criteria for the specific course and section using Course->Course Semester Information link on
+https://sis.metu.edu.tr
+20. This course can be added only after next capacity update time. For more information please refer to
+http://oidb2.metu.edu.tr/yaz-okulu
+For summer school courses and for MATH and MLD courses, once the capacity is full, the system does not allow to add the course until the next capacity update time.
+The capacity for MATH 120, MATH 219, MATH 260 and ENG 211 courses is limited. It will not be possible to meet all the demands.
+When the specific course section reaches the full capacity, the system will not allow to add it until the start of the next session, even if the course capacity has been increased.
+Capacity information for MATH and MLD courses will be updated at 09:00, 13:00 and 16:00.
+The student should check the criteria for the specific course and section using Course->Course Semester Information link on
+https://sis.metu.edu.tr
+26. You do not have the appropriate prerequisite for the course you want to take: [ders kodu]
+For courses with prerequisites, the system makes additional controls. This control is done not on the basis of the student's department/program but on the basis of the specific course. If the student does not satisfy the prerequisite for the specific course, he or she cannot register for that course. If the student is exempted from a course which is a prerequisite for another course, it means that he or she satisfies the prerequisite. If the student has transferred a course which is a prerequisite for another course, it means that he or she satisfies the prerequisite. Students can check the course prerequisites using Course->Course Semester Information link on
+https://sis.metu.edu.tr
+33. Your status is Suspension/Suspension Warning/Probation. You can not take a new course "||p_course_code.
+Students with a Suspension/Suspension Warning/Probation status, cannot take new courses. If you think that there is a mistake with your status, please contact the Registrar'S Office.
+Last updated
+13/01/2026 - 12:02

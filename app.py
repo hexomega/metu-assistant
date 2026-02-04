@@ -11,7 +11,7 @@ from src.embeddings import get_collection_stats
 
 # Page configuration
 st.set_page_config(
-    page_title="METU Assistant",
+    page_title="METU Student Assistant",
     page_icon="🎓",
     layout="centered",
     initial_sidebar_state="expanded",
@@ -57,17 +57,17 @@ def initialize_session_state():
 
 
 def check_system_status():
-    """Check if Ollama and vector store are available."""
-    # Check Ollama
-    ollama_ok, ollama_msg = test_connection()
+    """Check if Groq API and vector store are available."""
+    # Check Groq connection
+    groq_ok, groq_msg = test_connection()
     
     # Check vector store
     stats = get_collection_stats()
     vectordb_ok = "total_documents" in stats and stats["total_documents"] > 0
     
     return {
-        "ollama_ok": ollama_ok,
-        "ollama_msg": ollama_msg,
+        "groq_ok": groq_ok,
+        "groq_msg": groq_msg,
         "vectordb_ok": vectordb_ok,
         "vectordb_stats": stats,
     }
@@ -76,7 +76,7 @@ def check_system_status():
 def render_sidebar():
     """Render the sidebar with status and options."""
     with st.sidebar:
-        st.header("🎓 METU Assistant")
+        st.header("🎓 METU Student Assistant")
         st.markdown("---")
         
         # System Status
@@ -85,31 +85,21 @@ def render_sidebar():
         status = check_system_status()
         
         # Ollama status
-        if status["ollama_ok"]:
-            st.success("✓ Ollama: Çalışıyor / Running")
+        if status["groq_ok"]:
+            st.success("✓ LLM API: Çalışıyor / Running")
         else:
-            st.error("✗ Ollama: Bağlantı hatası / Connection error")
-            st.caption(f"Error: {status['ollama_msg']}")
-            st.caption("Run: `ollama serve`")
+            st.error("✗ Groq: Bağlantı hatası / Connection error")
+            st.caption(f"Error: {status['groq_msg']}")
         
         # Vector DB status
         if status["vectordb_ok"]:
             doc_count = status["vectordb_stats"].get("total_documents", 0)
-            st.success(f"✓ Bilgi Tabanı: {doc_count} döküman")
+            st.success(f"✓ Veri Kaynağı: {doc_count} döküman")
         else:
             st.error("✗ Bilgi Tabanı: Bulunamadı")
             st.caption("Run: `uv run python ingest.py`")
         
         st.markdown("---")
-        
-        # Options
-        st.subheader("Seçenekler / Options")
-        
-        use_rag = st.toggle(
-            "RAG Kullan / Use RAG",
-            value=True,
-            help="Enable retrieval-augmented generation"
-        )
         
         if st.button("🗑️ Sohbeti Temizle / Clear Chat"):
             st.session_state.messages = []
@@ -125,13 +115,14 @@ def render_sidebar():
         Bu asistan ODTÜ öğrencilerine yardımcı olmak için tasarlanmıştır.
         
         This assistant is designed to help METU students.
-        
+        (c) Efe Misirli - efemisirli@gmail.com
         **Veri Kaynakları / Data Sources:**
-        - OIDB Web Sitesi
-        - ODTÜ Yönetmelikleri
+        - Öğrenci İşleri DB Web Sitesi ve İlgili Yönetmelikler
+        - Uluslararasi Işbirliği Ofisi Web Sitesi
+        - Kafeterya Web Sitesi
         """)
         
-        return use_rag, status
+        return status
 
 
 def render_chat():
@@ -144,7 +135,19 @@ def render_chat():
         "</p>",
         unsafe_allow_html=True
     )
-    
+    st.markdown(
+        "<p style='text-align: center; color: gray; font-size: 0.9rem;'>"
+        "<b>Örnek Sorular / Example Questions:</b><br>"
+        "• Kayıt işlemleri nasıl yapılır?<br>"
+        "• Dersler ne zaman başlayacak?<br>"
+        "• Dersten çekilme tarihleri nedir?<br>"
+        "• How can I get my transcript?<br>"
+        "• What are the tuition payment deadlines?"
+        "</p>",
+        unsafe_allow_html=True
+    )
+    st.warning("⚠️ Bu asistan hata yapabilir, bilgileri resmi kaynaklardan teyit ediniz. / This assistant may make mistakes, please verify information from official sources.")
+
     # Display chat messages
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
@@ -156,15 +159,13 @@ def main():
     initialize_session_state()
     
     # Render sidebar and get options
-    use_rag, status = render_sidebar()
+    status = render_sidebar()
     
     # Render chat interface
     render_chat()
     
     # Check if system is ready
-    system_ready = status["ollama_ok"]
-    if use_rag:
-        system_ready = system_ready and status["vectordb_ok"]
+    system_ready = status["groq_ok"]
     
     if not system_ready:
         st.warning(
@@ -174,17 +175,16 @@ def main():
         return
     
     # Initialize assistant if needed
-    if (st.session_state.assistant is None or 
-        st.session_state.assistant.use_rag != use_rag):
+    if (st.session_state.assistant is None):
         with st.spinner("Asistan başlatılıyor... / Initializing assistant..."):
             try:
-                st.session_state.assistant = METUAssistant(use_rag=use_rag)
+                st.session_state.assistant = METUAssistant(use_rag=True)
             except Exception as e:
                 st.error(f"Error initializing assistant: {e}")
                 return
     
     # Chat input
-    if prompt := st.chat_input("Sorunuzu yazın... / Type your question..."):
+    if prompt := st.chat_input("Hocam nasıl yardımcı olabilirim? / How can I help you hocam? "):
         # Add user message
         st.session_state.messages.append({"role": "user", "content": prompt})
         

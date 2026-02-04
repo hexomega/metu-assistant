@@ -1,0 +1,61 @@
+--- Page 1 ---
+İLMİ HÜVİYET TESPİTİ SINAVI KILAVUZU
+BÖLÜM
+YAZILI SINAV USULÜ
+SINAVLARIN AĞIRLIĞI
+SINAVLARIN SÜRELERİ
+KONU AĞIRLIKLARI
+MATEMATİK
+Klasik
+%60 Yazılı
+%40 Sözlü
+Yazılı 150 dk.
+Sözlü en az 15, en fazla 30 dk
+%20 Analiz, %20 İleri Analiz, %20 Linear Cebir, %10 Reel Analiz, %10 Karmaşık Analiz, %10
+Soyut Cebir, %10 Diferansiyel Denklemler
+FİZİK
+Klasik
+%60 Yazılı
+%40 Sözlü
+Yazılı 150 dk.
+Sözlü en az 15, en fazla 30 dk
+%15 Genel Fizik, %25 Kuantum Fiziği /Mekaniği, %20 Elektromanyetik Teori, %20 İstatistiki
+Mekanik, %20 Klasik Mekanik
+KİMYA
+Çoktan Seçmeli
+%60 Yazılı
+%40 Sözlü
+Yazılı 150 dk.
+Sözlü 15 dk
+%25 Analitik Kimya, %25 Anorganik Kimya, %25 Fiziksel Kimya, %25 Organik Kimya
+İSTATİSTİK
+Çoktan Seçmeli (80 soru)
+%60 Yazılı
+%40 Sözlü
+Yazılı 150 dk.
+Sözlü 15 dk.
+Teorik İstatistik, Uygulamalı İstatistik, Hesaplamalı İstatistik
+BİYOLOJİK
+BİLİMLER
+Çoktan Seçmeli (80 soru)
+%60 Yazılı
+%40 Sözlü
+Yazılı 150 dk.
+Sözlü en az 15
+SINAV ALANLARI
+Biyoloji, Biyokimya ve Mikrobiyoloji
+
+BİYOLOJİ
+%20 Hücre Biyolojisi, %10 Ekoloji, %20 Fizyoloji, %10 Biyokimya, %10 Genetik, %10
+Mikrobiyoloji, %10 Bitki Biyolojisi, %10 Evrim
+
+BİYOKİMYA
+%10 Nükleik asitler yapı ve işlevleri, %20 Proteinler, %10 Enzimler, %10 Karbonhidratlar, %20
+Lipidler ve hücre zarları, %20 Karbonhidrat metabolizması ve biyoenerjisi, %10 Yağ asiti ve lipid
+metabolizması
+
+MİKROBİYOLOJİ
+%20 Mikrobiyal hücrelerinin yapı ve işlevleri, %10 Mikrobiyal hücrelerin metabolizması, %20
+Mikrobiyal hücrelerin genetiği, %10 Mikrobiyal hücrelerin büyümesi ve büyümenin kontrolü, %10
+Mikrobiyal kontrol sistemleri, %20 Endüstriyel mikrobiyoloji ve biyoteknoloji, %10 Mikrobiyal
+hücrelerin işlevsel ve metabolizma çeşitliliği

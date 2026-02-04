@@ -1,0 +1,45 @@
+Lisansüstü Programlara Yeni Kabul Edilen Öğrencilerin, ÖİDB Tarafından Kayıt Evrakları Onaylandıktan Sonra Yapacakları İşlemler
+ÖĞRENCİ KİMLİK KARTLARI
+Öğrenci kimlik kartı başvurusu için aşağıda bulunan bağlantıda yer alan bilgiler incelenerek, kimlik başvurusu yapılmalıdır.
+http://oidb.metu.edu.tr/tr/ogrenci-kimlik-kartlari
+ASKERLİK
+Lisansüstü programlarda askerlik sevk tehiri, ilgili kanun gereği ekle-sil kayıtlarından sonra yok-sis aracılığı ile otomatik yapılacaktır. Öğrenciler durumlarını “E-Devlet Kapısı” uygulaması üzerinden takip edebilirler.
+KATKI PAYI/ÖĞRENİM ÜCRETİ ÖDEMELERİ/MUAFİYET İŞLEMLERİ ve BANKA HESAP NUMARALARI
+Katkı payı/öğrenim ücreti miktarları, katkı payı/öğrenim ücreti muafiyeti ve banka hesap numaraları vb. bilgilere
+http://oidb.metu.edu.tr
+internet adresinden ulaşılabilir.
+Araştırma görevlisi kadrosuna atananlar, katkı payı/öğrenim ücretinden muafiyet işlemlerine ilişkin bilgiyi
+katkipayi@metu.edu.tr
+adresinden alabilirler.
+ETKİLEŞİMLİ KAYITLAR
+Öğrenci Numaraları:
+Lisansüstü programlara yeni kabul edilenler; evrak teslimlerine Öğrenci İşleri Daire Başkanlığı tarafından onay verildikten sonra, lisansüstü başvurusu yaptıkları çevrimiçi programa giriş yaparak “öğrenci numaralarını” öğrenebilirler.
+Katkı Payı/Öğrenim Ücreti:
+Katkı payı/öğrenim ücreti ödemesi yapması gereken öğrenciler; ödeme işlemi sırasında mutlaka banka görevlisine öğrenci numarasını bildirerek, banka dekontunun açıklama kısmına bu bilgiyi yazdırmaları gerekmektedir.
+Öğrenci Şifresi:
+Öğrenciler kullanıcı kodu ve şifrelerini
+https://useraccount.metu.edu.tr/
+adresindeki adımları izleyerek alabilirler. Üniversitemizden mezun olanların; ara vermeden lisansüstü programlara başlamaları halinde yeniden kullanıcı kodu ve şifre almalarına gerek yoktur. Eski kullanıcı kodu ve şifreleri geçerlidir.
+Akademik Danışman:
+Anabilim Dalı Başkanlıkları, lisansüstü programa kaydolan her öğrenciye ilk yarıyılından itibaren üniversite öğretim üyeleri veya görevlileri arasından bir akademik danışman atar. Tez danışmanı atandıktan sonra, tez danışmanı aynı zamanda akademik danışman görevini üstlenir. Akademik danışman/Tez danışmanı; öğrenciyi her yarıyılda alacağı derslerin seçiminde bilgilendirir ve yönlendirir.
+Etkileşimli Kayıt:
+Üniversitemizde etkileşimli kayıt işlemleri çevrimiçi olarak yapılmaktadır. Etkileşimli kayıtlar hakkında detaylı bilgiye aşağıda verilen linkten ulaşılabilir.
+https://oidb.metu.edu.tr/tr/etkilesimli-kayitlar
+Danışman Onayı:
+Öğrenciler etkileşimli kayıt tarihlerinde, akademik danışmanı/tez danışmanı ile görüşerek çevrimiçi olarak eklediği ders/dersleri onay almak üzere danışmanına gönderir. Danışman, öğrencilerin aldığı dersleri kontrol ederek danışman onayını çevrimiçi olarak verir. Danışman onayı ders ekleme-bırakma işlemleri için de aynı süreç izlenerek gerçekleştirilir.
+Öğrenci Belgesi:
+Lisansüstü programlara yeni kabul edilenlerden “Öğrenci Belgesi” almak isteyenler; kabul aldığı dönem için sistem üzerinden ders kaydını yaparak, danışman onayını aldıktan sonra
+https://student.metu.edu.tr/
+adresinden belge alabilirler.
+Ders Programı:
+Lisansüstü programlara yeni kabul edilenler kabul aldığı dönemin ders ekleme-bırakma ve danışman onayları süreci bittikten sonra
+https://student.metu.edu.tr/
+adresinde yer alan “Student Information (61)” nolu programdan “Ders Programını” alabilirler.
+Kayıt Yenileme:
+Öğrenciler yönetmelik gereği her dönem kayıtlarını yenilemek ile yükümlüdürler. Kayıt yenileme işlemi; katkı payı/öğrenim ücreti ödemesi, çevrimiçi ders ekleme ve çevrimiçi danışman onayından ibarettir. Bu işlemleri ilgili yılın akademik takviminde ilan edilen tarihlerde tamamlamayanlar veya yapmayanlar kayıtsız duruma düşerler.
+ODTÜ Lisansüstü Eğitim-Öğretim Yönetmeliği:
+Öğrenciler bu yönetmeliği takip etmekle yükümlüdürler. Yönetmeliğe aşağıdaki bağlantı linkinden ulaşılabilir.
+http://oidb.metu.edu.tr/tr/yonetmelikler
+Öğrenciler akademik durumlarını Öğrenci İşleri Bilgi Sistemi (ÖİBS) programlarından takip etmekle yükümlüdürler.
+Son güncelleme
+03/12/2025 - 15:24

@@ -1,0 +1,4290 @@
+--- Page 1 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 1
+KOS
+1.1.1
+Süreç
+akışları,
+prosedürler
+ve
+talimatlar
+geliştirilen
+otomasyonlar
+doğrultusunda
+güncellenecektir.
+Kalite Yönetim
+Birimi
+Süreç Akışları,
+Prosedürer,
+Talimatlar
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Mevcut
+durumun
+standardı
+karşılayabilmesi
+için
+öngörülen
+eylemin
+yerine
+getirilmesi
+sağlanacaktır.
+KOS
+1.1.2
+Periyodik toplantılar yapılarak yeni eklenen iş
+süreçleriyle ilgili dokümantasyon yapılacaktır.
+Kalite Yönetim
+Birimi
+Süreç Akışları,
+Prosedürer,
+Talimatlar
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Mevcut
+durumun
+standardı
+karşılayabilmesi
+için
+öngörülen
+eylemin
+yerine
+getirilmesi
+sağlanacaktır.
+KOS
+1.1.3
+Yıllık hazırlanan eğitim planlarına iç kontrol
+sistemi ve işleyişi dahil edilecektir.
+Kalite Yönetim
+Birimi
+Eğitim Planları,
+Eğitim Katılım
+Formu, Personel
+Eğitim Kartı
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen eylemin 2026 yılında
+başlatılması planlanmaktadır ve bu
+eylem süreklilik arz etmektedir.
+KOS
+1.1.4
+ISO 9001 Kalite Yönetim Sistemi ve ISO 27001
+Bilgi Güvenliği Yönetim Sistemi sürdürülmeye
+devam edilecek, bu kapsamda iç denetimler
+devam edecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Denetim
+Raporları, ISO
+9001 ve ISO
+27001
+Sertifikaları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Mevcut
+durumun
+standardı
+karşılayabilmesi
+için
+öngörülen
+eylemin
+yerine
+getirilmesi
+sağlanacaktır.
+KOS
+1.1.5
+ISO 9001 Kalite Yönetim Sistemi ve ISO 27001
+Bilgi Güvenliği Yönetim Sistemi iç denetimleri
+için
+personele
+denetçi
+eğitimleri
+aldırılarak
+denetçi grupları genişletilecek, böylece personel
+arasında farkındalık artırılacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Eğitim Planları,
+Eğitim Katılım
+Formu, Personel
+Eğitim Kartı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Bu
+uygulamaya
+2023
+yılında
+başlanmıştır ve devam edilecektir.
+1- KONTROL ORTAMI
+*  Gözetim ve denetim mekanizmaları yıllık planlanan iç ve dış
+denetimlerle işletilmektedir.
+* ISO 9001 Kalite Yönetim Sistemi ve ISO 27001 Bilgi
+Güvenliği Yönetim Sistemi etkin bir şekilde sürdürülmektedir.
+KOS 1.1
+Etik Değerler Ve Dürüstlük: Personel davranışlarını belirleyen kuralların personel tarafından bilinmesi sağlanmalıdır.
+* 5018 Sayılı Kamu Mali Yönetim ve Kontrol Kanunu Ve İlgili Mevzuat
+* 4734 Sayılı Kamu İhale Kanunu ve İlgili Mevzuat
+* 5176 Sayılı Kamu Görevlileri Etik Kurulu Kurulması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+* 657 Sayılı Devlet Memurları Kanunu
+* 2531 Sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları İşler Hakkında Kanun * 3628 Sayılı Mal Bildiriminde Bulunulması Rüşvet ve Yolsuzluklarla Mücadele Kanunu
+* Kamu Görevlileri Etik Davranış İlkeleri İle Başvuru Usul ve Esasları Hakkında Yönetmelik
+* Kamu Görevlileri Etik Rehberi
+* Konuya İlişkin Başbakanlık Genelgeleri
+* Kamu Görevlileri Etik Kurulu İlke Kararları
+İç kontrol sistemi ve işleyişi
+yönetici ve personel
+tarafından sahiplenilmeli ve
+desteklenmelidir.
+* ÖİDB personelinde görev yapan herkes için görev, yetki ve
+sorumluluklar
+GYS
+(Görev,
+Yetki
+ve
+Sorumluluklar)
+dokümanları ile tanımlanmıştır.
+* Yeni başlayan personele görev, yetki ve sorumlulukları bu
+dokümanla tebliğ edilmektedir. İş tanımında bir değişiklik
+olduğunda güncellenen doküman yine ilgili personele tebliğ
+edilmektedir.
+* ÖİDB iş süreçleri Kalite Yönetim Sistemi kapsamında iş akış
+şemaları, prosedür ve talimatlarla tanımlanmıştır.
+* İş süreçleri ile ilgili dokümanlar personelin erişimine açık olan
+ortak paylaş dosyasından paylaşılmaktadır.
+* Harcama birimimiz tarafından ödeneklerin etkili, ekonomik ve
+verimli
+bir
+şekilde
+yerinde
+ve
+zamanında
+kullanılması
+sağlanmakta; harcama talimatlarının mevzuata uygun olması,
+giderlerin gerçek gereksinimin karşılığı olması, amaca uygun
+nitelikte mal ve hizmet temin edilmesi sağlanmaktadır.
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+
+--- Page 2 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS
+1.2.1
+Yönetim
+gözden
+geçirme
+toplantılarının
+yapılmasına
+ve
+raporların
+üst
+yönetimle
+paylaşılmasına devam edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Toplantı
+Tutanakları,
+YGG
+Değerlendirme
+Raporu
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Mevcut
+durumun
+standardı
+karşılayabilmesi
+için
+öngörülen
+eylemin
+yerine
+getirilmesi
+sağlanacaktır.
+KOS
+1.2.2
+Yöneticilerle
+yapılan
+iç
+kontrol
+sistemi
+değerlendirmelerinin
+tabana
+yayılması
+planlanmaktadır.Bu doğrultuda personelle de
+benzer değerlendirme ve paylaşım toplantıları
+düzenlenecektir.
+ÖİDB Yönetimi
+Tüm Birimler
+Toplantı
+Tutanakları,
+Toplantı
+Raporları
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen eylemin 2026 yılında
+başlatılması planlanmaktadır ve bu
+eylem süreklilik arz etmektedir.
+KOS
+1.3.1
+Dış Kaynaklı ve Yardımcı Doküman Takip
+Listesi üzerinden mevzuat güncellemeleri takip
+edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+Dış Kaynaklı ve
+Yardımcı
+Doküman Takip
+Listesi
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS
+1.3.2
+Etik
+ile
+ilgili
+eğitimler
+hem
+PDB
+Eğitim
+Koordinatörlüğü
+hem
+de
+CBİKO
+Uzaktan
+Eğitim Kapısı platformu üzerinden verilmeye
+devam edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi, PDB
+Eğitim
+Koordinatörlüğ
+ü
+Eğitim Planları,
+Eğitim Katılım
+Formu, Personel
+Eğitim Kartı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS 1.2
+İdarenin yöneticileri iç
+kontrol sisteminin
+uygulanmasında personele
+örnek olmalıdır.
+KOS 1.3
+Etik kurallar bilinmeli ve tüm
+faaliyetlerde bu kurallara
+uyulmalıdır.
+* Birimimiz faaliyetleri yerine getirilirken anayasaya, kanunlara,
+tüzüklere, yönetmeliklere,  genelgelere, yönergelere vb.
+mevzuata uygun olarak hareket edilmektedir.
+* Bu mevzuatlar Dış Kaynaklı ve Yardımcı Doküman Takip
+Listesi üzerinden takip edilmekte, yeni çıkan veya güncellenen
+mevzuatlar kayıt altına alınmaktadır.
+* ÖİDB'nin misyon, vizyon ve temel değerleri belirlenirken
+evrensel etik değerlere uygunluk vurgusu yapılmış, bu değerler
+web sayfamızda kalite politikamız kapsamında da kamuyla
+paylaşılmıştır.
+* Yeni göreve başlayan personele etik kurallar oryantasyon
+programı kapsamında anlatılmaktadır.
+* CBİKO Uzaktan Eğitim Kapısı platformu üzerinden etikle ilgili
+sunulan eğitimleri tüm personelimiz tamamlamıştır.
+* 2024 yılı Aralık ayında PDB Eğitim Koordinatörlüğü
+tarafından düzenlenen "Kamu Görevlileri Etik Davranış İlkeleri
+Eğitimi"ne ilgili personelin katılımı sağlanmış ve bu eğitimler
+personel eğitim kartlarına işlenmiştir.
+* ÖİDB yöneticileri iç kontrol sisteminin uygulanmasında gerekli
+sorumluluğu alarak çalışmaları organize eder, personele gerekli
+bilgilendirmeleri yapar ve süreçleri takip eder.
+* ÖİDB yöneticileri yönetim gözden geçirme toplantılarında iç
+kontrol sistemini değerlendirir ve bu değerlendirme sonuçlarını
+kendi çalışanları ile paylaşır.
+* Yönetim gözden geçirme toplantı raporları üst yönetim ile de
+paylaşılır.
+* ÖİDB yönetimi başta kendi olmak üzere denetim süreçlerine
+dahil olur ve bu süreçlere öncülük eder.
+* ÖİDB yönetimi kendi süreçleriyle ilgili periyodik olarak üst
+yönetime toplantılar, raporlar ve bilgi notları ile bilgilendirmede
+bulunur.
+* ÖİDB yönetimi iç kontrol sisteminin uygulanması için görev
+dağılımını yapar ve çalışanların bu kapsamda ihtiyaçlarını
+gözetir.
+
+--- Page 3 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 1.4
+Faaliyetlerde dürüstlük,
+saydamlık ve hesap
+verebilirlik sağlanmalıdır.
+* Birimimizin harcama süreçleri Satın Alma Prosedürü ile
+tanımlanmıştır.
+* Birimimiz satın alma sorumlusu ve taşınır kayıt yetkilisi
+yönetim tarafından belirlenmiş ve görev, yetki ve sorumlulukları
+tanımlanarak kendisine tebliğ edilmiştir.
+* Harcama birimimiz EKAP, Bütçe Portal, TKYS, HYS gibi
+elektronik ortamlarda ihale ve harcama süreçlerini yürütmekte ve
+bu süreçler bu platformlarda kayıt altında tutulmaktadır.
+* Harcama birimimiz yönetimle birlikte öncelikli ihtiyaçları
+belirleyerek kaynakların etkin kullanımına yönelik planlama
+yapmaktadır.
+* Bütçe giderleri tablosu ÖİDB Faaliyet Raporunda  her yıl yer
+almakta ve web sayfamızda yayımlanmaktadır.
+Mevcut durum makul güvence
+sağladığı için eylem
+öngörülmemiştir.
+KOS
+1.5.1
+Yıllık memnuniyet anketlerinin uygulanmasına
+ve anket sonuçlarında iyileştirme çalışmalarının
+planlanmasına devam edilecektir.
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Öngürülen
+eylem
+yerine
+getirilmektedir.
+KOS
+1.5.2
+Online
+belge
+ve
+hizmetlerle
+ilgili
+anlık
+memnuniyet ölçen pop-up bir puanlama sistemi
+uygulanacaktır.
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Öngürülen
+eylem
+yerine
+getirilmektedir.
+KOS
+1.5.3
+Fiziki
+koşulların
+iyileştirilmesiyle
+ilgili
+üst
+yönetimle birlikte çalışılmaya devam edilecektir.
+ÖİDB Yönetimi
+Üst Yönetim
+Raporlar,
+Toplantı
+Tutanakları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS
+1.5.4
+Yeterli
+iş
+gücü
+sağlandığı
+takdirde
+insan
+kaynakları birimi kurulacaktır.
+ÖİDB Yönetimi
+Üst Yönetim
+Raporlar,
+Organizasyon
+Şeması
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Öngörülen
+eylem
+için
+uygun
+koşulların oluşturulması hususunda
+çalışmalara devam edilecektir.
+KOS 1.5
+İdarenin personeline ve
+hizmet verilenlere adil ve eşit
+davranılmalıdır.
+Anket Sonuçları,
+Hedef Takip
+Formu
+* Öğrenci İşleri Daire Başkanlığı tarafından sunulmakta olan
+hizmetlerle ilgili gerek öğrencilerin gerek ODTÜ idari ve
+akademik personelinin, gerekse ÖİDB bünyesinde hizmet
+vermekte olan personelin memnuniyet düzeyini ölçmek, sunulan
+hizmetleri iyileştirmek ve potansiyel sorunların önüne
+geçebilmek amacıyla her yıl bu üç farklı grup için ayrı ayrı anket
+uygulanmaktadır. Anket sonuçları Yönetim Gözden Geçirme
+toplantısında değerlendirilmekte ve bu değerlendirme sonucunda
+iyileştirme çalışmaları planlanmaktadır.
+* Öğrenci İşleri Daire Başkanlığının webform aracılığıyla bir
+dilek/şikayet/öneri platformu bulunmakta ve bu form aracılığıyla
+geri bildirim alınmaktadır.
+* ÖİDB yönetimi personeli ile açık iletişim kurabilmesini
+önemsemekte ve bu doğrultuda çalışmalar yürütmektedir.
+Personelden fiziki koşullarla ilgili gelen geri bildirimler
+doğrultusunda üst yönetime bu konuyla ilgili bir sunum
+yapılmıştır ve çalışanların koşullarının iyileştirilmesi ile ilgili
+önerilerini de yönetimle paylaşmıştır.
+Kalite Yönetim
+Birimi, Bilgi
+Sistemi
+Koordinatörlüğü
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+Mevcut durum makul güvence
+sağladığı için eylem
+öngörülmemiştir.
+1.6
+İdarenin faaliyetlerine ilişkin
+tüm bilgi ve belgeler doğru,
+tam ve güvenilir olmalıdır.
+* Birimimiz; bilgi varlıklarının gizlilik, bütünlük ve erişilebilirlik
+kapsamında
+tüm
+tehditlerden
+korunması
+doğrultusunda
+ODTÜ'nün ISO 27001 kapsamına dahil edilmiş ve BİDB
+öncülüğünde
+Bilgi
+Güvenliği
+Yönetim
+Sistemi
+(BGYS)
+sertifikası almıştır. Bu doğrultuda her yıl iç denetimde görev
+almakta ve yıllık gözetim ve sertifikasyon denetimleriyle bu
+sistemi ve sertifikasyonu sürdürmektedir.
+* ÖİDB varlık envanteri BGYS üzerinden takip edilmekte ve
+yıllık olarak güncellenmektedir.
+*
+Mevzuat
+ve
+uygulama
+değişiklikleri/güncellemeleri
+web
+sayfamız aracılığıyla duyurulmaktadır.
+* METUSIS üzerindeki rol tanımlamaları ile kullanıcı bazında
+erişim kısıtı bulunmaktadır.
+
+--- Page 4 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 2
+KOS 2.1
+İdarenin misyonu yazılı olarak
+belirlenmeli, duyurulmalı ve
+personel
+tarafından
+benimsenmesi sağlanmalıdır.
+ÖİDB'nin misyon, vizyon ve temel değerleri KYS (Kalite
+Yönetim Sistemi) kapsamında belirlenmiş ve web sayfasında
+yayınlamıştır. Ayrıca ofislerde asılı bulunmaktadır.
+KOS
+2.1.1
+Misyon, vizyon ve temel değerlerde güncelleme
+yapıldığında web sayfası ve kalite yönetim
+sisteminde ilgili dokümanlar güncellenecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+KYS
+Dokümanları,
+web sayfası
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS 2.2
+Misyonun gerçekleştirilmesini
+sağlamak üzere idare birimleri
+ve
+alt
+birimlerince
+yürütülecek
+görevler
+yazılı
+olarak
+tanımlanmalı
+ve
+duyurulmalıdır.
+Üniversitemizin 2023-2027 Stratejik Planı kapsamında ÖİDB'nin
+birim hedefleri belirlenmiştir. Faaliyet görevleri ve performans
+göstergeleri SKYBIS'e tanımlanmış ve 6 aylık periyotlarla veri
+girişleri yapılmaktadır.
+KOS
+2.2.1
+SKYBIS
+üzerinden
+performans
+değerlendirmelerine ve veri girişlerine devam
+edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Faaliyet
+Raporları,
+SKYBIS
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Öngörülen
+eylem
+yerine
+getirilmektedir.
+KOS 2.3
+İdare birimlerinde personelin
+görevlerini ve bu görevlere
+ilişkin
+yetki
+ve
+sorumluluklarını
+kapsayan
+görev
+dağılım
+çizelgesi
+oluşturulmalı
+ve
+personele
+bildirilmelidir.
+Öğrenci
+İşleri
+Daire
+Başkanlığının
+organizasyon
+şeması
+kapsamında çalışanların görev, yetki ve sorumlulukları GYS
+dokümanları ile ayrıntılı olarak tanımlanmıştır. Görevi yetki ve
+sorumluluklar ilgili kişilere yazılı olarak bildirilmiş olup bütün
+çalışanların erişimine açık bir şekilde kayıt altında tutulmaktadır.
+KOS
+2.3.1
+Organizasyon
+şeması
+değişikliklerinde
+yeni
+görev tanımlamaları yapıldığında bu dokümanlar
+güncellenecek ve ilgili kişilere tebliğ edilecektir.
+Ayrıca, göreve yeni başlayan personele de bu
+bildirimlerin yapılmasına devam edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Organizasyon
+Şeması, Görev,
+Yetki ve
+Sorumluluk
+Dokümanları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS 2.4
+İdarenin ve birimlerinin
+teşkilat şeması olmalı ve buna
+bağlı olarak fonksiyonel görev
+dağılımı belirlenmelidir.
+ÖİDB'nin organizasyon şeması güncel bir şekilde web sayfasında
+yayımlanmaktadır.
+Ayrıca
+ÖİDB
+içindeki
+ortak
+paylaşta
+çalışanların erişimine açıktır.
+KOS
+2.4.1
+Organizasyon
+şeması
+periyodik
+aralıklarla
+gözden geçirilecek,
+değişiklikler varsa ilgili
+dokümanlar
+güncellenerek
+personele
+duyurulacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Organizasyon
+Şeması, web
+sayfası.
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+Misyon, Organizasyon Yapısı Ve Görevler: İdarelerin misyonu ile birimlerin ve personelin görev tanımları yazılı olarak belirlenmeli, personele duyurulmalı ve idarede uygun bir organizasyon yapısı oluşturulmalıdır.
+* 3046 Sayılı Bakanlıkların Kuruluş ve Görev Esasları Hakkında Kanun
+* 217 Sayılı Devlet Personel Başkanlığı Kuruluş ve Görevleri Hakkında KHK
+* İdarelerin Teşkilat Yapılarını Düzenleyen Mevzuat
+* Kamu İdareleri İçin Stratejik Planlama Kılavuzu
+
+--- Page 5 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 2.5
+İdarenin ve birimlerinin
+organizasyon yapısı, temel
+yetki ve sorumluluk dağılımı,
+hesap verebilirlik ve uygun
+raporlama ilişkisini gösterecek
+şekilde olmalıdır.
+ÖİDB'nin yetki ve sorumluluk dağılımı organizasyon yapısı
+dahilinde belirlenmiş ve EBYS ve METUSIS gibi elektronik
+ortamlarda da bu organizasyon yapısına göre yetki ve roller
+tanımlanmıştır.
+Bu
+doğrultuda
+yapılan
+uygulamalar
+hesap
+verilebilirlik çerçevesinde yürütülmekte ve yöneticiler tarafından
+takip edilemktedir.
+Mevcut
+durum
+makul
+güvence
+sağladığı
+için
+eylem
+öngörülmemiştir.
+KOS 2.6
+İdarenin
+yöneticileri,
+faaliyetlerin
+yürütülmesinde
+hassas
+görevlere
+ilişkin
+prosedürleri
+belirlemeli
+ve
+personele duyurmalıdır.
+Birimimizde yürütülmekte olan tüm görevler tanımlanmış fakat
+hassas görevler için ek bir çalışma yapılmamıştır.
+KOS
+2.6.1
+Hassas
+görevlere
+ilişkin
+prosedürler
+hazırlanacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Hassas Görevler
+Tablosu
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen eylemin 2026 yılında
+başlatılması planlanmaktadır ve bu
+eylem süreklilik arz etmektedir.
+KOS 2.7
+Her
+düzeydeki
+yöneticiler
+verilen görevlerin sonucunu
+izlemeye
+yönelik
+mekanizmalar oluşturmalıdır.
+Birimimizde resmi yazışmalar ve akademik birimlerimizden
+gelen
+kararlar
+Elektronik Belge
+Yönetim Sistemi
+(EBYS)
+üzerinden izlenmektedir. ÖİDB içi birimlerin ve ÖİDB'nin genel
+e-posta listeleri bulunmakta ve yöneticiler bu listeler üzerinden iş
+takibi yapmaktadırlar. Bunun dışında yıılık planlanan çalışmalar
+Hedef Takip Formu ile 6 aylık periyotlarla takip edilmekte,
+yönetim
+gözden
+geçirme
+toplantılarında
+bu
+hedeflerin
+gerçekleşme durumları değerlendirilmektedir.
+KOS
+2.7.1
+EBYS ve e-posta listeleri üzerinden iş takibi
+yapılmaya devam edilecektir. Hedefler 6 aylık
+periyotlarla görüşülmeye devam edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+Hedef Takip
+Formu, e-posta
+listeleri, EBYS
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+
+--- Page 6 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 3
+KOS 3.1
+İnsan
+kaynakları
+yönetimi,
+idarenin amaç ve hedeflerinin
+gerçekleşmesini
+sağlamaya
+yönelik olmalıdır.
+Üniversitemizin 2023-2027 Stratejik Planı ve ÖİDB'nin yıllık
+hedefleri
+kapsamında
+personel
+sayısı
+ve
+yetkinliğinin
+artırılmasına
+yönelik
+politikalar
+oluşturulmaktadır.
+Personel
+yetkinliğini artırmak için eğitim planları oluşturulmakta ve
+personelin eğitim kayıtları tutulmaktadır. Değişen mevzuat ve
+işleyiş koşullarına göre insan kaynağı yönetimi yapılmaktadır.
+Planlama dışında gelişen akut işler için iş planları oluşturulmakta
+ve uygulanmaktadır.
+KOS
+3.1.1
+Arşivin dijitalleştirilmesi konusunda yeni bir iş
+planı yapılacaktır. Bu konuda insan kaynağı ve
+iş bölümü planlaması yapılacaktır.
+ÖİDB Yönetimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+İş Planları  ve
+Raporlar
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen eylemin 2026 yılında
+başlatılması planlanmaktadır ve bu
+eylem süreklilik arz etmektedir.
+KOS
+3.2.1
+Personelin
+dil
+kursuna
+katılımı
+teşvik
+edilecektir.
+ÖİDB Yönetimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+Toplantı
+Tutanakları,
+Yazışmalar
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen eylemin 2026 yılında
+başlatılması planlanmaktadır ve bu
+eylem süreklilik arz etmektedir.
+KOS
+3.2.2
+Müdürlük
+ve
+koordinatörlüklerden
+eğitim
+talepleri
+toplanacak
+ve
+personelin
+bilgi
+ve
+becerisinin artırılması gereken konular tespit
+edilerek eğitim planlaması yapılacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi, PDB
+Eğitim
+Koordinatörlüğ
+ü
+Eğitim Planları,
+Eğitim Katılım
+Formu, Personel
+Eğitim Kartı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS
+3.2.3
+Erasmus+
+programı
+ile
+yurt
+dışına
+giden
+personelimizin bilgi ve deneyimlerini çalışma
+arkadaşlarına aktarması için sunumlar organize
+edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+Sunum
+Materyalleri,
+Yazışmalar
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Mevcut
+durumun
+genel
+şartı
+karşılayabilmesi
+için
+öngörülen
+eylemin
+yerine
+getirilmesi
+sağlanacaktır.
+Personelin Yeterliliği Ve Performansı: İdareler, personelin yeterliliği ve görevleri arasındaki uyumu sağlamalı, performansın değerlendirilmesi ve geliştirilmesine yönelik önlemler almalıdır.
+* 657 Sayılı Devlet Memurları Kanunu
+* 2914 Sayılı Yükseköğrenim Personel Kanunu
+* Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Yönetmelik
+* Özürlülerin Devlet Memurluğuna Alınma Şartları İle Yapılacak Yarışma Sınavları Hakkında Yönetmelik
+* Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik
+* Yetiştirilmek Amacıyla Yurtdışına Gönderilecek Devlet Memurları Hakkında Yönetmelik
+* Yükseköğretim Üst Kuruluşları İle Yükseköğretim Kurumları Personeli Görevde Yükselme Ve Ünvan Değişikliği Yönetmeliği
+KOS 3.2
+İdarenin yönetici ve personeli
+görevlerini etkin ve etkili bir
+şekilde yürütebilecek bilgi,
+deneyim ve yeteneğe sahip
+olmalıdır.
+Birimimiz idari personel istihdamında, gerek sayı gerekse nitelik
+belirlenmesinde yetki kullanamamaktadır. Bu nedenle yeni
+başlayan personelin oryantasyonu uzun sürmektedir. Hizmetiçi
+eğitimlerle yönetici ve personelin yetkinlikleri artırılmaktadır.
+Ayrıca idari personelin İngilizce bilmesi konusunda
+Üniversitemizin dil kursu desteği bulunmaktadır. Personelin
+Erasmus+ programı ile yurt dışındaki üniversitelerin de iş
+süreçlerini ve sistemlerini deneyimlemesi ve kendi birimi ile bu
+deneyimleri paylaşması desteklenmektedir.
+
+--- Page 7 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 3.3
+Mesleki
+yeterliliğe
+önem
+verilmeli ve her görev için en
+uygun personel seçilmelidir.
+Mesleki
+yeterliliğe verilen önem kapsamında yıllık eğitim
+planları yapılmaktadır. Birim içi değişen mevzuet koşulları ve
+uygulamalarla ilgili eğitimler düzenlenmektedir. Ayrıca PDB'nin
+düzenlediği eğitimlere katılım sağlanmaktadır. Tüm akademik ve
+idari personelimiz Cumhurbaşkanlığı İnsan Kaynakları Ofisi
+Uzaktan Eğitim Kapısı sistemine tanımlanmış, belirlenen eğitim
+programlarına
+katılım
+sağlamaktadırlar.
+Tüm
+eğitimlerde
+personelin katılım durumları takip edilmekte ve personel eğitim
+kartlarına bu eğitimler işlenmektedir.
+KOS
+3.3.1
+Verilen eğitimlerin etkinliği yöneticiler veya
+eğitimi
+veren
+kişiler
+tarafından
+değerlendirilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+Eğitim Katılım
+Formu
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS 3.4
+Personelin
+işe
+alınması
+ile
+görevinde
+ilerleme
+ve
+yükselmesinde liyakat ilkesine
+uyulmalı
+ve
+bireysel
+performansı
+göz
+önünde
+bulundurulmalıdır.
+Personelin işe alımı kanunlar çerçevesinde yapılmaktadır. ÖİDB
+yönetimi yeni işe başlayacak olan personelle görüşmeler yaparak
+ve
+önceki
+deneyimlerini
+gözden
+geçirerek
+görev
+tanımını
+oluşturur.
+İdari
+personelin
+görevinde
+ilerlemesi
+ve
+yükselmesinde ilgili mevzuat yanısıra liyakat, kişisel gelişime
+verdiği önem, görevinde gösterdiği performans, temsil yeteneği
+gibi kriterler göz önüne alınmaktadır.
+KOS
+3.4.1
+Personelin
+bireysel
+gelişimini
+destekleyici
+(eğitim,
+görevde
+yükselme,
+teşvik
+mekanizmaları,
+vb.)
+uygulamalara
+devam
+edilecektir.
+ÖİDB Yönetimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+Eğitim
+Dokümanları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylem
+yerine
+getirilmekte
+olup
+devamı
+sağlanacaktır
+KOS
+3.5.1
+Yönetim Gözden Geçirme toplantılarında yıllık
+eğitim planları yapılmaya devam edilecek ve
+eğitimlerin
+etkinliği
+yöneticilerle
+birlikte
+değerlendirilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Eğitim Planları,
+Eğitim Katılım
+Formu, Personel
+Eğitim Kartı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS
+3.5.2
+ÖİDB içerisindeki farklı birimlerin birbirinden
+öğrenme süreci teşvik edilecek ve her birimin
+kendi
+süreçleriyle
+ilgili
+diğer
+birimlerdeki
+personele kısa bir eğitim vermesi sağlanacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Eğitim Planları,
+Eğitim Katılım
+Formu, Personel
+Eğitim Kartı
+2026 yılı
+Bu
+uygulamanın
+2025
+yılı
+içerisinde
+yapılması
+hedeflenmektedir.
+KOS 3.5
+Her görev için gerekli eğitim
+ihtiyacı belirlenmeli, bu
+ihtiyacı giderecek eğitim
+faaliyetleri her yıl planlanarak
+yürütülmeli ve gerektiğinde
+güncellenmelidir.
+ÖİDB personelinin mesleki yeterliliğini artırmak ve değişen
+mevzuata uyumunu sağlamak amacıyla her yıl yıllık eğitim planı
+hazırlanmaktadır. Bunun dışında PDB'nin düzenlediği eğitimlere
+ve Cumhurbaşkanlığı İnsan Kaynakları Ofisi Uzaktan Eğitim
+Kapısı üzerinden tanımlanan eğitimlere ilgili personelimiz
+tarafından katılım sağlanmakta ve katılımları takip edilmektedir.
+Alınan eğitimler tüm personelin eğitim kartlarına işlenmektedir.
+
+--- Page 8 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 3.6
+Personelin
+yeterliliği
+ve
+performansı
+bağlı
+olduğu
+yöneticisi
+tarafından
+en
+az
+yılda bir kez değerlendirilmeli
+ve
+değerlendirme
+sonuçları
+personel ile görüşülmelidir.
+Birimimizde personelin yeterliliği ve performansı bağlı olduğu
+yönetici tarafından değerlendirilmekte fakat bu değerlendirmeler
+yıllık bir program ya da sistematik dahilinde yürütülmemektedir.
+Anket sonuçlarından gelen geri bildirimlere göre de personelle
+bire bir görüşmeler düzenlenmektedir.
+KOS
+3.6.1
+Personelin
+yeterliliğinin
+ve
+performansının
+değerlendirilmesi
+adına
+yıllık
+toplantılar
+düzenlenecektir.
+ÖİDB Yönetimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+Toplantı
+Tutanakları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylem
+yerine
+getirilecektir.
+KOS
+3.7.1.
+Performansı düşük olan personel için eğitim
+programları
+düzenlenerek,
+yetersiz
+alanların
+güçlendirilmesi sağlanacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi
+Eğitim Planları,
+Eğitim Katılım
+Formu, Personel
+Eğitim Kartı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS
+3.7.2
+Üniversitemiz idari personelinin çalışmalarını
+desteklemek amacıyla ODTÜ Turan Başkan
+Üstün
+Hizmet,
+Hizmet
+ve
+Teşvik
+Ödülleri
+verilmeye devam edilcektir.
+ÖİDB Yönetimi
+Üst Yönetim
+Yazışmalar
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Öngörülen
+eylem
+yerine
+getirilecektir.
+KOS 3.8
+Personel
+istihdamı,
+yer
+değiştirme,
+üst
+görevlere
+atanma,
+eğitim,
+performans
+değerlendirmesi, özlük hakları
+gibi
+insan
+kaynakları
+yönetimine
+ilişkin
+önemli
+hususlar
+yazılı
+olarak
+belirlenmiş
+olmalı
+ve
+personele duyurulmalıdır.
+Personel istihdamı, üst görevlere atanma, eğitim ve performans
+değerlendirme ile ilgili kriterler 2547 Sayılı Yükseköğretim ve
+657 Sayılı Devlet Memurları Kanunu ve ilgili yönetmelikler
+gereği yapılmaktadır. İlgili kanun ve yönetmelikler Üniversitenin
+web sayfasında mevcuttur.
+KOS
+3.8.1
+İlgili mevzuatlar doğrultusunda üst yönetim ve
+PDB ile çalışmalara devam edilcektir.
+ÖİDB Yönetimi
+Üst Yönetim
+PDB
+İlgili Mevzuat
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylem
+yerine
+getirilecektir.
+KOS 3.7
+Performans değerlendirmesine
+göre performansı yetersiz
+bulunan personelin
+performansını geliştirmeye
+yönelik önlemler alınmalı,
+yüksek performans gösteren
+personel için ödüllendirme
+mekanizmaları
+geliştirilmelidir.
+Üniversitemizde akademik personel performans kriterleri göz
+önüne alınarak yılda bir kez değerlendirilmekte ve akademik
+teşvik verilmektedir. Ayrıca idari personelin çalışmalarını
+desteklemek amacıyla her yıl ODTÜ Turan Baskan Üstün
+Hizmet, Hizmet ve Teşvik Ödülleri verilmektedir.
+
+--- Page 9 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 4
+KOS 4.1
+İş akış süreçlerindeki imza ve
+onay mercileri belirlenmeli ve
+personele duyurulmalıdır.
+İş akış süreçlerinde imza ve onay mekanizmaları tanımlanmış ve
+personelin erişimine açık bir şekilde ortak paylaşım klasöründe
+tutulmaktadır. Yetkiler ve yetki devirleri ODTÜ Yetki Devri Ve
+İmza Yetki/Yetkilileri Yönergesi'nde tanımlanmış ve süreçler bu
+doğrultuda yürütülmektedir.
+KOS 4.1.1 Görev
+değişikliklerinde
+ilgili
+mevzuat
+doğrultusunda işlemlere devam edilecektir.
+İdare Amiri,
+ÖİDB Yönetimi
+ÖİDB
+Sekreterlik
+İş Akış Süreçleri,
+ODTÜ Yetki
+Devri Ve İmza
+Yetki/Yetkilileri
+Yönergesi,
+Duyurular
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KOS 4.2
+Yetki devirleri, üst yönetici
+tarafından belirlenen esaslar
+çerçevesinde
+devredilen
+yetkinin sınırlarını gösterecek
+şekilde
+yazılı
+olarak
+belirlenmeli
+ve
+ilgililere
+bildirilmelidir.
+Yazılı olarak belirlenen ve yetki sınırlarını gösteren devir yazıları
+ilgililere
+bildirilmektedir.
+ODTÜ
+Yetki
+Devri
+Ve
+İmza
+Yetki/Yetkilileri
+Yönergesi
+19.12.2017
+tarihinde
+çıkarılmıştır.Devredilen yetkinin önemi ve riski dikkate alınarak
+yetki devri yapılmaktdır.EBYS' de iç yazışmaya geçilmesiyle
+birlikte iç yazışmada e-imza yetkisi olan herkese elektronik
+imzaları
+verilmekte,
+süresi
+bitenlere
+yenileme
+işlemi
+yapılmaktadır. Yazılımlar rol tabanlı olarak geliştirilmekte ve
+yapılan faaliyetler loglanmaktadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından
+eylem
+öngörülmemiştir.
+KOS 4.3
+Yetki
+devri,
+devredilen
+yetkinin
+önemi
+ile
+uyumlu
+olmalıdır.
+Yetkiyi devralanın devredenin niteliklerini taşımasına dikkat
+edilmektedir.
+Mevcut
+durum
+makul
+güvence
+sağladığından
+eylem
+öngörülmemiştir.
+Yetki Devri: İdarelerde yetkiler ve yetki devrinin sınırları açıkça belirlenmeli ve yazılı olarak bildirilmelidir. Devredilen yetkinin önemi ve riski dikkate alınarak yetki devri yapılmalıdır.
+* 5018 Sayılı Kamu Mali Yönetim ve Kontrol Kanunu Ve İlgili Mevzuat
+* 2547 Sayılı Yükseköğretim Kanunu
+* 657 Sayılı Devlet Memurları Kanunu
+* 3046 Sayılı Bakanlıkların Kuruluş ve Görev Esasları Hakkında Kanun
+* 124 Sayılı Yükseköğretim Üst Kuruluşları ile Yükseköğretim Kurumlarının İdari Teşkilatı Hakkında Kanun Hükmünde Kararname
+
+--- Page 10 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KOS 4.4
+Yetki
+devredilen
+personel
+görevin
+gerektirdiği
+bilgi,
+deneyim ve yeteneğe sahip
+olmalıdır.
+İlgili mevzuat çerçevesinde, bilgi ve donanıma sahip personel
+arasından yetki devrinin yapılmasına dikkat edilmektedir.
+Mevcut
+durum
+makul
+güvence
+sağladığından
+eylem
+öngörülmemiştir.
+KOS 4.5
+Yetki
+devredilen
+personel,
+yetkinin
+kullanımına
+ilişkin
+olarak belli dönemlerde yetki
+devredene bilgi vermeli, yetki
+devreden
+ise
+bu
+bilgiyi
+aramalıdır.
+Bu bilgilendirmeler Faaliyet Raporları ve Yönetim Gözden
+Geçirme toplantıları aracılığıyla yapılmaktadır. Ayrıca her yıl
+yapılan 27001 ve 9001 iç ve dış denetimleri kapsamında
+hazırlanan raporlar da bu bilgilendirmelerin bir parçasıdır.
+KOS
+4.5.1
+Faaliyet Raporları ve Yönetim Gözden Geçirme
+toplantıları yapılmaya devam edilecek, ilgili
+mekanizmalarla bu bilgilendirmelerin yapılması
+sağlanacaktır.
+Bilgi Sistemi
+Koordinatörlüğü,
+Kalite Yönetim
+Birimi
+ÖİDB
+Yönetimi,
+Müdürlük ve
+Koordinatörlük
+ler
+Faaliyet
+Raporları,
+Toplantı
+Tutanakları,
+Denetim
+Raporları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+
+--- Page 11 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı Ve
+Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem Veya Eylemler
+Sorumlu
+Birim Veya
+Çalışma
+Grubu
+Üyeleri
+İşbirliği Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+RDS 5
+RDS 5.1
+İdareler, misyon ve vizyonlarını
+oluşturmak, stratejik amaçlar ve
+ölçülebilir hedefler saptamak,
+performanslarını ölçmek, izlemek
+ve değerlendirmek amacıyla
+katılımcı yöntemlerle stratejik
+plan hazırlamalıdır.
+
+Üniversitemizin 1 Ocak 2023 yılında
+yürürlüğe giren 2023-2027 Stratejik Planı
+kapsamında ÖİDB'nin birim amaç ve
+hedefleri SKYBIS üzerinde tanımlanmıştır.
+RDS
+5.1.1
+2023-2027
+Stratejik
+Planı
+kapsamında
+ÖİDB'nin birim amaç ve hedefleri SKYBIS
+üzerinden takip edilmeye devam edilecektir.
+Kalite
+Yönetim
+Birimi
+ÖİDB Yönetimi,
+Programlar ve
+İstatistik Birimi
+Faaliyet Raporları,
+Stratejik Plan
+Gösterge Raporları,
+SKYBIS yazılımı
+İlk Kontrol
+01.01.2023
+Öngörülen
+eylem
+yerine
+getirilmektedir.
+RDS 5.2
+İdareler, yürütecekleri program,
+faaliyet ve projeleri ile bunların
+kaynak
+ihtiyacını,
+performans
+hedef ve
+göstergelerini içeren
+performans
+programı
+hazırlamalıdır.
+ÖİDB'nin
+yıllık
+performans
+programı
+hazırlanmış olup her yıl faaliyet raporları ile
+kamuoyuna duyurulmaktadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından
+eylem
+öngörülmemiştir.
+RDS 5.3
+İdareler,
+bütçelerini
+stratejik
+planlarına
+ve
+performans
+programlarına
+uygun
+olarak
+hazırlamalıdır.
+Üniversitemiz bütçesi; her yıl stratejik plan
+ve performans programlarına uygun olarak
+hazırlanmaktadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından
+eylem
+öngörülmemiştir.
+RDS
+5.4.1
+ÖİDB'nin birim faaliyet görevleri ve performans
+göstergeleri SKYBIS üzerinden takip edilmeye
+devam edilecektir.
+Kalite
+Yönetim
+Birimi
+ÖİDB Yönetimi,
+Programlar ve
+İstatistik Birimi
+Faaliyet Raporları,
+Stratejik Plan
+Gösterge Raporları,
+SKYBIS yazılımı
+İlk Kontrol
+01.01.2023
+Öngörülen
+eylem
+yerine
+getirilmektedir.
+RDS
+5.4.2
+Stratejik planların yıl içinde gerçekleştirilme
+oranlarını
+gösteren
+raporlar
+ve
+performans
+kriterleri
+üst
+yönetimle
+birlikte
+değerlendirilmeye devam edilecektir.
+Kalite
+Yönetim
+Birimi
+ÖİDB Yönetimi,
+Üst Yönetim
+KYS Raporları,
+Faaliyet Raporları,
+Stratejik Plan
+Gösterge Raporları,
+SKYBIS yazılımı
+İlk Kontrol
+01.01.2023
+Öngörülen
+eylem
+yerine
+getirilmektedir.
+2- RİSK DEĞERLENDİRME
+Planlama Ve Programlama: İdareler, faaliyetlerini, amaç, hedef ve göstergelerini ve bunları gerçekleştirmek için ihtiyaç duydukları kaynakları içeren plan ve programlarını oluşturmalı ve duyurmalı, faaliyetlerinin plan ve
+programlara uygunluğunu sağlamalıdır.
+* 5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu
+* Bütçe Kanunu
+RDS 5.4
+Yöneticiler, faaliyetlerin ilgili
+mevzuat, stratejik plan ve
+performans programıyla
+belirlenen amaç ve hedeflere
+uygunluğunu sağlamalıdır.
+ÖİDB yönetimi faaliyetlerin ilgili mevzuat,
+stratejik plan ve performans programıyla
+belirlenen amaç ve hedeflere uygunluğunu
+sağlamak adına periyodik gözden geçirme
+toplantıları düzenler. Bu toplantı sonuçları
+raporlanarak ilgili yöneticilere iletilir.
+Ayrıca ÖİDB'nin birim faaliyet görevleri ve
+performans göstergeleri SKYBIS'e
+tanımlanmış ve 6 aylık periyotlarla takibi
+yapılmaktadır.
+
+--- Page 12 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı Ve
+Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem Veya Eylemler
+Sorumlu
+Birim Veya
+Çalışma
+Grubu
+Üyeleri
+İşbirliği Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+RDS 5.5
+Yöneticiler, görev alanları
+çerçevesinde idarenin hedeflerine
+uygun özel hedefler belirlemeli
+ve personeline duyurmalıdır.
+ÖİDB kendi görev alanı çerçevesinde yıllık
+hedefler belirleyerek Hedef Takip Formu
+üzerinden bu hedefleri takip etmektedir.
+Her yıl sonu yönetim gözden geçirme
+toplantısında hedeflerin gerçekleşme
+durumları görüşülmekte ve sonuçlar
+raporlanmaktadır. Bunun dışında stratejik
+plan doğrultusunda belirlenen amaç ve
+hedefler faaliyet raporunda
+yayımlanmaktadır.
+RDS
+5.5.1
+Birimimizde birim içi belirlenen yıllık hedefler
+6 aylık periyotlarla takip edilmektedir, bu takibe
+devam edilecektir. Ayrıca ÖİDB içi birimlerin,
+hedefleri
+kendi
+personelleriyle
+paylaşması
+sağlanacaktır.
+Kalite
+Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Hedef Takip Formu,
+KYS Raporları,  YGG
+Toplantı Tutanakları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylem
+yerine
+getirilecektir.
+RDS 5.6
+İdarenin
+ve
+birimlerinin
+hedefleri,
+spesifik,
+ölçülebilir,
+ulaşılabilir,
+ilgili
+ve
+süreli
+olmalıdır.
+Performans
+göstergeleri
+ile
+hedeflerin
+ölçülebilir
+olması
+sağlanmıştır.
+Ayrıca
+Hedef Takip Formunda hedeflerin ölçüm
+kriterleri,
+planlama
+ve
+gerçekleştirilme
+süreleri
+vb.
+gibi
+bilgilere
+de
+yer
+verilmektedir.
+Mevcut
+durum
+makul
+güvence
+sağladığından
+eylem
+öngörülmemiştir.
+
+--- Page 13 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı Ve
+Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem Veya Eylemler
+Sorumlu
+Birim Veya
+Çalışma
+Grubu
+Üyeleri
+İşbirliği Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+RDS 6
+RDS
+6.1.1
+ÖİDB yönetimi Risk Yönetim Planını her yıl
+değerlendirmeye
+ve
+güncellemeye
+devam
+edecektir.
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+RDS
+6.1.2
+Bilgi güvenliği kapsamında yapılan risk analizi
+alt süreçlerin de değerlendirmeye katılmasıyla
+tekrar ele alınacaktır.
+12.12.2025
+Daha etkin bir risk analizi için alt
+süreçlerin tanımlanması çalışmasına
+başlanmıştır.
+RDS
+6.1.3
+Kalite yönetim sistemi ile bilgi güvenliği riskleri
+ortak bir risk yönetim planında birlikte analiz
+edilecektir.
+12.12.2026
+2026
+yılında
+tamamlanması
+öngörülmektedir.
+RDS
+6.2.1
+Kalite yönetim sistemi kapsamında risk
+değişiklik bildirim formlarıyla risklerin tespit
+edilmesine devam edilecektir.
+Kalite
+Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+RDS
+6.2.2
+Bilgi güvenliği kapsamında yapılan risk
+analizinin değişen standart kapsamında BİDB
+ile birlikte güncellenmesi planlanmaktadır.
+Kalite
+Yönetim
+Birimi
+BİDB Bilgi
+Güvenliği Birimi
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+RDS
+6.3.1
+KYS kapsamında belirlenen riskler konusunda
+alınacak
+aksiyonlar
+risk analizi tablosunda
+değerlendirilmeye devam edilecektir.
+Kalite
+Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+RDS
+6.3.2
+Bilgi güvenliği kapsamında yapılan risk eylem
+planının değişen standart kapsamında BİDB ile
+birlikte güncellenmesi planlanmaktadır.
+Kalite
+Yönetim
+Birimi
+BİDB Bilgi
+Güvenliği Birimi
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+Risk Analizi Tablosu,
+Risk Bildirim
+Formları,
+BGYS Yazılımı,
+BGYS Risk Planı
+Risk Analizi Tablosu,
+BGYS Yazılımı,
+BGYS Risk Planı
+RDS 6.2
+Risklerin gerçekleşme olasılığı ve
+muhtemel etkileri yılda en az bir
+kez analiz edilmelidir.
+Kalite Yönetim Sistemi kapsamında riskler
+birim
+yöneticileriyle
+birlikte
+belirlenmektedir. Bilgi güvenliği riskleri de
+yine
+birim
+yöneticileriyle
+birlikte
+belirlenmekte, bu çalışma sonucunda BİDB
+ile görüşülerek tekrar değerlendirilmektedir.
+RDS 6.3
+Risklere karşı alınacak önlemler
+belirlenerek eylem planları
+oluşturulmalıdır.
+ÖİDB'nin KYS (Kalite Yönetim Sistemi) ve
+BGYS (Bilgi Güvenliği Yönetim Sistemi)
+kapsamında risk eylem planları mevcuttur.
+Risk Analizi Tablosu,
+BGYS Yazılımı,
+BGYS Risk Planı
+Risklerin Belirlenmesi Ve Değerlendirilmesi: İdareler, sistemli bir şekilde analizler yaparak amaç ve hedeflerinin gerçekleşmesini engelleyebilecek iç ve dış riskleri tanımlayarak değerlendirmeli ve alınacak önlemleri
+belirlemelidir.
+*5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu
+RDS 6.1
+İdareler,
+her
+yıl
+sistemli
+bir
+şekilde
+amaç
+ve
+hedeflerine
+yönelik riskleri belirlemelidir.
+ÖİDB
+kalite
+yönetim
+sistemi
+ve
+bilgi
+güvenliği kapsamında risklerini tanımlamış
+olup her yıl bu riskleri tekrar gözden
+geçirmektedir.
+Kalite
+Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+
+--- Page 14 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı
+Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem Veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+KFS 7
+KFS 7.1
+Her bir faaliyet ve riskleri için
+uygun
+kontrol
+strateji
+ve
+yöntemleri
+(düzenli
+gözden
+geçirme,
+örnekleme
+yoluyla
+kontrol,
+karşılaştırma,
+onaylama,
+raporlama,
+koordinasyon,
+doğrulama,
+analiz
+etme,
+yetkilendirme,
+gözetim, inceleme, izleme vb.)
+belirlenmeli
+ve
+uygulanmalıdır.
+ÖİDB'de
+uygun
+kontrol
+yöntemleri
+uygulanmaktadır
+bunlar
+iş
+akış
+şemalarıyla da tanımlanmıştır. Faaliyet
+görevleri
+ve
+performans
+göstergeleri
+SKYBIS üzerinden takip edilmektedir.
+Mevcut
+durum
+makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+KFS 7.2
+Kontroller,
+gerekli
+hallerde,
+işlem
+öncesi
+kontrol,
+süreç
+kontrolü
+ve
+işlem
+sonrası
+kontrolleri de kapsamalıdır.
+ÖİDB'de iş akış şemaları mevcuttur.
+KFS
+7.2.1
+İş akış şemaları ilgili birimlerle birlikte
+gözden geçirilip güncellenecektir.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+İş Akış Şemaları
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen eylemin 2026 yılında
+başlatılması
+planlanmaktadır ve
+bu
+eylem
+süreklilik
+arz
+etmektedir.
+KFS 7.3
+Kontrol faaliyetleri, varlıkların
+dönemsel
+kontrolünü
+ve
+güvenliğinin
+sağlanmasını
+kapsamalıdır.
+Taşınır
+Mal
+Yönetmeliği
+hükümleri
+çerçevesinde tüketim çıkışları raporları
+Taşınır Kayıt Sorumlusu tarafından her ay
+muhasebe
+birimine
+(SGDB)
+gönderilmektedir.
+Her
+yıl
+aralık
+ayı
+itibariyle
+taşınırların
+fiili
+sayımı
+yapılmakta; mevcutlar, TKYS kayıtları ve
+muhasebe
+kayıtları
+ile
+karşılaştırılmaktadır.
+KFS
+7.3.1
+Rutinde
+yürütülün
+bu
+çalışmalara
+devam edilecektir.
+TKYS Yetkilisi
+Harcama Yetkilisi,
+SGDB
+Tüketim Çıkış
+Raporları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arzettiğinden
+öngörülen
+eylem
+yerine
+getirilmekte
+olup
+devamı
+sağlanacaktır.
+KFS 7.4
+Belirlenen kontrol yönteminin
+maliyeti
+beklenen
+faydayı
+aşmamalıdır.
+Üniversitemizde
+kontroller,
+mevcut
+mevzuat
+hükümleri
+dahilinde
+yapılmaktadır.
+Mevcut
+durum
+makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+3- KONTROL FAALİYETLERİ
+Kontrol Stratejileri Ve Yöntemleri: İdareler, hedeflerine ulaşmayı amaçlayan ve riskleri karşılamaya uygun kontrol strateji ve yöntemlerini belirlemeli ve uygulamalıdır.
+*5018 Sayılı Kamu Mali Yönetimi Ve Kontrol Kanunu
+
+--- Page 15 ---
+KFS 8
+KFS 8.1
+İdareler, faaliyetleri ile mali
+karar
+ve
+işlemleri
+hakkında
+yazılı
+prosedürler
+belirlemelidir.
+Birimimiz, faaliyetleri ile ilgili mali karar
+ve işlemlerini mevcut yasal düzenlemelere
+göre
+belirlediği
+yazılı
+prosedürler
+çerçevesinde sürdürmektedir. Ayrıca satın
+alma
+ve
+mali
+süreçler
+prosedür
+ve
+talimatlarla tanımlanmıştır.
+KFS
+8.1.1
+Birim faaliyetleri ile mali karar ve
+işlemlerde hazırlanan yönergeler ve iç
+genelgeler
+çerçevesinde
+yazılı
+prosedürlerin
+uygulanmasına
+devam
+edilecektir.
+Satın
+alma
+ve
+mali
+süreçlere ilişkin dokümanlar periyodik
+olarak
+gözden
+geçirilecek
+ve
+gerektiğinde güncellenecektir.
+Satın Alma
+Birimi
+ÖİDB Yönetimi ve
+Kalite Yönetim
+Birimi
+Yazılı
+Uygulamalar,
+Dokümanlar
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Genel şart süreklilik arzettiğinden
+öngörülen
+eylem
+yerine
+getirilmekte
+olup
+devamı
+sağlanacaktır.
+KFS 8.2
+Prosedürler
+ve
+ilgili
+dokümanlar, faaliyet veya mali
+karar
+ve
+işlemin
+başlaması,
+uygulanması
+ve
+sonuçlandırılması
+aşamalarını
+kapsamalıdır.
+Birimimiz
+tarafından
+hazırlanan
+dokümanlar (prosedür, talimat ve formlar)
+mali
+karar
+ve
+işlemlerin
+başlaması,
+uygulanması
+ve
+sonuçlandırmasını
+kapsayacak şekilde tasarlanmıştır.
+KFS
+8.2.1
+İlgili
+dokümanlar
+periyodik
+olarak
+gözden geçirilip güncellemeler takip
+edilecek
+ve
+güncellemelerle
+ilgili
+personeller bilgilendirilecektir.
+Satın Alma
+Birimi
+ÖİDB Yönetimi ve
+Kalite Yönetim
+Birimi
+Yazılı
+Uygulamalar,
+Dokümanlar
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Genel şart süreklilik arzettiğinden
+öngörülen
+eylem
+yerine
+getirilmekte
+olup
+devamı
+sağlanacaktır.
+KFS 8.3
+Prosedürler
+ve
+ilgili
+dokümanlar, güncel, kapsamlı,
+mevzuata
+uygun
+ve
+ilgili
+personel
+tarafından
+anlaşılabilir
+ve
+ulaşılabilir
+olmalıdır.
+Birimimiz
+tarafından
+hazırlanan
+dokümanlar (prosedür, talimat ve formlar)
+ÖİDB ortak paylaşım klasöründen bütün
+personelin
+erişimine
+açıktır.
+Ayrıca
+güncellemeler e-posta listeleri aracılığıyla
+duyurulmaktadır.
+Mevcut
+durum
+makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+KFS 9
+KFS 9.1
+Her faaliyet veya mali karar ve
+işlemin
+onaylanması,
+uygulanması, kaydedilmesi ve
+kontrolü
+görevleri
+farklı
+kişilere verilmelidir.
+Her faaliyet veya mali karar ve işlemin
+yürürlükteki
+mevzuat
+çerçevesinde
+onaylanması, uygulanması, kaydedilmesi
+ve
+kontrolü
+görevleri
+farklı
+personel
+arasında  paylaştırılmıştır.
+Mevcut
+durum
+makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+KFS 9.2
+Personel sayısının yetersizliği
+nedeniyle
+görevler
+ayrılığı
+ilkesinin
+tam
+olarak
+uygulanamadığı
+idarelerin
+yöneticileri risklerin farkında
+olmalı
+ve
+gerekli
+önlemleri
+almalıdır.
+Personel
+sayısının
+bütün
+idari
+ve
+akademik birimlerde olduğu gibi ÖİDB'de
+de yetersiz oluşu mevcut personelin yük
+ve görev tanımına yansımaktadır ancak bu
+olumsuz koşullara rağmen birimimizde
+görevler ayrılığı ilkesine uyulmaktadır.
+KFS
+9.2.1
+Personel sayısının arttırılması için PDB
+ve üst yönetimle görüşmelere devam
+edilecektir.
+Personel kalitesinin sadece niceliksel
+olarak değil aynı zamanda niteliksel
+olarak
+da
+arttıtrılması
+için
+gerekli
+girişimler sürdürülecektir.
+ÖİDB Yönetimi
+Üst Yönetim
+PDB
+Yazışmalar
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Mevcut durumun genel şartı tam
+olarak
+karşılayabilmesi
+için
+öngörülen
+eylemin
+yerine
+getirilmesi sağlanacaktır.
+Prosedürlerin Belirlenmesi Ve Belgelendirilmesi: İdareler, faaliyetleri ile mali karar ve işlemleri için gerekli yazılı prosedürleri ve bu alanlara ilişkin düzenlemeleri hazırlamalı, güncellemeli ve ilgili personelin
+erişimine sunmalıdır.
+*5018 Sayılı Kamu Mali Yönetimi Ve Kontrol Kanunu
+Görevler Ayrılığı: Hata, eksiklik, yanlışlık, usulsüzlük ve yolsuzluk risklerini azaltmak için faaliyetler ile mali karar ve işlemlerin onaylanması, uygulanması, kaydedilmesi ve kontrol edilmesi görevleri personel
+arasında paylaştırılmalıdır.
+*5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu
+
+--- Page 16 ---
+KFS 10
+KFS 10.1
+Yöneticiler,
+prosedürlerin
+etkili ve sürekli bir şekilde
+uygulanması
+için
+gerekli
+kontrolleri yapmalıdır.
+Yapılan
+iş
+ve
+işlemler,
+yöneticilerce
+hiyerarşik
+kontrollere
+tabi
+tutulurken,
+mevzuattaki
+düzenlemeler
+dikkate
+alınmaktadır.
+Mevcut
+durum
+makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+KFS 10.2
+Yöneticiler, personelin iş ve
+işlemlerini
+izlemeli
+ve
+onaylamalı,
+hata
+ve
+usulsüzlüklerin giderilmesi için
+gerekli talimatları vermelidir.
+Üniversitemizde faaliyetler yürütülürken,
+süreç
+kontrolü
+paraf
+yöntemiyle
+izlenmekte
+ve
+tespit
+edilen
+hatalar
+geribildirim yöntemiyle düzeltilmektedir.
+İç
+ve
+dış
+denetim
+raporları
+titizlikle
+dikkate alınmaktadır.
+Mevcut
+durum
+makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+KFS 11
+KFS
+11.1.1
+Her yıl risk planları yapılmaya devam
+edilecek ve periyodik olarak yönetimle
+bu
+riskler
+görüşülerek
+gerekli
+revizyonlar yapılacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Risk Analizi
+Tablosu, Risk
+Bildirim Formları,
+BGYS Yazılımı,
+BGYS Risk Planı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KFS
+11.1.2
+KYS
+ve
+BGYS
+risklerinin
+birlikte
+değerlendirilmesi
+gündeme
+alınarak
+bununla ilgili çalışmalar yürütülcektir.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Risk Analizi / Eyem
+Planı
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KFS 11.2
+Gerekli hallerde usulüne uygun
+olarak
+vekil
+personel
+görevlendirilmelidir.
+ÖİDB'deki
+bütün
+birimlerde
+partner
+sistemi mevcuttur. Ayrıca vekalet işlemi
+EBYS
+üzerinden
+yapıldığı
+için
+resmi
+işlemler de kesintisiz devam etmektedir.
+Mevcut
+durum
+makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+Hiyerarşik Kontroller: Yöneticiler, iş ve işlemlerin prosedürlere uygunluğunu sistemli bir şekilde kontrol etmelidir.
+*5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu
+Faaliyetlerin Sürekliliği: İdareler, faaliyetlerin sürekliliğini sağlamaya yönelik gerekli önlemleri almalıdır.
+KFS 11.1
+Personel yetersizliği, geçici
+veya sürekli olarak görevden
+ayrılma, yeni bilgi sistemlerine
+geçiş, yöntem veya mevzuat
+değişiklikleri ile olağanüstü
+durumlar gibi faaliyetlerin
+sürekliliğini etkileyen
+nedenlere karşı gerekli
+önlemler alınmalıdır.
+Birimimizde Kalite Yönetim Sistemi
+kapsamında yapılan çalışmalar
+(dokümantasyon, planlar, raporlar, vb.)
+faaliyetlerimizin sürekliliğini sağlamaya
+yönelik çalışmaları içermektedir. Ayrıca
+KYS (Kalite Yönetim Sistemi) ve BGYS
+(Bilgi Güvenliği Yönetim Sistemi)
+kapsamında riskler belirlenerek bu
+durumları öngörülebilmek kılmak ve ilgili
+çalışmalar planlamak mümkün
+olmaktadır.
+
+--- Page 17 ---
+KFS 11.3
+Görevinden ayrılan personelin,
+iş veya işlemlerinin durumunu
+ve gerekli belgeleri de içeren
+bir rapor hazırlaması ve bu
+raporu
+görevlendirilen
+personele
+vermesi
+yönetici
+tarafından sağlanmalıdır.
+Görevinden
+ayrılan
+personel
+için
+yapılacak işlemler Personel İşten Ayrılma
+Prosedüründe
+tanımlanmıştır
+ve
+bu
+doğrultuda işlemler yürütülmektedir.
+KFS
+11.3.1
+Prosedür
+doğrultusunda
+süreç
+yürütülmeye devam edecektir. Bune ek
+olarak
+iş
+devrinin
+yazılı
+raporlarla
+yapılması sağlanacaktır.
+ÖİDB Yönetimi,
+İdare Amiri
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Personel İşten
+Ayrılma Prosedürü,
+Raporlar
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KFS 12
+KFS 12.1
+Bilgi sistemlerinin sürekliliğini
+ve
+güvenilirliğini
+sağlayacak
+kontroller
+yazılı
+olarak
+belirlenmeli
+ve
+uygulanmalıdır.
+BİDB ile birlikte yürütülen ISO27001
+kapsamında
+süreç
+tabanlı
+risk
+analizi
+yapılarak
+zaafiyetlerin
+ve
+tehditlerin
+belirlenmesi,
+ardından
+da
+gerekli
+kontrollerin
+uygulanması
+çalışması
+yapılmakta olup bu amaca yönelik her yıl
+iç ve dış denetimler gerçekleştirilmekte ve
+denetimlerde alınan geri bildirimlere göre
+iyileştirmeler planlanmaktadır. Yine bu
+kapsamda
+ilgili
+yazılı
+dokümanlar
+oluşturulmakta
+ve
+gerektiğinde
+güncelleştirilmektedir.
+KFS
+12.1.1
+ISO27001
+kapsamında
+yürütülen
+çalışmalara devam edilcek, planlanan
+iyileştirmeler takip edilecektir.
+Kalite Yönetim
+Birimi,
+BİDB Bilgi
+Güvenliği Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+ISO27001 Bilgi
+Güvenliği Yönetimi
+Sistemi Sertifikası
+ve Belgeleri,
+İç ve Dış Denetim
+Raporları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+KFS 12.2
+Bilgi sistemine veri ve bilgi
+girişi
+ile
+bunlara
+erişim
+konusunda
+yetkilendirmeler
+yapılmalı,
+hata
+ve
+usulsüzlüklerin
+önlenmesi,
+tespit
+edilmesi
+ve
+düzeltilmesini
+sağlayacak
+mekanizmalar
+oluşturulmalıdır.
+ÖİDB içerisinde rol tanımlamaları ve bu
+rollerin
+erişim
+sınırları
+belirlenmiştir.
+Yetkilendirilmeli servislerde 3 seviyeli
+güvenlik kontrolü yapısı kurulmaktadır.
+*Bilgi
+girişi
+yetkilendirmeleri
+ve
+yetkilerin tanımlanması
+*Kullanıcı kodu ve şifreleri
+*Log
+analizi
+(işlem
+ve
+kişi
+bazında)
+mevcut durumda sunulan hizmetlerdir.
+KFS
+12.2.1
+Rol
+ve
+yetkilendirmelerle
+ilgili
+İstatistik ve Programlar birimimizle ve
+Bilgi
+Sistemi
+Koordinatörlüğü
+ile
+birlikte
+dokümantasyon
+çalışmaları
+yürütülecek
+bu
+dokümanlar
+KYS
+kapsamına alınacaktır.
+Kalite Yönetim
+Birimi, İstatistik
+ve Programlar,
+Bilgi Sistemi
+Koordinatörlüğü
+ÖİDB Yönetimi,
+BİDB Bilgi
+Güvenliği Birimi
+KYS Dokümanları
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Mevcut durumun genel şartı tam
+olarak
+karşılayabilmesi
+için
+öngörülen
+eylemin
+yerine
+getirilmesi sağlanacaktır.
+KFS 12.3
+İdareler
+bilişim
+yönetişimini
+sağlayacak
+mekanizmalar
+geliştirmelidir.
+Bu doğrultuda ÖİDB bünyesinde Bilgi
+Sistemi Koordinatörlüğü otomasyon ve
+iyileştirme
+çalışmalarını
+yürütmektedir.
+BİDB
+ile
+ortak
+bir
+iş
+programı
+çerçevesinde bu süreçler planlanmakta ve
+uygulanmaktadır. Ayrıca yıllık hedefler
+belirlenirken
+de
+otomasyon
+hedef
+ve
+iyileştirmeleri
+hedef
+takip
+kapsamına
+alınmaktadır.
+KFS
+12.3.1
+İşş programı çerçevesinde iyileştirme
+ve otomasyon planlama çalışmalarına
+devam edilcektir.
+Bilgi Sistemi
+Koordinatörlüğü,
+Kalite Yönetim
+Birimi,
+Bilgi Sistemi
+Koordinatörlüğü,
+BİDB Öğrenci
+Yazılımları Grubu
+Hedef Takip
+Formu, KYS
+Doküman ve
+Raporları,
+SİS Grubu İş
+Planları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel şart süreklilik arz ettiğinden
+öngörülen
+eylemde
+yer
+alan
+çalışmalara devam edilecektir.
+Bilgi Sistemleri Kontrolleri: İdareler, bilgi sistemlerinin sürekliliğini ve güvenilirliğini sağlamak için gerekli kontrol mekanizmaları geliştirmelidir.
+
+--- Page 18 ---
+Standart
+Kod No
+Kamu İç Kontrol
+Standardı Ve Genel Şartı
+Mevcut Durum
+Eylem
+Kod No
+Öngörülen Eylem Veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği Yapılacak
+Birim
+Çıktı/Sonuç
+Tamamlanm
+a Tarihi
+Açıklama
+BİS 13
+BİS 13.1
+İdarelerde, yatay ve dikey iç
+iletişim
+ile
+dış
+iletişimi
+kapsayan etkili ve sürekli bir
+bilgi
+ve
+iletişim
+sistemi
+olmalıdır.
+ÖİDB'nin
+iletişim
+yetki
+matrisi
+bulunmaktadır.
+Resmi iç ve dış yazışmalar ile çeşitli süreçler (izin,
+misafirhane,
+satın
+alma
+talepleri
+vs.)
+EBYS
+üzerinden elektronik olarak yürütülmektedir. Web
+sayfalarındaki geri bildirim mekanizmaları (e-posta,
+form vb.), çalışanlar ve birimler için tanımlı e-posta
+adresleri, Elektronik Duyuru Listeleri ile iletişim ve
+bilgi akışı sağlanmaktadır. Doküman paylaşımı da
+bütün
+personelin
+bilgisayarında
+bulunan
+ortak
+paylaşım klasöründen yapılmakta ve belgeler orada
+tutulmaktadır. Personel iletişim bilgileri de web
+sayfasında yayınlanmaktadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından eylem öngörülmemiştir.
+BİS
+13.2.1
+Arşivin dijitalleştirilmesi çalışmalarına devam
+edilecektir.
+ÖİDB Yönetimi
+ÖİDB Yönetimi, Üst
+Yönetim
+METUSIS
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden
+öngörülen eylemde yer alan çalışmalara
+devam edilecektir.
+BİS
+13.2.2
+Mevcut
+doküman
+güncellemeleri
+takip
+edilecek ve paylaşım klasöründen erişime
+açılıp
+e-posta
+ile
+bütün
+personelin
+bilgilendirilmesi sağlanacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+KYS
+Dokümanları
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen
+eylemin
+2026
+yılında
+başlatılması
+planlanmaktadır
+ve
+bu
+eylem süreklilik arz etmektedir.
+BİS
+13.2.3
+Değişen mevzuat ve uygulamalar kapsamında
+personele ilgili birim yöneticisi tarafından
+eğitim verilecektir.
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler,
+Kalite Yönetim Birimi
+Eğitim Planları,
+Eğitim Katılım
+Formu, Personel
+Eğitim Kartı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden
+öngörülen eylemde yer alan çalışmalara
+devam edilecektir.
+BİS
+13.2.4
+Personeller
+tarafından
+bireysel
+insiyatifle
+kayıt altına alınan işleyişle ilgili bilgilerin
+KYS
+kapsamına
+alınarak
+uygun
+şekilde
+dokümante edilmesi sağlanacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+KYS
+Dokümanları
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen
+eylemin
+2026
+yılında
+başlatılması
+planlanmaktadır
+ve
+bu
+eylem süreklilik arz etmektedir.
+BİS
+13.3.1
+Eğitim öğretim süreçleriyle ilgili bilgiler ve
+duyurular web sayfamızda yayınlanmaya
+devam edilecektir.
+Bilgi Sistemi
+Koordinatörlüğü
+ÖİDB Yönetimi, Üst
+Yönetim
+ÖİDB web
+sayfası
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden
+öngörülen eylemde yer alan çalışmalara
+devam edilecektir.
+BİS
+13.3.2
+Farklı ortamlarda tutulan dokümante bilgilerin
+KYS kapsamına alınması sağlanacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+KYS
+Dokümanları
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen
+eylemin
+2026
+yılında
+başlatılması
+planlanmaktadır
+ve
+bu
+eylem süreklilik arz etmektedir.
+BİS 13.3
+Bilgiler
+doğru,
+güvenilir,
+tam,
+kullanışlı
+ve
+anlaşılabilir olmalıdır.
+ÖİDB
+tarafında
+yayınlanacak
+olan
+bilgi
+veya
+duyurular
+yayınlanmadan
+önce
+ilgili
+birimlerin
+kontrol
+sürecinden
+geçmekte
+ve
+onay
+makamı
+tarafından
+(ÖİDB
+Yönetimi/Üst
+Yönetim)
+onaylanmaktadır.
+ÖİDB
+websitesinin
+ve
+duyurularının çift dilli olması konusunda azami
+dikkat gösterilmektedir. Ayrıca, ÖİDB bünyesindeki
+Uluslararası
+Öğrenci
+Ofisi,
+üniversitedeki
+diğer
+birimlerdeki yetersiz İngilizce iletişim kanalları için
+ilgili birimlerle görüşmeler yapmaktadır.
+KVKK
+kapsamında
+veri
+envanteri
+çıkarılmış,
+aydınlatma metinleri oluşturulmuş ve ilgili yerlerde
+referans
+verilerek
+gerekli
+bilgilendirmeler
+yapılmıştır.
+ISO27001 sertifikasyonu kapsamında bilgi güvenliği
+ile ilgili çalışmalara devam edilmektedir.
+4- BİLGİ VE İLETİŞİM
+Bilgi Ve İletişim: İdareler, birimlerinin ve çalışanlarının performansının izlenebilmesi, karar alma süreçlerinin sağlıklı bir şekilde işleyebilmesi ve hizmet sunumunda etkinlik ve memnuniyetin sağlanması amacıyla uygun bir
+bilgi ve iletişim sistemine sahip olmalıdır.
+BİS 13.2
+Yöneticiler ve personel,
+görevlerini yerine
+getirebilmeleri için gerekli
+ve yeterli bilgiye zamanında
+ulaşabilmelidir.
+ÖİDB'nin
+ÖİBS/METUSIS
+kapsamında
+öğrenci
+işleri otomasyonunun iyileştirilmesine ve personel
+tarafından
+etkili
+kullanımına
+yönelik çalışmaları
+devam etmektedir. Daire Başkanlığımız içerisinde
+oluşturulan
+elektronik
+ortak
+paylaşım
+dosyaları
+sayesinde bilgi akışının hızlı ve etkili bir şekilde
+gerçekleşmesi
+sağlanmaktadır.
+Web
+sitesinde
+yayınlanan personel iletişim bilgileri sayesinde her
+birime e-posta ve telefon yoluyla ulaşılabilmektedir.
+İlgili
+yasa
+ve
+yönetmelikler
+web
+sayfamızda
+yayınlanmaktadır.
+Süreçlerimizle
+ilgili
+prosedür,
+talimat süreç akışı gibi dokümanlara ortak paylaşım
+dosyasından erişim sağlanmaktadır.
+
+--- Page 19 ---
+BİS 13.4
+Yöneticiler
+ve
+ilgili
+personel,
+performans
+programı
+ve
+bütçenin
+uygulanması
+ile
+kaynak
+kullanımına
+ilişkin
+diğer
+bilgilere
+zamanında
+erişebilmelidir.
+SGDB
+Bütçe
+ve
+Performans
+Müdürlüğü'nün
+hazırladığı
+bütçe
+planı
+kapsamında
+birimimizin
+harcama kalemleri belirlenmektedir. Bütçe PORTAL
+sistemi aracılığıyla takibi yapılabilmektedir.
+Mevcut durum makul güvence sağladığı
+için eylem öngörülmemiştir.
+BİS
+13.5.1
+Mevcut
+Bilgi
+Sistemlerinin
+birbirleriyle
+entegrasyonu
+ve
+bütünleşik
+raporlama
+olanağının
+sağlanması
+amacıyla
+yapılan
+çalışmalara ÖİDB'nin görev alanı dahilinde
+katılım ve katkı sağlanacaktır.
+Bilgi Sistemi
+Koordinatörlüğü
+ÖİDB Yönetimi,
+BİDB,
+Üst Yönetim
+Bilgi Sistemleri
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden
+öngörülen eylemde yer alan çalışmalara
+devam edilecektir.
+BİS
+13.5.2
+Kurumsal
+Büyük
+Veri
+Yönetim
+Koordinatörlüğü
+ile
+öğrenci
+istatistikleri
+konusunda çalışmalara devam edilecektir.
+Bilgi Sistemi
+Koordinatörlüğü
+ÖİDB Yönetimi,
+Kurumsal Büyük Veri
+Yönetim
+Koordinatörlüğü
+Bilgi Sistemleri,
+VARSİS
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden
+öngörülen eylemde yer alan çalışmalara
+devam edilecektir.
+BİS
+13.5.3
+BGYS'nin
+yeni
+algoritmasına
+göre
+bilgi
+varlıkları
+ve
+riskler
+yeniden
+gözden
+geçirilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+BGYS yazılımı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Eylem yerine getirilmekte olup devamı
+sağlanacaktır.
+BİS 13.6
+Yöneticiler,
+idarenin
+misyon, vizyon ve amaçları
+çerçevesinde
+beklentilerini
+görev
+ve
+sorumlulukları
+kapsamında
+personele
+bildirmelidir.
+ÖİDB'nin misyon, vizyon ve temel değerleri KYS
+kapsamında
+belirlenmiş
+olup
+web
+sayfasında
+yayınlanmaktadır. Yönetim GYS kapsamlarını bütün
+çalışanlara yazılı olarak bildirmiştir ve ayrıca ortak
+paylaş klasöründe bu GYS'ler erişime açıktır.
+Mevcut
+durum
+makul
+güvence
+sağladığından eylem öngörülmemiştir.
+BİS
+13.7.1
+Öğrencilerin kullandığı iletişim formunun bir
+benzerinin personelimiz için de uygulanması
+planlanmaktadır.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+ÖİDB web
+sayfası
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen
+eylemin
+2026
+yılında
+başlatılması
+planlanmaktadır
+ve
+bu
+eylem süreklilik arz etmektedir.
+BİS
+13.7.2
+Personel iletişim sayfamızın güncellenmesi
+takip edilecektir.
+Bilgi Sistemi
+Koordinatörlüğü
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+ÖİDB web
+sayfası
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden
+öngörülen eylemde yer alan çalışmalara
+devam edilecektir.
+BİS 13.7
+İdarenin yatay ve dikey
+iletişim sistemi personelin
+değerlendirme, öneri ve
+sorunlarını iletebilmelerini
+sağlamalıdır.
+Üniversitemizin bütün personeline açık olan Genel
+Sekreterlik web sayfasından ulaşılabilen
+Memnuniyet, İyileştirme ve Geri Bildirim Formu
+aracılığı ile geri bildirim mekanizması
+işletilmektedir.
+ÖİDB'nin yıllık yaptığı memnuniyet anketleri
+aracılığı ile hem ODTÜ personelinin hem ÖİDB
+personelinin hizmetlerimizden memnuniyet düzeyi
+ölçülmekte ve bu doğrultuda iyileştirme çalışmaları
+planlanmaktadır. Bu anketlerdeki açık uçlu yorum
+bölümü ile şikayet ve öneriler de iletilebilmektedir.
+ÖİDB çalışanlarının yönetimle olan iletişimi,
+sorunlarını yüz yüze yönetime iletebilmeyi de
+sağlamaktadır.
+BİS 13.5
+Yönetim
+bilgi
+sistemi,
+yönetimin ihtiyaç duyduğu
+gerekli bilgileri ve raporları
+üretebilecek ve analiz yapma
+imkanı
+sunacak
+şekilde
+tasarlanmalıdır.
+METUSIS üzerinden ihtiyaç halinde öğrenciler ve
+derslerle ilgili istatistik ve bilgiler alınabilmektedir.
+Mevcut bilgi sistemlerinin birbirleriyle entegrasyonu
+kapsamında da çalışmalara dahil olunmaktadır.
+SKYBIS üzerinden 6 aylık periyotlarla raporlar
+üretilebilmektedir.
+
+--- Page 20 ---
+BİS 14
+BİS 14.1
+İdareler, her yıl, amaçları,
+hedefleri,
+stratejileri,
+varlıkları, yükümlülükleri ve
+performans
+programlarını
+kamuoyuna açıklamalıdır.
+ÖİDB, ODTÜ 2023-2027 Stratejik Planı kapsamında
+faaliyetlerini
+yürütmekte,
+6
+aylık
+performans
+göstergelerini SKYBIS'e tanımlamakta ve buradan
+üretilen raporlar ODTÜ Kalite Güvence Sistemi ve
+SGDB web sayfalarında yayınlanmaktadır. Bununla
+birlikte ÖİDB Faaliyet Raporu her yıl hazırlanmakta
+ve ÖİDB web sayfasında yayınlanmaktadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından eylem öngörülmemiştir.
+BİS 14.2
+İdareler, bütçelerinin ilk altı
+aylık
+uygulama
+sonuçları,
+ikinci
+altı
+aya
+ilişkin
+beklentiler ve hedefler ile
+faaliyetlerini
+kamuoyuna
+açıklamalıdır.
+SGDB tarafından, her yıl genel şartta yer alan
+bilgileri içeren kurumsal mali durum ve beklentiler
+raporu
+hazırlanmakta
+ve
+kamuoyuyla
+paylaşılmaktadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından eylem öngörülmemiştir.
+BİS 14.3
+Faaliyet
+sonuçları
+ve
+değerlendirmeler
+idare
+faaliyet
+raporunda
+gösterilmeli
+ve
+duyurulmalıdır.
+SGDB
+tarafından
+hazırlanan
+İdare
+Faaliyet
+Raporlarına ÖİDB olarak katkı sunulmakta ve bu
+raporlar SGDB'nin web sayfasında yayınlanmaktadır.
+Ayrıca ÖİDB'nin kendi Faaliyet Raporu yıllık olarak
+hazırlanmakta
+ve
+web
+sayfasında
+erişime
+sunulmaktadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından eylem öngörülmemiştir.
+BİS 14.4
+Faaliyetlerin
+gözetimi
+amacıyla idare içinde yatay
+ve dikey raporlama ağı yazılı
+olarak belirlenmeli, birim ve
+personel,
+görevleri
+ve
+faaliyetleriyle
+ilgili
+hazırlanması
+gereken
+raporlar
+hakkında
+bilgilendirilmelidir.
+Üniversitemizde
+Birim
+Faaliyet
+Raporları
+ve
+Üniversitemiz İdare Faaliyet Raporu mevzuat gereği
+her yıl hazırlanmaktadır. ÖİDB de her yıl kendi
+birim
+Faaliyet
+Raporunu
+hazırlamakta
+ve
+web
+sitesinde yayınlamaktadır. Ayrıca Üniversite İdari
+Faaliyet Raporuna da katkı sağlamaktadır.
+BİS
+14.4.1
+İdarenin amaç, hedef, gösterge ve faaliyetleri
+ile sonuçları; saydamlık ve hesap verebilirlik
+ilkeleri doğrultusunda raporlanmaya devam
+edilecektir.
+Bilgi Sistemi
+Koordinatörlüğü
+ÖİDB Yönetimi,
+SGDB
+Faaliyet
+Raporları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arzettiğinden
+öngörülen
+eylem
+yerine
+getirilerek
+devamı sağlanacaktır.
+BİS 15
+BİS 15.1
+Kayıt ve dosyalama sistemi,
+elektronik
+ortamdakiler
+dahil, gelen ve giden evrak
+ile idare içi haberleşmeyi
+kapsamalıdır.
+Üniversitemizde
+olduğu
+gibi
+birimimizde
+de
+Yükseköğretim Üst Kuruluşları ve Yükseköğretim
+Kurumları Saklama Süreli Standart Dosya Planı
+kullanılmaktadır.
+BİS
+15.1.1
+ÖİDB'de yazışma ve dosyalama sırasında
+standart
+dosya
+planı
+kullanımına
+devam
+edilecektir.
+ÖİDB Sekreterlik
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Yazışmalar,
+Standart Dosya
+Planı Kitapçığı
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arzettiğinden
+öngörülen
+eylem
+yerine
+getirilerek
+devamı sağlanacaktır.
+Raporlama: İdarenin amaç, hedef, gösterge ve faaliyetleri ile sonuçları, saydamlık ve hesap verebilirlik ilkeleri doğrultusunda raporlanmalıdır.
+*5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu Ve İlgili Mevzuat
+Kayıt Ve Dosyalama Sistemi: İdareler, gelen ve giden her türlü evrak dahil iş ve işlemlerin kaydedildiği, sınıflandırıldığı ve dosyalandığı kapsamlı ve güncel bir sisteme sahip olmalıdır.
+*Başbakanlık  2005/7 Sayılı Genelge
+
+--- Page 21 ---
+BİS 15.2
+Kayıt ve dosyalama sistemi
+kapsamlı ve güncel olmalı,
+yönetici
+ve
+personel
+tarafından
+ulaşılabilir
+ve
+izlenebilir olmalıdır.
+Yükseköğretim Üst Kuruluşları ve Yükseköğretim
+Kurumları Saklama Süreli Standart Dosya Planı
+ÖİDB
+sekreterliği
+tarafından
+tüm
+personele
+iletilmiştir. Ayrıca Evrak ve Arşiv Müdürlüğü web
+sayfasında ulaşılabilir durumdadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından eylem öngörülmemiştir.
+BİS 15.3
+Kayıt ve dosyalama sistemi,
+kişisel verilerin güvenliğini
+ve korunmasını sağlamalıdır.
+Personel
+dosyaları
+sekreterlikte
+kilitli
+dolapta
+tutulmaktadır. Öğrencilerin kişisel veri içeren yazılı
+talepleri için de kilitli evrak dolapları yapılmıştır.
+Öğrencilerden kayıt sırasında elden evrak alımına
+son verilmiş, online başvuru sistemine geçilmiştir.
+Mevcut
+durum
+makul
+güvence
+sağladığından eylem öngörülmemiştir.
+BİS 15.4
+Kayıt ve dosyalama sistemi
+belirlenmiş standartlara
+uygun olmalıdır.
+Dijitalleşme ve YÖKSİS entegrasyonu kapsamında
+1981 ve sonrası mezunlara ait fiziksel arşivde yer
+alan
+bilgilerin
+dijital
+ortama
+aktarılması
+ve
+YÖKSİS'e
+veri
+gönderiminin
+sağlanabilmesi
+amacıyla, YÖK ile koordineli şekilde kapsamlı bir
+arşiv çalışması başlatılmıştır ve çalışma devam
+etmektedir.
+BİS
+15.4.1
+Bu
+çalışmanın
+tamamlanmasının
+ardından
+çalışma
+genişletilerek
+sırasıyla
+aşağıdaki
+gruplara da uygulanacaktır:
+(i) 1981 ve sonrası ilişiği kesilen öğrenciler
+(ii) 1980 ve öncesi mezunlar ile ilişiği kesilen
+öğrenciler
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+METUSIS
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden
+öngörülen eylemde yer alan çalışmalara
+devam edilecektir.
+BİS 15.5
+Gelen
+ve
+giden
+evrak
+zamanında
+kaydedilmeli,
+standartlara
+uygun
+bir
+şekilde sınıflandırılmalı ve
+arşiv sistemine uygun olarak
+muhafaza edilmelidir.
+Gelen
+giden
+evrak
+zamanında
+kaydedilmekte
+(EBYS) işleme alındıktan sonra standartlara uygun
+olarak arşivlenmektedir. Öğrencilere yönelik karar
+yazışmaları Evrak Tarama Sorumlusu tarafından
+taranarak
+METUSIS'te
+ilgili
+öğrenci
+dosyasına
+aktarılmaktadır.
+BİS
+15.5.1
+Mevcuttaki
+evrak
+dolaşım
+ve
+arşivleme
+sistemine devam edilecektir.
+ÖİDB Sekreterlik,
+Evrak Tarama ve
+Arşiv Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+EBYS,
+METUSIS
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arzettiğinden
+öngörülen
+eylem
+yerine
+getirilerek
+devamı sağlanacaktır.
+BİS 15.6
+İdarenin iş ve işlemlerinin
+kaydı,
+sınıflandırılması,
+korunması ve erişimini de
+kapsayan,
+belirlenmiş
+standartlara uygun arşiv ve
+dokümantasyon
+sistemi
+oluşturulmalıdır.
+Devlet Arşiv Hizmetleri Hakkında Yönetmelik ve
+Başbakanlık 2005/7 Sayılı Genelge doğrultusunda
+uygulanmaktadır.
+Mevcut
+durum
+makul
+güvence
+sağladığından eylem öngörülmemiştir.
+BİS16
+BİS 16.1
+Hata, usulsüzlük ve
+yolsuzlukların bildirim
+yöntemleri belirlenmeli ve
+duyurulmalıdır.
+Şikayetler, dilekçe yöntemi ile üst yönetime
+ulaşabilmektedir. 3071 sayılı Dilekçe Hakkının
+Kullanılmasına Dair Kanunun ve 2016/21
+Başbakanlık Genelgesine göre işlem yapılmaktadır.
+KYS kapsamında hatalı faaliyetler Düzeltici Faaliyet
+Formu ile kayıt altına alınmakta ve iyileştirme
+planlaması yapılmaktadır.
+BİS
+16.1.1
+Mevcut uygulamaya devam edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Düzeltici
+Faaliyet Formu
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arzettiğinden
+öngörülen
+eylem
+yerine
+getirilerek
+devamı sağlanacaktır.
+Hata, Usulsüzlük Ve Yolsuzlukların Bildirilmesi: İdareler, hata, usulsüzlük ve yolsuzlukların belirlenen bir düzen içinde bildirilmesini sağlayacak yöntemler oluşturmalıdır.
+
+--- Page 22 ---
+BİS 16.2
+Yöneticiler, bildirilen hata,
+usulsüzlük ve yolsuzluklar
+hakkında yeterli incelemeyi
+yapmalıdır.
+İletilen hata, usulsüzlük ve yolsuzluklar olduğunda
+yönetim devreye girer ve ilgili kişileri görevlendirir.
+Gerekli
+inceleme
+yapıldıkltan
+sonra
+alınacak
+aksiyonlar belirlenir.
+BİS
+16.2.1
+Hata, usulsüzlük ve yolsuzluklar hakkında
+herhangi bir şüpheye mahal bırakılmayacak
+şekilde, bildirimlerin kanunlar çerçevesinde
+dikkate alınmasına devam edilecektir.
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Üst Yönetim
+Düzeltici
+Faaliyet Formu,
+Raporlar
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arzettiğinden
+öngörülen
+eylem
+yerine
+getirilerek
+devamı sağlanacaktır.
+BİS 16.3
+Hata, usulsüzlük ve
+yolsuzlukları bildiren
+personele haksız ve ayırımcı
+bir muamele yapılmamalıdır.
+3071 sayılı Dilekçe Hakkının Kullanılmasına Dair
+Kanunun 4. maddesi ve 2016/21 Başbakanlık
+Genelgesine göre  dilekçeler işleme
+alınmaktadır.Elektronik ortamda bildirilen hata,
+usulsüzlük ve yolsuzluklarda  hiyerarşik düzene
+sadık kalınarak ilgili üst düzey yöneticilere
+yönlendirilmektedir.
+BİS
+16.3.1
+Elektronik ortamda bildirilen hata, usulsüzlük
+ve yolsuzluklarda
+hiyerarşik düzene sadık
+kalınarak
+ilgili
+üst
+düzey
+yöneticilere
+yönlendirilecektir.
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Üst Yönetim
+Güvence sistemi
+ile ilgili
+dokümanlar
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arzettiğinden
+öngörülen
+eylem
+yerine
+getirilerek
+devamı sağlanacaktır.
+
+--- Page 23 ---
+Standart
+Kod No
+Kamu İç Kontrol Standardı Ve
+Genel Şartı
+Mevcut Durum
+Eylem Kod
+No
+Öngörülen Eylem Veya Eylemler
+Sorumlu Birim
+Veya Çalışma
+Grubu Üyeleri
+İşbirliği
+Yapılacak Birim
+Çıktı/Sonuç
+Tamamlanma
+Tarihi
+Açıklama
+İS17
+İS 17.1
+İç kontrol sistemi, sürekli izleme
+veya özel bir değerlendirme yapma
+veya
+bu
+iki
+yöntem
+birlikte
+kullanılarak değerlendirilmelidir.
+ÖİDB'nin kendi iç denetim mekanizmaları
+kurulmuş
+ve
+etkin
+bir
+şekilde
+bu
+mekanizmalar işletilmektedir. Eylem Planı
+İzleme faaliyeti için ÖİDB içerisinde bir ekip
+kurulması düşünülmektedir.
+17.1.1
+Eylem Planı İzleme faaliyeti için ÖİDB
+içerisinde bir ekip kurulacak ve yılda bir kez
+bu
+ekibin
+iç
+kontrol
+sistemini
+değerlendirmesi sağlanacaktır.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Değerlendirme
+Raporları,
+Toplantı
+Tutanakları
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen eylemin 2026 yılında
+başlatılması planlanmaktadır ve
+bu
+eylem
+süreklilik
+arz
+etmektedir.
+İS 17.2
+İç kontrolün eksik yönleri ile uygun
+olmayan
+kontrol
+yöntemlerinin
+belirlenmesi, bildirilmesi ve gerekli
+önlemlerin alınması konusunda süreç
+ve yöntem belirlenmelidir.
+KYS
+kapsamında
+tanımlanmış
+ve
+uygulanmakta olan bütün bu süreçler (eksik
+yönler
+ile
+uygun
+olmayan
+kontrol
+yöntemlerinin belirlenmesi, bildirilmesi ve
+gerekli önlemlerin alınması) bu Eylem Planı
+için de tanımlanacaktır.
+17.2.1
+Mevcut olan iç kontrol sistemine bu eylem
+planı da dahil edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Değerlendirme
+Raporları,
+Toplantı
+Tutanakları
+İlk Kontrol
+12.12.2026
+(Sürekli)
+Öngörülen eylemin 2026 yılında
+başlatılması planlanmaktadır ve
+bu
+eylem
+süreklilik
+arz
+etmektedir.
+İS 17.3
+İç
+kontrolün
+değerlendirilmesine
+idarenin
+birimlerinin
+katılımı
+sağlanmalıdır.
+Her
+yıl
+Daire
+Başkanlığımızda
+Yönetim
+Gözden Geçirme toplantısı yapılmaktadır.
+Bu
+toplantıya
+bütün
+birimlerimizin
+yöneticileri katılmaktadır.
+17.3.1
+Her yıl YGG toplantılarının yapılmasına ve
+birim
+yöneticilerinin
+katılımının
+sağlanmasına devam edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Toplantı
+Tutanakları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden öngörülen
+eylemde
+yer
+alan
+çalışmalara
+devam
+edilecektir.
+İS 17.4
+İç
+kontrolün
+değerlendirilmesinde,
+yöneticilerin görüşleri, kişi ve/veya
+idarelerin talep ve şikâyetleri ile iç ve
+dış denetim sonucunda düzenlenen
+raporlar dikkate alınmalıdır.
+YGG'de anket sonuçları, dilek/öneri/şikayet
+formları görüşülmekte ve iletilen sorunların
+çözümüne yönelik planlama yapılmaktadır.
+Bu
+planlamalar
+Hedef
+Takip
+Formu
+üzerinden
+izlenmektedir.
+Ayrıca
+denetim
+sonuçlarının
+görüşülmesi
+YGG
+gündem
+maddeleri
+arasındadır
+ve
+YGG
+gündem
+maddeleri KYS Prosedüründe yazılı olarak
+bulunmaktadır.
+17.4.1
+Uygulanan prosedüre devam edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Toplantı
+Tutanakları,
+KYS Prosedürü
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden öngörülen
+eylemde
+yer
+alan
+çalışmalara
+devam
+edilecektir.
+İS 17.5
+İç
+kontrolün
+değerlendirilmesi
+sonucunda alınması gereken önlemler
+belirlenmeli
+ve
+bir
+eylem
+planı
+çerçevesinde uygulanmalıdır.
+YGG
+toplantısında
+yıllık
+hedefler
+belirlenmekte ve 6 aylık periyotlarla takip
+edilmektedir. Ayrıca riskler görüşülmekte ve
+risk eylem planı hazırlanmaktadır.
+17.5.1
+Uygulanan prosedüre devam edilecektir.
+Kalite Yönetim
+Birimi
+ÖİDB Yönetimi,
+Müdürlük ve
+Koordinatörlükler
+Hedef Takip
+Formu,
+Risk Analizi
+Tablosu,
+Toplantı
+Tutanakları
+İlk Kontrol
+12.12.2025
+(Sürekli)
+Genel
+şart
+süreklilik
+arz
+ettiğinden öngörülen
+eylemde
+yer
+alan
+çalışmalara
+devam
+edilecektir.
+5 - İZLEME
+İç Kontrolün Değerlendirilmesi: İdareler iç kontrol sistemini yılda en az bir kez değerlendirmelidir.
+*5018 Sayılı Kamu Mali Yönetimi Ve Kontrol Kanunu
+
+--- Page 24 ---
+İS 18
+İS 18.1
+İç
+denetim
+faaliyeti,
+İç
+Denetim
+Koordinasyon
+Kurulu
+(İDDK)
+tarafından
+belirlenen
+standartlara
+uygun bir şekilde yürütülmelidir.
+İç
+denetim
+faaliyetleri,
+İç
+Denetim
+Koordinasyon Kurulu
+(İDKK) tarafından
+belirlenen
+standartlarave
+diğer
+hukuki
+düzenlemelere uygun bir şekilde risk esaslı
+olarak hazırlanan denetim plan ve programı
+çerçevesinde yürütülmektedir.
+Mevcut durum makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+İS 18.2
+İç
+denetim
+sonucunda
+idare
+tarafından alınması gerekli görülen
+önlemleri
+içeren
+eylem
+planı
+hazırlanmalı,
+uygulanmalı
+ve
+izlenmelidir.
+Gerekli önlemler, üst yönetici tarafından
+raporun
+yetkili
+birimlere
+gönderilerek
+gereğinin
+yapılması
+şeklinde
+yerine
+getirilmektedir.
+Mevcut durum makul güvence
+sağladığından
+eylem
+öngörülmemiştir.
+İç Denetim: İdareler fonksiyonel olarak bağımsız bir iç denetim faaliyetini sağlamalıdır.

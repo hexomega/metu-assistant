@@ -1,0 +1,43 @@
+Öğrenci Belgesi
+1- E-DEVLET ÜZERİNDEN ÖĞRENCİ BELGESİ ALMAK
+- Öğrenci belgesi e-devlet sistemi üzerinden (
+https://www.turkiye.gov.tr/yok-ogrenci-belgesi-sorgulama
+adresinden) alınır.
+- Öğrenci belgesi elektronik imzalıdır ve tüm resmi kurum ve kuruluşlar için geçerlidir. Belge üzerindeki  barkod numarası sayesinde belgenin teslim edildiği kurumlar belgeyi sorgulayabilir ve doğruluğunu teyit edebilir.
+- E-devlet üzerinden öğrenci belgesi alabilmek için e-devlet şifresi gereklidir. E-devlet şifresi PTT müdürlüklerine nüfus cüzdanı ile birlikte bizzat başvurularak alınır.
+2- STUDENT.METU.EDU.TR ÜZERİNDEN ÖĞRENCİ BELGESİ ALMAK
+Ayrıca
+student.metu.edu.tr
+adresinden "Öğrenci Belgesi Başvuru Programı" kullanılarak da online öğrenci belgesi talep edebilir ve pdf olarak indirebilirsiniz. Bu programla ilgili açıklamalar aşağıdaki gibidir:
+Bu programı kimler kullanabilir?
+- Öğrenci Belgesi kayıtlı ve izinli olan öğrenciler tarafından alınabilecektir.
+- Başvurunuzu ODTÜ öğrenci numarasına ait e-posta adresi ile yapmalısınız. Örnek:
+e12345@metu.edu.tr
+- Şifreniz ODTÜ öğrenci numarasına ait olan şifredir.
+- Hesap/şifre ile ilgili soru ve problemleriniz için ODTÜ Kullanıcı Hesap Yönetimi web sayfasını kullanabilirsiniz.
+https://useraccount.metu.edu.tr
+Öğrenci Belgesini nasıl alabilirim?
+- Özel bir açıklama içermeyen Öğrenci Belgesi talebi anında sistem tarafından QR kodu ile hazırlanır ve pdf olarak indirilebilir.
+- Hazırlanan belge bir ay süreyle geçerlidir. Bu süre içerisinde belge üzerindeki QR kodu ile doğrulanabilir.
+- Oluşturulan bir belgenin geçerlilik süresi dolmadan yeni bir belge talebinde bulunulur veya sistem üzerinden yeni bir belge alınırsa, eski belge geçerlilik süresi içinde doğrulanmaya devam eder. Fakat sistemde yeni bir belge talebinin olduğu veya oluşturulduğu şeklinde doğrulama yapmak isteyen kuruma mesaj verilir.
+- Burs, disiplin, katkı payı ödemesi, not sistemi, İngilizce Yeterlik Sınav sonucu vb. özel bir açıklama içeren Öğrenci Belgesi için  “Öğrenci Belgesi Başvuru” linki tıklanarak gelen sorular cevaplanır.
+- Özel bir açıklama içeren başvuru talebi ÖİDB program danışmanlarına onaylanmak ve hazırlanmak üzere sistem üzerinden iletilir.
+- Öğrenci İşleri Daire Başkanlığı’na iletilen talebe göre belge QR kodu ile doğrulanabilir bir şekilde sistem tarafından oluşturulur ve öğrenciye belgesinin hazırlandığını ve başvuru programından ‘PDF’ olarak indirilebilir olduğu bilgisi e-posta ile gönderilir.
+- Öğrenci Özel bir açıklama içeren başvuru talebinin ne aşamada olduğunun tüm süreçlerini başvuru programı üzerinden “Öğrenci Belgesi Başvuru” linki ile takip edebilir.
+Sıkça Sorulan Sorular
+Birden fazla başvuru yapabilir miyim?
+- Özel bir açıklama içeren başvuru talebi yapmışsanız ve ÖİDB onay ve belge hazırlama süreci tamamlanmamışsa yeni bir başvuru yapamazsınız.
+- Özel bir açıklama içermeyen Öğrenci Belgesi talebi yapmışsanız evet yeni bir başvuru yapabilirsiniz. Oluşturulan bir belgenin geçerlilik süresi dolmadan yeni bir belge talebinde bulunulur veya sistem üzerinden yeni bir belge alınırsa, eski belge geçerlilik süresi içinde doğrulanmaya devam eder. Fakat sistemde yeni bir belge talebinin olduğu veya oluşturulduğu şeklinde doğrulama yapmak isteyen kuruma mesaj verilir.
+PDF dosyasını birden fazla kuruma verebilir miyim?
+Evet verebilirsiniz.  Belge vermek istediğiniz her kurum için ayrı başvuruya gerek yoktur. Geçerlilik süresi boyunca istediğiniz kadar belge indirebilir ve kurumlara gönderebilirsiniz.
+Sistemden anlık olarak Öğrenci Belgesi aldım. Ancak özel bir açıklama içeren yeni bir belge almak istiyorum. Ne yapmalıyım?
+Öğrenci Belgesi Başvuru” linki tıklanarak ‘Yeni Başvuru’ butonu ile süreci başlatabilirsiniz.
+Özel bir açıklama içeren belgem ne zaman hazır olur?
+Belgeniz başvurduktan sonra bir iş günü içerisinde hazır olacaktır. Belgenizin durumunu başvuru programı üzerinden ve ÖİDB tarafından size gönderilecek e-posta ile takip edebilirsiniz.
+Öğrenci Belgesi almak istiyorum? Ne yapmalıyım?
+student.metu.edu.tr adresinden ‘Öğrenci Belgesi Başvuru’ linkine tıklayarak süreci başlatabilirsiniz. Öğrenci Belgesi Yardım menüsünü takip ederek başvurunuzu tamamlayabilirsiniz.
+Öğrenci Belgesi Başvurusu ile ilgili soru ve sorunlarınızı programdaki "Geri bildirimde bulun" butonu ile ya da
+Online İletişim Formunu
+doldurarak iletebilirsiniz.
+Son güncelleme
+12/01/2026 - 14:38

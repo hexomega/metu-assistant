@@ -19,3 +19,4 @@ __pycache__/
 .idea/
 
 .streamlit/secrets.toml
+data/.streamlit/secrets.toml

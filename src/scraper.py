@@ -98,16 +98,16 @@ def scrape_page(url: str) -> tuple[str, list[str], list[str]] | None:
         response.encoding = response.apparent_encoding
         
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Extract content
-        text = extract_text_from_html(soup)
-        
+          
         # Get base domain for link filtering
         base_domain = urlparse(url).netloc
         
-        # Extract links
+        # Extract links BEFORE text (text extraction destroys nav/footer)
         page_links = extract_links(soup, url, base_domain)
         pdf_links = extract_pdf_links(soup, url)
+        
+        # Extract content (this removes nav/footer/header)
+        text = extract_text_from_html(soup)
         
         return text, page_links, pdf_links
         

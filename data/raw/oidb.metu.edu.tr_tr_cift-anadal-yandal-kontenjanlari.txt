@@ -1,0 +1,203 @@
+Çift Anadal - Yandal Kontenjanları
+2025 - 2026 BAHAR DÖNEMİ ÇİFT ANADAL KONTENJANLARI
+MÜHENDİSLİK FAKÜLTESİ ÇİFT ANADAL PROGRAMLARI
+Program
+Kontenjan
+Bilgisayar Mühendisliği
+-
+Çevre Mühendisliği
+2
+Elektrik ve Elektronik Mühendisliği
+-
+Endüstri Mühendisliği
+-
+Gıda Mühendisliği
+-
+Havacılık ve Uzay Mühendisliği
+-
+Jeoloji Mühendisliği
+-
+Kimya Mühendisliği
+-
+Maden Mühendisliği
+3
+Makina Mühendisliği
+-
+İnşaat Mühendisliği
+-
+Metalurji ve Malzeme Mühendisliği
+-
+Petrol ve Doğalgaz Mühendisliği
+-
+FEN EDEBİYAT FAKÜLTESİ ÇİFT ANADAL PROGRAMLARI
+Program
+Kontenjan
+Felsefe
+7
+Fizik
+25
+Biyoloji
+-
+Kimya
+-
+Matematik
+7
+Sosyoloji
+2
+2025 - 2026 BAHAR DÖNEMİ YANDAL KONTENJANLARI
+MİMARLIK FAKÜLTESİ YANDAL PROGRAMLARI
+Program
+Programın Adı
+Kontenjan
+Endüstriyel Tasarım
+Endüstriyel Tasarım
+2
+Mimarlık
+Mimarlık Kültürü
+-
+Koruma
+-
+Şehir ve Bölge Planlama
+Şehir Planlama
+5
+FEN - EDEBİYAT FAKÜLTESİ YANDAL PROGRAMLARI
+Program
+Programın Adı
+Kontenjan
+Biyoloji
+Biyoloji
+-
+Felsefe
+Mantık ve Bilim Felsefesi
+7
+Felsefe Tarihi
+7
+Fizik
+Fizik
+10
+Katı Hal Fiziği
+10
+Moleküler Biyoloji ve Genetik
+Moleküler Biyoloji ve Genetik
+-
+Kimya
+Kimya (*)
+-
+İstatistik
+İstatistik
+-
+Matematik
+Matematik
+7
+Psikoloji
+Psikoloji
+5
+Sosyoloji
+Sosyoloji
+6
+Tarih
+Tarih
+-
+(*) Eğitim Fakültesi Kimya Öğretmenliği dışındaki bölümlerin öğrencilerine yönelik
+İKTİSADİ İDARİ BİLİMLER FAKÜLTESİ YANDAL PROGRAMLARI
+Program
+Programın Adı
+Kontenjan
+İktisat
+İktisat
+-
+İşletme
+Genel İşletme
+-
+Kurumsal Finans
+-
+Girişimcilik
+-
+Siyaset Bilimi ve Kamu Yönetimi
+Yönetim Çalışmaları
+3
+Siyaset Çalışmaları
+3
+Uluslararası İlişkiler
+Avrupa Çalışmaları
+-
+EĞİTİM FAKÜLTESİ YANDAL PROGRAMLARI
+Program
+Programın Adı
+Kontenjan
+Yabancı Diller Eğitimi
+Alman Dili
+25
+Bilgisayar ve Öğretim Teknolojileri Eğitimi
+Eğitimde Veri Bilimi ve Yapay Zeka (**)
+12
+(**) 6 Eğitim Fakültesi Bilgisayar ve Öğretim Teknolojileri Eğitimi programı, 6 Üniversitemizin tüm lisans programları
+MÜHENDİSLİK FAKÜLTESİ YANDAL PROGRAMLARI
+Program
+Programın Adı
+Kontenjan
+Bilgisayar Mühendisliği
+Bilişim Sistemleri
+-
+Çevre Mühendisliği
+Çevre Kimyası
+2
+Çevre Mikrobiyolojisi
+2
+Elektrik Elektronik Mühendisliği
+Telekominikasyon
+-
+Endüstri Mühendisliği
+Yöneylem Araştırması
+-
+Üretim Planlaması ve Kontrolü
+-
+Kalite Planlaması ve Kontrolü
+-
+Gıda Mühendisliği
+Gıda Bilimi
+-
+Havacılık ve Uzay Mühendisliği
+Aerodinamik
+1
+İtki
+1
+Havacılık ve Uzay Yapıları
+1
+Uçuş Araçları Kontrolü
+1
+İnşaat Mühendisliği
+Yapı Analizi ve Tasarımı
+3
+Geoteknik
+3
+Jeoloji Mühendisliği
+Yer Bilimi
+-
+Kimya Mühendisliği
+Kimyasal Reaksiyon Mühendisliği
+2
+Maden Mühendisliği
+Mineral Teknolojisi
+3
+Kaya Mekaniği
+3
+Makina Mühendisliği
+Üretim
+2
+Metalurji ve Malzeme Mühendisliği
+Yapısal Malzemeler
+-
+Elektronik Malzemeler
+-
+Seramik Malzemeler
+-
+Mühendislik Fakültesi
+Coğrafi Bilgi Sistemleri ve Uzaktan Algılama
+-
+Mekatronik
+-
+Hesaplamalı Bilim ve Mühendislik
+-
+Son güncelleme
+05/01/2026 - 14:10

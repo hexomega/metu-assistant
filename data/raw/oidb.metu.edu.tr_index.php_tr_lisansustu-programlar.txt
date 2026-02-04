@@ -1,0 +1,359 @@
+Lisansüstü Programlar
+Lisansüstü programlarımız enstitüler tarafından yürütülmektedir. ODTÜ'de toplam 5 enstitü bulunmaktadır. Mevzuat temelinde programların başarı koşulları sağlandığında yüksek lisans/doktora derecesi alınır. Bazı anabilim dallarının tezsiz yüksek lisans programı ve/veya ikinci öğretim tezsiz yüksek lisans programı seçenekleri bulunmaktadır.
+Lisansüstü programlarımızın tamamlanması için başarı koşulları, Üniversitemiz Lisansüstü Eğitim-Öğretim Yönetmeliği’nde belirtilmektedir. Mevzuat temelinde lisansüstü programların
+minimum ders yükü sayısı ve kredileri
+aşağıdaki gibidir. Ancak, YÖK Lisansüstü Eğitim ve Öğretim Yönetmeliği gereğince; ilgili enstitü kurulu tarafından belirlenen “program müfredatları” her lisansüstü program için farklılık gösterebilmektedir.
+Program
+Azami Süre
+Minimum Ders Yükü Sayısı
+(Ders yükünü tamamlama süreleri Yönetmeliğimizde belirtilmektedir.)
+Minimum Kredi Yükü
+Minimum AKTS Kredisi
+Tezsiz Yüksek Lisans
+3 Yarıyıl
+En az 10 adet kredili ders + Dönem Projesi
+En az 30
+En az 60
+Tezli Yüksek Lisans
+6 Yarıyıl
+En az 7 adet kredili ders + Etik + Seminer
+En az 21
+En az 120
+Doktora
+12 Yarıyıl
+En az 7 adet kredili ders + Etik + Seminer
+En az 21
+En az 240
+Lisans Sonrası Doktora
+14 Yarıyıl
+En az 14 adet kredili ders + Etik + Seminer
+En az 42
+En az 300
+*Verilen Dereceler
+(1) Tezli
+(2) Tezsiz
+(3) İkinci Öğretim Tezsiz Program
+Fen Bilimleri Enstitüsü
+Program
+Verilen Dereceler*
+Arkeometri
+M.S. (1,2)
+Ph.D
+Bilgisayar Mühendisliği
+M.S. (1,3)
+Ph.D.
+Bilgisayar ve Öğretim Teknolojileri Eğitimi
+M.S. (1)
+Ph.D.
+Biyokimya
+M.S. (1)
+Ph.D.
+Biyoloji
+M.S. (1)
+Ph.D.
+Biyomedikal Mühendisliği
+M.S. (1)
+Ph.D.
+Biyoteknoloji
+M.S. (1)
+Ph.D.
+Bölge Planlama
+M.C.P. (1)
+Çevre Mühendisliği
+M.S. (1)
+Ph.D.
+Çevre Yönetimi
+M.S. (3)
+Çimento Mühendisliği
+M.S. (1,2)
+Deprem Çalışmaları
+M.S. (1)
+Elektrik ve Elektronik Mühendisliği
+M.S. (1)
+Ph.D.
+Endüstri Mühendisliği
+M.S. (1)
+Ph.D.
+Endüstriyel Tasarım
+M.S. (1)
+Ph.D
+Fen Bilimleri Eğitimi
+M.S. (1)
+Ph.D
+Fizik
+M.S. (1)
+Ph.D.
+Gıda Mühendisliği
+M.S. (1)
+Ph.D.
+Havacılık ve Uzay Mühendisliği
+M.S. (1)
+Ph.D.
+Hidrosistem Mühendisliği
+M.S. (3)
+İnşaat Mühendisliği
+M.S. (1)
+Ph.D.
+İstatistik
+M.S. (1,2)
+Ph.D.
+İş Sağlığı ve Güvenliği
+M.S. (1,2)
+Jeodezi ve Coğrafik Bilgi Teknolojileri
+M.S. (1)
+Ph.D.
+Jeoloji Mühendisliği
+M.S. (1)
+Ph.D.
+Kentsel Tasarım
+M.C.P. (1)
+Kimya
+M.S. (1)
+Ph.D.
+Kimya Mühendisliği
+M.S. (1)
+Ph.D.
+Maden Mühendisliği
+M.S. (1)
+Ph.D.
+Makina Mühendisliği
+M.S. (1)
+Ph.D.
+Matematik
+M.S. (1,2)
+Ph.D.
+Matematik Eğitimi
+M.S. (1)
+Ph.D.
+Mekanik Tasarım ve İmalat
+M.S. (3)
+Metalurji ve Malzeme Mühendisliği
+M.S. (1)
+Ph.D.
+Mikro ve Nanoteknoloji
+M.S. (1)
+Ph.D.
+Mimarlık
+M.ARCH. (1)
+Ph.D.
+Mimarlıkta Sayısal Tasarım ve Üretim Teknolojileri
+(ODTÜ - TU Delft Uluslararası Ortak Yüksek Lisans Programı)
+M.S. (1)
+Moleküler Biyoloji  ve Genetik
+M.S. (1)
+Ph.D.
+Mühendislik Bilimleri
+M.S. (1)
+Ph.D.
+Mühendislik Yönetimi
+M.S. (3)
+Nörobilim ve Nöroteknoloji
+(ODTÜ - Hacettepe Üniversitesi Ortak Doktora Programı)
+Ph.D.
+Orta Öğretim Fen ve Matematik Alanları Eğitimi
+M.S. (1,2)
+Ph.D.
+Petrol ve Doğal Gaz Mühendisliği
+M.S. (1)
+Ph.D.
+Polimer Bilim ve Teknolojisi
+M.S. (1)
+Ph.D.
+Kültürel Mirası Koruma
+M.S. (1)
+Ph.D.
+Şehir Planlama
+M.C.P. (1)
+Şehir ve Bölge Planlama
+Ph.D.
+Veri ve Karar Bilimleri
+M.S. (1)
+Yapay Zeka Mühendisliği
+M.S. (1)
+Yapı Bilimleri
+M.S. (1)
+Ph.D.
+Yapı Mekaniği
+M.S. (3)
+Yazılım Mühendisliği
+M.S. (3)
+Yer Sistem Bilimleri
+M.S. (1,2)
+Ph.D.
+Yöneylem Araştrması
+M.S. (1)
+Ph.D.
+Sosyal Bilimler Enstitüsü
+Program
+Verilen Dereceler*
+Aile Psikolojisi
+M.S.(3)
+Asya Çalışmaları
+M.S. (2)
+Avrasya Çalışmaları
+M.A. (1,2)
+Avrupa Bütünleşmesi
+M.S. (3)
+Avrupa Çalışmaları
+M.S. (1,2)
+Beden Eğitimi ve Spor
+M.S. (1)
+Ph.D.
+Bilim ve Teknoloji Politikası Çalışmaları
+M.S. (1,2)
+Ph.D.
+Bölge Çalışmaları
+Ph.D.
+Eğitim Bilimleri
+M.S. (1)
+Ph.D.
+Eğitim Programları ve Öğretim
+M.S. (1)
+Ph.D.
+Eğitim Yönetimi ve Planlanması
+M.S. (1)
+Ph.D.
+Eğitimde İnsan Kaynaklarını Geliştirme
+M.A. (3)
+Endüstri ve Örgüt Psikolojisi
+M.S. (2)
+Felsefe
+M.A. (1)
+Ph.D.
+İktisat
+M.S. (1,2)
+Ph.D.
+İlköğretim
+Ph.D.
+İlköğretim Fen ve Matematik Eğitimi
+M.S. (1)
+İngiliz Dili Öğretimi
+M.A. (1)
+Ph.D.
+İngiliz Edebiyatı
+M.A. (1)
+Ph.D.
+İşletme
+M.B.A. (1,2)
+Ph.D.
+Kentsel Politika Planlaması ve Yerel Yönetimler
+M.S. (1,2)
+Ph.D.
+Klinik Psikoloji
+M.S. (1,2)
+Ph.D.
+Latin ve Kuzey Amerika Çalışmaları
+M.S. (1, 2)
+Medya ve Kültürel Çalışmalar
+M.S. (1,2,3)
+Mimarlık Tarihi
+M.A. (1)
+Ph.D.
+Okul Öncesi Eğitimi
+M.S. (1)
+Ph.D.
+Orta Doğu Araştırmaları
+M.S. (1,2)
+Psikoloji
+M.S. (1)
+Ph.D.
+Rehberlik ve Psikolojik Danışmalık
+M.S. (1)
+Ph.D.
+Siyaset Bilimi ve Kamu Yönetimi
+M.S. (1,2)
+Ph.D.
+Sosyal Antropoloji
+M.S. (1)
+Sosyal Bilimler (Türk-Alman)
+(ODTÜ-Humboldt Çift Diploma Programı)
+M.A. (2)
+Sosyal Politika
+M.S. (1,2)
+Sosyoloji
+M.S. (1,2)
+Ph.D.
+Tarih
+M.A. (1)
+Ph.D.
+Toplumsal Cinsiyet ve Kadın Çalışmaları
+M.S. (1,2)
+Uluslararası İlişkiler
+M.S. (1,3)
+Ph.D.
+Uygulamalı Etik
+M.S. (3)
+Yerleşim Arkeolojisi
+M.S. (1)
+Ph.D.
+Yöneticiler için İşletmecilik
+M.B.A. (3)
+Deniz Bilimleri Enstitüsü
+Program
+Verilen Dereceler*
+Deniz Bilim (Oşinografi)
+M.S. (1)
+Ph.D.
+Deniz Biyolojisi ve Balıkçılık
+M.S. (1)
+Ph.D.
+Deniz Jeolojisi ve Jeofiziği
+M.S. (1)
+Ph.D.
+Enformatik Enstitüsü
+Program
+Verilen Dereceler*
+Bilişim Sistemleri
+M.S. (1,2)
+Ph.D.
+Bilişsel Bilimler
+M.S. (1,2)
+Ph.D.
+Biyoenformatik
+M.S. (1)
+İnternet Üzerinden Bilişim
+M.S. (3)
+Modelleme ve Simulasyon
+M.S. (3)
+Çokluortam Bilişimi
+M.S. (1)
+Ph.D.
+Tıp Bilişimi
+M.S. (2)
+Ph.D.
+Siber Güvenlik
+M.S. (1,2)
+Veri Bilişimi
+M.S. (1)
+Yazılım Yönetimi
+M.S. (3)
+Uygulamalı Matematik Enstitüsü
+Program
+Verilen Dereceler*
+Aktüerya Bilimleri
+M.S. (1,2)
+Bilimsel Hesaplama
+M.S. (1,2)
+Ph.D
+Finansal Matematik
+M.S. (1,2)
+Ph.D
+Kriptografi
+M.S. (1,2)
+Ph.D.
+ODTÜ Kuzey Kıbrıs Kampusu
+Program
+Verilen Dereceler*
+Bilgisayar Mühendisliği
+M.S (1)
+Elektrik ve Elektronik Mühendisliği
+M.S (1)
+İngilizce Öğretmenliği
+M.A. (1)
+Makina Mühendisliği
+Siyaset Bilimi & Uluslararası İlişkiler
+M.S (1)
+Sürdürülebilir Çevre ve Enerji Sistemleri
+M.S (1)
+Son güncelleme
+26/01/2026 - 13:52

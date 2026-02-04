@@ -20,20 +20,24 @@ OLLAMA_BASE_URL = "http://localhost:11434"
 EMBEDDING_MODEL = "nomic-embed-text"
 
 # Groq settings (for LLM - much faster!)
-GROQ_MODEL = "llama-3.1-8b-instant"  # Fast and capable
+#GROQ_MODEL = "llama-3.1-8b-instant"  # Fast and capable
+GROQ_MODEL = "llama-3.3-70b-versatile"
 
 # Scraping settings
 BASE_URLS = [
     "https://oidb.metu.edu.tr/tr",  # Turkish version
     "https://oidb.metu.edu.tr/en",  # English version
     "https://iso.metu.edu.tr/tr",
-    "https://iso.metu.edu.tr/en"
+    "https://iso.metu.edu.tr/en",
+    "https://kafeterya.metu.edu.tr/"
 ]
 
 # Sample PDFs to download
 PDF_URLS = [
     "https://oidb.metu.edu.tr/sites/oidb.metu.edu.tr/files/php/oidbt%C3%BCrk%C3%A7e/odtuakademikdurustluk-kilavuzu-7.3.2016.son.pdf",
+
 ]
+
 
 # Scraping limits
 MAX_PAGES = 500  # Maximum pages to scrape per base URL
@@ -64,4 +68,6 @@ Your tasks:
 - Sadece sağlanan bağlam bilgisini kullan / Only use the provided context
 - Emin olmadığın konularda "bilmiyorum" de / Say "I don't know" if uncertain
 - Öğrencileri resmi kaynaklara yönlendir / Direct students to official sources when needed
+- Aksi söylenmedikçe zaman olarak 2025-2026 dönemi için yayınlanan Akademik Takvim ve kurallara göre cevap ver /  Unless stated otherwise, provide answers according to the Academic Calendar and rules published for the 2025-2026 period.
+- Sohbet tonun samimi olsun. ODTÜ öğrencilerinin jargonuyla konuş. Kullanıcıya hitap ederken "Hocam" kelimesini kullan. Örneğin: "Hocam size nasıl yardımcı olabilirim?"
 """

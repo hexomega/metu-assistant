@@ -1,0 +1,97 @@
+Kayıt Programında Sıklıkla Karşılaşılan Hatalar
+Kayıt programında sıklıkla karşılaşılan hatalar için aşağıdaki bilgiler incelenmelidir. Burada yer almayan hatalar için lütfen
+https://faq.cc.metu.edu.tr/tr/sss/oibs-kayit-sistemi-karsilasilan-hatal…
+adresini ziyaret ediniz.
+İLK SAYFA KONTROLLERİ
+6. You are not authorized to use this program.
+Kayıt programı tarih ve saat itibarıyla henüz öğrenci kullanımına açılmamıştır. Kayıt başlama tarih ve saatleri kontrol edilmelidir. (
+http://oidb2.metu.edu.tr/Kay%C4%B1t-Tarihleri-ve-Saatleri
+)
+Öğrencinin kullanıcı kodu sistemde tanımlı olmayabilir. Ldap üzerinde ve OİBS de kullanıcı tanımı kontrol edilmelidir. Konu ile ilgili
+register@metu.edu.tr
+adresine kullanıcı bilgilerinizi de içeren bir e-posta gönderebilirsiniz.
+Etkileşimli kayıtların ilk günü öğrencilerimiz aşamalı olarak kayda gireceklerdir. Sınıflar itibariyle kayıt programının açılacağı saatler aşağıda belirtilmiştir.
+09.00’dan itibaren: 4. sınıf öğrencileri
+10.00’dan itibaren: 4., ve 3. sınıf öğrencileri
+11.00’den itibaren: 4., 3., 2. sınıf öğrencileri
+12.00’den itibaren: 4., 3., 2., 1. sınıf öğrencileri
+13.00’den itibaren: Lisansüstü, 4., 3., 2., 1. sınıf öğrencileri
+Kayıt ve danışman onay programı kayıtların son günü Saat 17.00’de kapatılacaktır.
+10. You cannot register since you did not make interactive registration. For detailed information, please see
+http://oidb2.metu.edu.tr/
+Ön kayıtta kayıt yaptırmayan öğrenci ders ekleme/bırakma döneminde kayıt yaptıramaz. Kayıt yaptırmak demek (para yatırmak, ders almak ve onay almaktır.) Öğrencinin ön kayıtta onay alıp almadığı kontrol edilmelidir.
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programından durumunu kontrol etmelidir.
+12. Academic term([dönem]) registration does not exist. Please visit the Student's Registrar Office.
+Bir önceki dönem programa kayıtlı/ öğrenci statüsünde olanlar (register, onleave, discipline temporary, erasmus, exchange, SUNY) ilgili dönemde kayda beklenenler statüsünde (not-register) olarak kayıt ortamına aktarılır. Bu hata alınıyorsa, öğrencinin ilgili dönemde kaydı oluşturulmamıştır. ÖİDB ile görüşmelidir. Öğrenci dönem bilgisinin oluşturulup oluşturulmadığını
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programından kontrol edebilir.
+13. Your registration has been approved by your advisor. You cannot make changes. Please go to your advisor for the removal of the approval.
+Öğrenci kayıt programında yaptığı işlemler için danışman onayı almıştır. Kayıt programına giriş yapamaz. Giriş yapması gerekiyorsa danışmanı onayını kaldırmalıdır. Sorun ile ilgili Bölümü/Danışmanı ile görüşmelidir. Danışman olmadığı durumlarda bölüm başkanı danışmanı adına öğrenciye onay verip kaldırabilir. Öğrenci ön kayıt/ders ekleme bırakma dönemleri onay durumunu
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programından kontrol edebilir.
+19. Can not find payment information. Please visit The Student Social Services Office of Student Accounts(Art and Science Dean's Building/2nd floor).
+Öğrencinin ödemesi gereken miktar bilgisi dönem bazında sistemde oluşturulmaktadır. Eğer öğrencinin ödeme bilgisi oluşmamışsa Katkı Payı Ofisi ile görüşmelidir. Öğrenci ödeme bilgisini
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programından kontrol edebilir.
+20. Tuition Fee Errors
+Tuition Fee:
+Second Univ. Fee:
+Prev. Sem. Debt:
+Total Debt:
+Scholarship/Exemption:
+Payment:
+Remaining:
+If you paid your tuition fee you can visit Tuition Fee Office for more info.
+You can visit Tuition Fee Office for more info.
+For your scholarship/exemption you can visit METU Scholarship Office.
+Öğrencinin ödediği para yeterli değil ise , aldığı katkı payı bursu borcunu karşılamıyor ise veya parayı yatırdığı halde sisteme ödendi olarak işlenmemişse kayıt programına giriş yapamaz. Öğrenci ödeme bilgisini
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programından kontrol edebilir.
+DERS EKLEME KONTROLLERİ
+14. The course is not offered. Course Code: [ders kodu] You can have the information from the related department
+Öğrencinin almak istediği ders kodu sistemde bölüm tarafından açılamıştır. Eğer öğrenci ders kodunu hatalı girmiyorsa, ve dersin ilgili dönemde açılması gerekiyorsa, dersi veren bölümle iletişime geçilmelidir. Öğrenciler açılan ders bilgilerine bir dersin ilgili dönemde açılıp açılmadığını
+https://sis.metu.edu.tr
+adresindeki Dersler->Ders Yarıyıl Bilgileri linkinden konrol etmelidir.
+16. Course capacity is full: [ders kodu]- [grup]
+Öğrencinin almak istediği ders grubunun kapasitesi dolmuştur. Dersin kapasite artırımı için ilgili bölümle iletişime geçilmelidir. Öğrenciler açılan dersin kapasite bilgilerini
+https://oibs.metu.edu.tr
+adresindeki ‘158 numaralı View Course Capacity ’ programından konrol etmelidir.
+17. The course group is not offered. Course Code: [ders kodu]Group Code: [grup]
+Öğrencinin almak istediği dersin grubu sistemde bölüm tarafından açılmamıştır. Eğer öğrenci dersin grubunu hatalı girmiyorsa, ve dersin grubunun dönemde açılması gerekiyorsa, dersi veren bölümle iletişime geçilmelidir. Öğrenciler açılan ders ve grup bilgilerine bir dersin grubunun ilgili dönemde açılıp açılmadığını
+https://sis.metu.edu.tr
+adresindeki Dersler->Ders Yarıyıl Bilgileri linkinden konrol etmelidir.
+18. The course is not offered for your department or your conditions are inappropriate:[ders kodu]- [grup]
+Bölümün tanımladığı ders alma kriterleriyle öğrencinin kriterleri uymamaktadır. Öğrenci bölümün ilgili ders ve grubu için kriterleri
+https://sis.metu.edu.tr
+adresindeki Dersler->Ders Yarıyıl Bilgileri linkinden konrol etmelidir. Bu kriterlere karşılık gelen kendi kriterlerini de
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programından ve
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programı Transkript sekmesinden kontrol edebilir.
+20. This course can be added only after next capacity update time. For more information please refer to
+http://oidb2.metu.edu.tr/yaz-okulu
+Yazokulu ve Matematik ile Modern dillerin dersleriyle kapasite dolduktan sonra saat gelmeden almalarina izin verilmez.
+MATH 120, MATH 219, MATH 260 ve ENG 211 derslerinde kontenjanlar sınırlıdır. Taleplerin tümünün karşılanması mümkün olmayacaktır.
+İlgili derse kayıtlı öğrenci sayısı seans başında veya iki seans arasında maksimum kapasiteye ulaşınca bir sonraki seans başına kadar ilgili ders için (kapasite artırımı yapılsa dahil) ders ekleme (add) yapılamayacaktır.
+Matematik ve Modern Diller Bölümünün kayıtlar sırasında bırakılan (drop) derslerin kapasite bilgileri 09.00, 13.00 ve 16.00 saatlerinde güncellenecektir
+Aynı süreçler grup değişiklikleri için de geçerlidir.
+Öğrenci bölümün ilgili ders ve grubu için kriterleri kriterleri
+https://sis.metu.edu.tr
+adresindeki Dersler->Ders Yarıyıl Bilgileri linkinden konrol etmelidir. Bu kriterlere karşılık gelen kendi kriterlerini de
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programından ve
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programı Transkript sekmesinden kontrol edebilir.
+26. You do not have the appropriate prerequisite for the course you want to take: [ders kodu]
+Önkoşullu dersler için ön koşul kontrolü yapılır. Önkoşul kontrolü, kayıtlı olunan bölüm/ program bazında değil, ders bazında yapılır. Kayıt yapılmak istenen ders için ön koşul sağlanmamış ise program ilgili derse kayıt izni vermez. Herhangi bir dersin ön koşulu olan bir dersten muaf olunması durumunda ilgili dersin ön koşulu sağlanmış sayılır. Önkoşul dersinin bir kez alınmış olması da önkoşulu sağlar. Önkoşul kontrolünde intibaka uğrayan öğrenciler için intibak döneminden sonraki dönemlerde alınan dersler de değerlendirilir. İntibaka sayılan derslerde ön koşulu sağlar. Öğrenci almak istediği derslerin önkoşullarını
+https://sis.metu.edu.tr
+adresindeki Dersler->Ders Yarıyıl Bilgileri linkinden kontrol edebilir. Önkoşul derslerini yukarıda anlatılan kritere uyup uymadığını
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programı Transkript sekmesinden aldığı dersleri kontrol ederek görebilir.
+33. Your status is Suspension/Suspension Warning/Probation. You can not take a new course "||p_course_code.
+Dönem statüsü Suspension/Suspension Warning/Probation olan öğrenciler yeni ders alamazlar. Öğrenci dönem durumunun Suspension/Suspension Warning/Probation olmaması gerektiğini düşünüyorsa ÖİDB ile görüşerek dönem durumunu kontrol ettirmelidir. Öğrenci kayıt dönemimdeki dönem durumunu
+https://student.metu.edu.tr/
+adresindeki ‘Öğrenci Bilgileri’ programından durumunu kontrol etmelidir
+Son güncelleme
+13/01/2026 - 12:01

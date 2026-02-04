@@ -1,0 +1,65 @@
+Lisansüstü Programlara Yeni Kabul Edilenlerin Çevrimiçi (Online) Evrak Teslimi
+Aşağıda belirtilen belgeler lisansüstü başvuru sırasında başvuru sistemi üzerinden Enstitülere verilmiş olsa dahi, kayıtların düzenli bir şekilde yürütülebilmesi ve arşivlenmesi için “evrak teslim işlemleri sistemine” tekrar yüklenmesi gerekmektedir.
+Evrak Teslim İşlemi Sistemine "Yüksek Lisans ve Doktora Başvuruları/Application for Admission to Graduate Programs at METU" (
+https://application.metu.edu.tr
+) programından "Document Submission for Registration" bağlantısı kullanılarak girilmesi gerekmektedir.
+Lisansüstü Yeni Kayıt Evrak Teslim Formu:
+Evrak teslim formunun
+buradan
+indirilerek
+formatı ve içeriği değiştirilmeksizin
+doldurulup
+ıslak
+imzalanması ve yüklenmesi gerekmektedir. Formun eksik doldurulması veya imzalanmadan sisteme yüklenmesi durumunda evrak teslim işlemleri onaylanmayacaktır.
+ALES/GRE/GMAT Sınav Sonuç Belgesi:
+ALES/GRE/GMAT sınav sonuçlarının geçerlilik süresi
+5 yıldır
+. Ancak, Üniversitemiz Lisansüstü Eğitim-Öğretim Yönetmeliği gereğince;
+ODTÜ’nün herhangi bir lisansüstü programından ayrıldıktan veya mezun olduktan sonra en fazla
+bir dönem
+ara vererek yeniden bir lisansüstü programa başvuru yapanlardan başvuru yaptıkları Anabilim Dalının belirlediği ve ilgili Enstitünün ilan ettiği ALES puanını sağlamış olmak koşulu ile yeni tarihli ALES belgesi istenmez.
+İlgili Enstitü tarafından ilan edilen ALES/GRE/GMAT puan koşullarını sağlamayanların yeni tarihli ALES/GRE/GMAT sınav sonuç belgelerinden birini sunmaları zorunludur. ALES ve eşdeğeri uluslararası sınav puanlarının geçerlilik süresi, sınavın açıklandığı tarihten itibaren ilgili sınavları yapan kurumun belirlediği geçerlik süresidir. Lisansüstü programa başvurulan tarihte geçerlilik süresinin dolmamış olması gerekir. Başvuru tarihinde geçerli olan belge programa kayıt tarihinde de geçerli sayılır.
+ODTÜ İYS/TOEFL IBT/IELTS ACADEMIC/PTE ACADEMIC Belgesi:
+ODTÜ Lisansüstü Eğitim-Öğretim Yönetmeliği gereğince;
+lisansüstü programlara başvuru için adaylar İngilizce yeterliklerini belgelemek zorundadır. İngilizce yeterlik için
+ODTÜ İYS/TOEFL (IBT)/IELTS ACADEMIC (23 Aralık 2022 ve öncesinde girilen IELTS ACADEMIC sınavları (sınav tarihinin üstünden 2 yıldan fazla süre geçmemek kaydıyla))/PTE ACADEMIC sınav sonuç belgelerinden birinin sunulması zorunludur. Evrak teslim sistemindeki İngilizce Yeterlik alanına belge yüklenirken, sınav sonuç belgesi üzerinde “Ad-Soyad” bilgisi mutlaka bulunmalıdır.
+İYS sonucu yükleyecek adaylar, İYS sonuçlarının göründüğü ekranın (kimlik bilgilerini de içerek şekilde) ekran görüntüsünü pdf formatında yüklemelidirler.
+Üniversitemiz Senatosunca ODTÜ İYS’ye eşdeğerliği kabul edilen tüm İngilizce Yeterlik Sınavlarının geçerlik süresi
+2 yıldır
+. Programa başvurulan tarih itibariyle 2 yıldan daha eski tarihli dil belgeleri kabul edilmez. Programlara başvuru tarihinde geçerli olan belge, programa kayıt tarihinde de geçerlidir.
+Lisansüstü programlara başvuran adaylardan, başvuru tarihi itibarıyla son dört dönem içerisinde (kayıt olunacak dönem hariç, başvurunun yapıldığı dönem dâhil olmak üzere, geriye dönük 4 dönem);
+Üniversitemiz lisans veya lisansüstü programlarından mezun olanlardan ya da
+En az bir yarıyıl süreyle Üniversitemizde lisansüstü programlarda öğrencilik statüsü bulunan adaylardan başvurdukları Enstitü Anabilim Dalı Başkanlığı'nın (EABD) belirlediği İngilizce Yeterlik Sınavı (İYS) puanını sağlamaları şartıyla, ingilizce yeterliliklerini yeniden belgelemeleri istenmez.
+Son dört dönem içinde
+(kayıt olunacak dönem hariç, başvurunun yapıldığı dönem dâhil olmak üzere, geriye dönük 4 dönem) en az
+bir dönem
+ODTÜ’de lisansüstü öğrencisi olup aynı veya başka bir lisansüstü programa yeniden kabul edilenlerden kayıt sırasında yeni tarihli İngilizce Yeterlik belgesi istenmez.
+Ancak,
+ilgili Enstitü tarafından ilan edilen ODTÜ İYS/TOEFL (IBT)/IELTS ACADEMIC/PTE ACADEMIC puan koşullarını sağlamayanların yeni tarihli ODTÜ İYS/TOEFL IBT/IELTS ACADEMIC (23 Aralık 2022 ve öncesinde girilen IELTS ACADEMIC sınavları (sınav tarihinin üstünden 2 yıldan fazla süre geçmemek kaydıyla))/PTE ACADEMIC sınav sonuç belgelerinden birini sunmaları zorunludur.
+ODTÜ öğrencisi numarası ile programa kabul edilenler; ODTÜ EPE belgesini “student.metu.edu.tr” adresinde yer alan 196 No’lu programdan, ODTÜ dışından kabul edilen adaylar ise “application.metu.edu.tr”  adresinde yer alan “EPE Application” programından alınacak ekran  görüntüsünü PDF formatına çevirerek Evrak Teslim programına  yüklemeleri gerekmektedir.
+Diploma/Mezun Belgesi
+: Diploma/Mezun Belgesi asılları veya e-Devlet Kapısından alınan mezun belgeleri
+kabul edilmektedir
+. Yükseköğretim kurumlarından alınan mezuniyet yazıları
+kabul edilmemektedir
+. Yurt dışındaki yükseköğretim kurumlarından mezun olanların YÖK tarafından verilen “Tanınma Belgesi” veya “Denklik Belgesi” de yüklemesi gerekmektedir. Denklik Belgesi olmaksızın Tanınma Belgesi ile Öğrenci İşleri Daire Başkanlığı’na evrak teslim işlemleri için başvuran adayların, Tanınma Belgesi ile birlikte
+http://oidb.metu.edu.tr/tr/formlar
+adresindeki Taahhütname Belgesini doldurarak programdaki denklik kısmına yüklemeleri gerekmektedir. Tanınma Belgesi ile birlikte Taahhütname Belgesi veya Denklik Belgesi yüklenmeden yapılan evrak teslim işlemleri onaylanmayacaktır. Denklik Belgesi olmadan Tanınma Belgesi ile birlikte Taahhütname Belgesi yükleyerek lisansüstü programa kayıt olan T.C. uyrukluların; lisansüstü mezuniyet işlemlerinin tamamlanabilmesi için kayıtlı oldukları lisansüstü programdan mezun oluncaya kadar Denklik Belgesini almaları ve bu belgeyi Öğrenci İşleri Daire Başkanlığı’na ibraz etmeleri zorunludur.
+Öğrenciye ait E-Devlet Kapısı uygulaması üzerinden alınan Vukuatlı Nüfus Kayıt Örneği
+Fotoğraf (1 adet)
+Vesikalık fotoğraf ebatı 50 mm x 60 mm, beyaz fonda ve desensiz olmalıdır.
+Fotoğraf 3MB’ı aşmamalı ve png/ jpg/ jpeg/ gif formatında olmalıdır.
+Başın konumu dik olmalı, baş herhangi bir yöne dönük olmamalıdır. Fotoğraf gülme vb. mimikler olmadan, ağız kapalı olarak çekilmelidir.
+Gözler açık konumda olmalı ve net olarak görünmelidir. Saçlar gözleri kapatmamalı ve fotoğraf çekilirken doğrudan kameraya bakılmalıdır.
+Yüz, fotoğraf üzerinde ortalanmış olmalıdır.
+Kişinin zorunlu olarak kullandığı gözlük dışında şapka ve vb. aksesuar bulunmamalıdır.
+Aynı anda hem Tezli Yüksek Lisans/Lisans Sonrası Doktora/Yüksek Lisans Sonrası Doktora programlarından birine kabul edilen, hem de Tezsiz Yüksek Lisans Bilimsel Hazırlık Programına kabul edilen adaylar; evrak teslimi sırasında
+Tezsiz Yüksek Lisans Bilimsel Hazırlık Programına “Kabul Mektubunu” sisteme yüklemek zorundadırlar.
+KAYIT SİLDİRME
+Aşağıda belirtilen durumlarda olan öğrencilerin, önceki programlarından kayıt sildirme işlemi yapmaları gerekir.
+Kayıt sildirme işlemi yapılmaksızın, talep edilen evrak teslim işlemleri onaylanmayacaktır.
+Lisansüstü programlarda kayıtlı iken, yeniden aynı Anabilim Dalının farklı opsiyonuna kabul edilen öğrenciler
+Yüksek lisans programından mezun olup, doktora programına kabul edilen öğrenciler
+Diğer Yükseköğretim kurumlarında tezli bir programa kayıtlı olup, üniversitemizde tezli programa kabul edilen öğrenciler
+Son güncelleme
+12/01/2026 - 14:21

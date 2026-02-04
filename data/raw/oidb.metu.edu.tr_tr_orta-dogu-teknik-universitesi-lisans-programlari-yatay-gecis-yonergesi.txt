@@ -1,0 +1,237 @@
+Orta Doğu Teknik Üniversitesi Lisans Programları Yatay Geçiş Yönergesi
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönergenin amacı, Orta Doğu Teknik Üniversitesi (ODTÜ) önlisans ve lisans programlarına yatay geçiş esaslarını düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönerge, ODTÜ ile Yükseköğretim Kurulu tarafından denkliği tanınan yükseköğretim kurumlarının önlisans ve lisans düzeyindeki eşdeğer diploma programları arasındaki yatay geçiş esaslarına ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönerge, 24/4/2010 tarihli ve 27561 sayılı Resmi Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1)
+Bu Yönergede geçen;
+a) Diploma programı: Fakülte, yüksekokul, konservatuvar, meslek yüksekokulu veya bölümlerin belirlenen yeterlilikleri sağlayan öğrencilere önlisans veya lisans diploması düzenlenen yükseköğretim programlarını,
+b) Eşdeğer diploma programı: İsimleri aynı olan veya ilgili yönetim kurulları tarafından içeriklerinin en az yüzde sekseni aynı olduğu tespit edilen diploma programlarını,
+c) Genel not ortalaması: Öğrencinin hazırlık sınıfı hariç, geçiş yapmak istediği döneme kadar almış olduğu tüm derslerin kredilerine göre ağırlıklandırılmış not ortalamasını,
+ç) İlgili yönetim kurulu: Orta Doğu Teknik Üniversitesi fakülte yönetim kurullarını,
+d) İntibak: Diploma programları arasında geçiş yapılması halinde, geçiş yapılan diploma programının müfredatına uyum sağlamak amacıyla ilave ders ve uygulamaların bütününü,
+e) İYS: ODTÜ Yabancı Diller Yüksekokulu İngilizce Yeterlik Sınavını,
+f) Kontenjan: Önceden belirlenip ilan edilen öğrenci sayısını,
+g) Kurum içi yatay geçiş: Bir öğrencinin kayıtlı olduğu yükseköğretim kurumu içindeki aynı düzeydeki diğer diploma programlarına geçişini,
+h) Kurumlar arası yatay geçiş: Bir yükseköğretim kurumundan aynı düzeyde başka bir yükseköğretim kurumuna yapılan geçişi,
+ı) ODTÜ: Orta Doğu Teknik Üniversitesini,
+i) Rektör: Orta Doğu Teknik Üniversitesi Rektörünü,
+j) Senato: Orta Doğu Teknik Üniversitesi Senatosunu,
+k) Taban puan: Bir yükseköğretim kurumunun diploma programına Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından merkezi sınavla yerleştirilen en düşük puanlı öğrencinin giriş puanını,
+l) Yatay geçiş: Bir yükseköğretim kurumunda kayıtlı olan öğrencinin bu Yönergedeki esaslar çerçevesinde, aynı düzeydeki diğer diploma programlarında öğrenime devam etme hakkı kazanmasını,
+m) Yönetmelik: Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin YÖK Yönetmeliğini,
+n) Yükseköğretim öğrenci veritabanı (YÖKSİS): Yükseköğretim Kurulu bünyesinde tüm yükseköğretim kurumlarında önlisans, lisans ve lisansüstü düzeylerde öğrenim gören öğrencilerin bilgilerinin tutulduğu merkezi veri tabanını,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel İlkeler
+İngilizce yeterlik
+MADDE 5 -
+(1) ODTÜ dışından başvuran öğrencilerin İngilizce yeterliklerini başvuru sırasında belgelemesi zorunludur.
+(2) Adaylar, ODTÜ Yabancı Diller Yüksekokulu (YDYO) tarafından yapılan İYS veya YDYO tarafından önerilen ve Senato tarafından eşdeğerliği kabul edilen uluslararası sınavlardan elde ettikleri geçerli sınav sonucunu sunabilirler.
+(3) Merkezi Yerleştirme Puanı ile Yatay Geçiş kontenjanından başvuran adaylardan Öğretim dili Türkçe/kısmen yabancı dille (% 30 İngilizce) ya da öğretim dili tamamen İngilizce ve/veya diğer dillerle (Fransızca, Almanca, vb.) eğitim yapan yükseköğretim kurumlarından geçişte;
+a)  Eğitim dili Türkçe ya da kısmen yabancı dilde (%30 İngilizce) eğitim yapan yükseköğretim kurumu öğrencilerinden
+aynı bölüme başvuru
+yapan hazırlık veya birinci sınıfta olup İngilizce yeterliğini belgeleyemeyen adayların, kayıtlı olduğu üniversitede hazırlık eğitimi almamış olanlara iki yıl, hazırlık eğitimi bir yıl almış olanlara bir yıl hazırlık okuma hakkı verilir. Kayıtlı olduğu üniversitede sınıfı iki ve üzeri olan adaylara hazırlık okuma hakkı verilmez. Bu adayların ODTÜ Senatosu tarafından eşdeğerliği kabul edilen dil belgelerinden birini sunması zorunludur.
+b)    Eğitim dili Türkçe ya da kısmen yabancı dilde (%30 İngilizce) eğitim yapan yükseköğretim kurumu öğrencilerinden
+farklı bölüme
+başvuru yapan adaylardan İngilizce yeterliğini belgeleyemeyenlerin, kayıtlı olduğu üniversitedeki sınıfına bakılmaksızın; hazırlık eğitimi almamış olanlara iki yıl, hazırlık eğitimi bir yıl almış olanlara bir yıl hazırlık okuma hakkı verilir.
+c)    Eğitim dili tamamen İngilizce ve/veya diğer dillerde eğitim yapan yükseköğretim kurumlarından geçişte; hazırlık veya birinci sınıfta olup İngilizce yeterliğini belgeleyemeyen adayların, kayıtlı olduğu üniversitede hazırlık eğitimi almamış olanlara iki yıl, hazırlık eğitimi bir yıl almış ve hazırlık azami süresini doldurmamış olanlara bir yıl hazırlık okuma hakkı verilir. Kayıtlı olduğu üniversitede sınıfı iki ve üzeri olan adaylara hazırlık okuma hakkı verilmez. Bu adayların ODTÜ Senatosu tarafından eşdeğerliği kabul edilen dil belgelerinden birini sunması zorunludur.
+(4) Ana dili İngilizce olan ülkelerin vatandaşları ile en az son üç yılında, İngilizcenin ana dil olarak konuşulduğu bir ülkede, o ülke vatandaşlarının devam ettiği ortaöğretim kurumlarında eğitim görüp ortaöğrenimini bu kurumlarda tamamlayanların İngilizce yeterlikleri YDYO Yönetim Kurulu tarafından değerlendirilir. YDYO Yönetim Kurulu tarafından uygun görülenler, ÖİDB tarafından lisans programlarına kayıtlı hale getirilirler.
+Kontenjan
+MADDE 6 -
+(1) Yatay geçiş kontenjanları YÖK’ün ilgili yönetmeliği çerçevesinde  belirlenir ve ilan edilir.
+(2) Bahar yarıyılı için lisans programlarına kurumlar arası yatay geçiş kontenjanı açılmaz.
+(3) Güz ve Bahar yarıyılı için kurum içi yatay geçiş kontenjanı açılıp/açılmaması ilgili fakültelerin yönetim kurullarının takdirindedir.
+(4) Fakülteler tarafından kontenjanların ilan edilmesinden sonra değişiklik veya kontenjanlar arasında aktarma yapılamaz.
+(5) Yeterli sayıda başvuru olmasına rağmen, kontenjanların akademik gerekçelerle doldurulmaması ilgili bölüm başkanlıklarının önerisi ile fakültenin yönetim kurullarının takdirindedir.
+Geçişler
+MADDE 7
+– (1) Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz.
+Başvuru ve değerlendirme
+MADDE 8
+– (1) Diploma programları arasında yatay geçiş başvuruları, Akademik Takvimde belirtilen süre içinde ilgili fakültelere yapılır.
+(2) Bu Yönergedeki şartlara ilave olarak yatay geçiş başvurularının değerlendirilmesinde üniversite senatosu tarafından ek (özel) kriterler belirlenebilir.
+(3) Başvurularla ilgili ön değerlendirmeyi, üniversite senatosunun belirlemiş olduğu ilkeler çerçevesinde, ilgili yönetim kurulları tarafından oluşturulan komisyonlar yapar.
+(4) İlgili komisyonlar tarafından başvurular, adayların genel not ortalaması ile programın puan türünde yükseköğretime kayıt olduğu yıldaki ÖSYS/YKS puanının en az %40'ı hesaplamaya dahil edilerek senato tarafından belirlenmiş olan kriterlere göre değerlendirilir ve ayrılan kontenjana göre geçiş sağlanır.
+(5) Diploma programına yatay geçiş yerleştirme işlemleri ilgili fakültelerin yönetim kurulu kararı üzerine yapılır.
+(6) Kayıt dondurmuş olmak, yatay geçiş başvuru hakkından yararlanmak için engel teşkil etmez.
+Sonuçların ilanı ve intibak
+MADDE 9 -
+(1) Öğrencilerin kabulü ve intibak işlemleri, bölüm başkanlığının önerisi üzerine ilgili fakülte yönetim kurulu tarafından karara bağlanır ve başvuru sonuçları ilgili fakülte tarafından ilan edilir.
+(2) İlgili kurullar, öğrencinin daha önceki dönemlerde aldığı dersler ile yatay geçiş yaptığı programın derslerini dikkate alarak senatonun belirlediği esaslara göre öğrencinin hangi sınıfa ve yarıyıla intibak ettirileceğini tespit eder. Bir intibak ile öğrencinin alması gereken ilave dersler ve muaf tutulması gereken dersleri belirler.
+(3) Bu Yönerge kapsamında yatay geçiş başvurusu kabul edilen öğrencilerin ilgili Bölüm ve Fakülte Yönetim Kurulu tarafından intibakları yapıldıktan sonra Öğrenci İşleri Daire Başkanlığı tarafından kayıt işlemleri tamamlanır ve yükseköğretim öğrenci veri tabanına (YÖKSİS) bilgileri işlenir.
+(4) Kabul edildiği döneme ait kayıt tarihleri başlamadan önce yatay geçiş hakkından vazgeçen öğrencilerin yatay geçiş işlemleri iptal edilir.
+ÜÇÜNCÜ BÖLÜM
+Kurum İçi Programlar Arası Yatay Geçiş
+Kurum içi yatay geçiş kontenjanları ve taban puan şartı
+MADDE 10 –
+(1) ODTÜ Ankara / Kuzey Kıbrıs Kampuslerinden eşdeğer düzeydeki diploma programlarına ilgili yönetim kurulu tarafından belirlenen kurum içi kontenjanlar dahilinde yatay geçiş yapılabilir.
+(2) Kurum içi kontenjan, ÖSYM kılavuzunda her yıl ilan edilen öğrenci genel kontenjanının yüzde on beşini geçmeyecek şekilde hesaplanır. İlgili yönetim kurulları tarafından karara bağlanır.
+3) Kurum içi kontenjan,
+ODTÜ Ankara ve Kuzey Kıbrıs Kampusundan başvuru yapan lisans öğrencilerinden, başarılı ve izlemiş olduğu program ile başvurduğu programı eşdeğer olan öğrenciler için ilgili yönetim kurulu tarafından belirlenen kontenjandır.
+(4) Kurum içi kontenjan; lisans diploma programlarının hazırlık sınıfına, ilk iki yarıyılı ile son iki yarıyılına açılmaz.
+Kurum içi kontenjan için başvuru koşulları
+MADDE 11 –
+(1) Bu kapsamda başvuracak adayların başvuru yapabilmesi için aşağıda belirtilen koşulları sağlaması gerekir.
+a) Öğrencinin başvuru sırasında eşdeğer bir programda kayıtlı veya izinli (öğrenci statüsünde) olması zorunludur.
+b) Öğrencinin programında (İngilizce hazırlık sınıfı hariç) en az iki yarıyılı tamamlamış olması zorunludur.
+c) Öğrencinin kayıtlı bulunduğu programda, bitirmiş olduğu yarıyıllara ait programın müfredatında belirtilen tüm dersleri almış ve kredili derslerde en az DD veya eşdeğeri, kredisiz derslerde S veya eşdeğeri notu almış olması zorunludur. Kayıtlı olduğu yarıyıllarda, program müfredatında yer alan tüm dersleri almamış olan öğrenciler ya da herhangi bir dersten başarısız olan (FF, FD, NA, U, I, W veya eşdeğeri) öğrencilerin başvuruları değerlendirmeye alınmaz.
+ç) Öğrencinin genel not ortalamasının en az 2.50/4.00 olması zorunludur.
+d) Öğrencinin geçiş yapmak istediği programın varsa diğer başvuru koşullarını (mülakat, portfolyo vb.) yerine getirmiş olması zorunludur.
+e) Bu kapsamda başvuru yapacak uluslararası öğrencilerin, kayıtlı olduğu programa girmiş olduğu yıla ait ODTÜ lisans programlarına yurt dışından öğrenci kabul kriterlerinde yer alan sınavlardan (SAT, GCE vb.) başvurulan bölüm için istenilen puan kriterini sağlamış olması zorunludur.
+Kurum içi yatay geçiş değerlendirme
+MADDE 12 –
+(1) Başvurularla ilgili ön değerlendirmeyi, üniversite senatosunun belirlemiş olduğu ilkeler çerçevesinde, ilgili yönetim kurulları tarafından oluşturulan komisyonlar yapar.
+(2) Başvurular, adayların genel not ortalaması ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı dikkate alınarak, üniversite senatosu tarafından belirlenmiş olan kriterlere göre değerlendirilir ve ayrılan kontenjana göre geçiş sağlanır.
+Kurum içi yatay geçiş intibak işlemi
+MADDE 13 –
+(1) Yatay geçişle gelen öğrencilerin önceki diploma programından aldığı ve başarılı olduğu derslerin intibakının yapılarak, bu derslere ilişkin daha önce alınan notlar transkripte işlenir ve not ortalamasına eklenir.
+(2) Yatay geçiş başvurusu ODTÜ içinden (Kurum içi) kabul edilen öğrencilerin, daha önce kayıtlı oldukları programda alıp başarılı oldukları
+derslerden hangilerinin sayılabileceği ilgili
+bölüm başkanlığının önerisi ve fakülte yönetim kurulu kararı doğrultusunda, yeni programlarına güncel müfredata göre sayılabilir. Bu derslerin öğrencilerin yarıyıl ve genel not ortalaması hesaplarına katılması ile ilgili esaslar Senato tarafından belirlenir.
+(3) Kabul edilen adayların, intibak işlemlerinde hangi sınıfa ve döneme kabul edileceği ilgili programın toplam ders sayısı ve bir yarıyıldaki ders yüküne göre hesaplanarak Fakülte Yönetim Kurulu kararı ile belirlenir.
+DÖRDÜNCÜ BÖLÜM
+Kurumlar Arası Yatay Geçiş
+Kurumlar arası yatay geçiş
+MADDE 14 –
+(1) Kurumlar arası yatay geçiş yükseköğretim kurumlarının aynı düzeydeki eşdeğer diploma programları arasında ve Yükseköğretim Kurulu tarafından yayınlanan kontenjanlar çerçevesinde yapılır.
+Kurumlar arası yatay geçiş kontenjanı
+MADDE 15 -
+(1)
+Kurumlar arası kontenjan, başarılı ve izlemiş olduğu program ile başvurduğu program eşdeğer olan öğrenciler için Yükseköğretim Kurulu Başkanlığı tarafından belirlenen kontenjandır.
+(2) Programların eşdeğerliğine, programların normal eğitim  süresi, ÖSYM puan türü, öğretim programı vb. özellikler göz önüne alınarak ilgili bölüm başkanlıklarının önerisi üzerine ilgili yönetim kurulları tarafından karar verilir.
+(3)  Gerekli başvuru koşullarını sağlamak kaydı ile aşağıda belirtilen öğrenciler kurumlar arası kontenjan kapsamına dâhil edilerek değerlendirilir.
+a) Yurt içindeki yükseköğretim kurumlarından başvuran T.C. ve KKTC uyruklu öğrenciler.
+b) Türkiye’de bir yükseköğretim kurumunda öğrenim gören uluslararası öğrenciler.
+(4) Kurumlar arası kontenjanı; lisans diploma programlarının hazırlık sınıfına, ilk iki yarıyılı ile son iki yarıyılına açılmaz.
+Kurumlar arası yatay geçiş kontenjanı için başvuru koşulları
+MADDE 16 –
+(1) Bu kapsamda başvuracak adayların başvuru yapabilmesi için aşağıda belirtilen koşulları sağlaması gerekir.
+a) Öğrencinin başvuru sırasında eşdeğer bir programda kayıtlı veya izinli (öğrenci statüsünde) olması zorunludur.
+b) Öğrencinin programında (İngilizce hazırlık sınıfı hariç) en az iki yarıyılı tamamlamış olması zorunludur.
+c) Öğrencinin kayıtlı bulunduğu programda, bitirmiş olduğu yarıyıllara ait programın müfredatında belirtilen tüm dersleri almış ve kredili derslerde en az DD veya eşdeğeri, kredisiz derslerde S veya eşdeğeri notu almış olması zorunludur. Kayıtlı olduğu yarıyıllarda, program müfredatında yer alan tüm dersleri almamış olan öğrenciler ya da herhangi bir dersten başarısız olan (FF, FD, NA, U, I, W veya eşdeğeri) öğrencilerin başvuruları değerlendirmeye alınmaz.
+ç) Öğrencinin genel not ortalamasının en az 2.50/4.00 (yüzlük sistemler için en az 75/100) olması zorunludur.
+d) Öğrencinin geçiş yapmak istediği programın varsa diğer başvuru koşullarını (mülakat, portfolyo vb.) yerine getirmiş olması zorunludur.
+e) Bu kapsamda yurt dışından başvuru yapacak uluslararası öğrencilerin, kayıtlı olduğu programa girmiş olduğu yıla ait ODTÜ Ankara Kampüsü lisans programlarına yurt dışından öğrenci kabul kriterlerinde yer alan sınavlardan (SAT, GCE vb.) başvurulan bölüm için istenilen asgari başvuru puan kriterini sağlamış olması zorunludur.
+Yurt dışı yükseköğretim kurumlarından yatay geçiş
+MADDE 17
+– (1) Yurt dışı yükseköğretim kurumlarından yatay geçiş kontenjanı kurumlar arası yatay geçiş kontenjanının yarısını aşmayacak şekilde Üniversite senatosu tarafından belirlenebilir.
+(2) Yurt dışı yükseköğretim kurumlarından yatay geçiş yapmak isteyen yabancı uyruklu adaylar için başvuru koşulları;
+a) Öğrencinin başvuru sırasında eşdeğer bir programda kayıtlı veya izinli (öğrenci statüsünde) olması zorunludur.
+b) Öğrencinin programında (İngilizce hazırlık sınıfı hariç) en az iki yarıyılı tamamlamış olması zorunludur.
+c) Öğrencinin kayıtlı bulunduğu programda, almış olduğu tüm derslerden başarılı olması zorunludur.
+ç) Öğrencinin genel not ortalamasının en az 2.50/4.00 (yüzlük sistemler için en az 75/100) olması zorunludur.
+d) Öğrencinin geçiş yapmak istediği programın varsa diğer başvuru koşullarını (mülakat, portfolyo vb.) yerine getirmiş olması zorunludur.
+e) Bu kapsamda yurt dışından başvuru yapacak uluslararası öğrencilerin, kayıtlı olduğu programa girmiş olduğu yıla ait ODTÜ Ankara Kampüsü lisans programlarına yurt dışından öğrenci kabul kriterlerinde yer alan sınavlardan (SAT, GCE vb.) başvurulan bölüm için istenilen asgari başvuru puan kriterini sağlamış olması zorunludur.
+(3)Yurt dışı Yükseköğretim kurumlarından yatay geçiş yapmak isteyen T.C. uyruklu adaylar için başvuru koşulları.
+a) Yurt dışındaki bir yükseköğretim kurumundan YÖK tarafından belirlenen ve ilgili yılın ÖSYS kılavuzunda yayınlanan başarı sıralaması şartı aranan bir programa yatay geçiş yapılabilmesi için; Öğrencinin yükseköğrenime başladığı yıl, kayıtlı olduğu üniversitenin Yükseköğretim Kurulunca esas alınan sıralama kuruluşlarının en az üçünde dünya sıralamalarında ilk dört yüzlük dilim içerisinde yer alması ve YÖK Yatay Geçiş Yönetmeliğinin dönem/sınıf ve başarı şartlarını taşıması,
+b) İlk dört yüzlük dilim dışında kalan bir üniversitede kayıtlı olunması halinde;
+1) Ortaöğretimini Türkiye’de tamamlayanların, her halükârda merkezi yerleştirme sınavına girmiş ve kayıt yılı itibarıyla başarı sıralaması şartı aranan programın ilgili puan türünde başarı sıralaması şartını sağlamış olması,
+2) Ortaöğretiminin en az son iki yılını yurt dışında tamamlayanların, kayıt oldukları programda, hazırlık sınıfı hariç en az dört yarıyılı başarıyla tamamlamış olması, bu kapsamda yurt dışından başvuru yapacak öğrencilerin, kayıtlı olduğu programa girmiş olduğu yıla ait ODTÜ Ankara Kampüsü lisans programlarına yurt dışından öğrenci kabul kriterlerinde yer alan sınavlardan (SAT, GCE vb.) başvurulan bölüm için istenilen asgari başvuru puan kriterini sağlamış olması zorunludur.
+c) Öğrencinin başvuru sırasında eşdeğer bir yükseköğrenim kurumunda kayıtlı (öğrenci statüsünde) olması zorunludur.
+ç) Öğrencinin lisans programında en az iki yarıyılı tamamlamış olması  zorunludur. Ancak ortaöğretiminin en az son iki yılını yurt dışında tamamlayanların, kayıt oldukları programda, hazırlık sınıfı hariç en az dört yarıyılı başarıyla tamamlamış olması gerekir.
+d) Öğrencinin kayıtlı bulunduğu programda, almış olduğu tüm derslerden başarılı olması zorunludur.
+e) Öğrencinin genel not ortalamasının en az 2.50/4.00 (yüzlük sistemler için en az 75/100) olması zorunludur.
+f) Öğrencinin geçiş yapmak istediği programın varsa diğer geçiş koşullarını (mülakat, portfolyo vb.) yerine getirmiş olması zorunludur.
+g) Yurt dışındaki bir yükseköğretim kurumundan başvuru yapacak adaylardan ortaöğretimini Türkiye’de tamamlayan veya ortaöğretimininin son iki yılını yurt dışında tamamlayan T.C. uyruklu öğrencilerin ilgili fakülteler tarafından belirlenen şartları sağlaması gerekir.
+(4) Yurt dışındaki yükseköğretim kurumlarından yatay geçişte öğrencinin yatay geçiş yapmak istediği yükseköğretim kurumundaki diploma programının ilgili sınıfına öğrenci kabulündeki taban puana sahip öğrenciler, yurt dışında yükseköğrenim gördüğü tüm derslerden başarı şartı aranmaksızın yatay geçiş başvurusu yapabilirler. Bu yolla başvuran öğrencilerin yatay geçiş başvurusu üniversite senatosu tarafından belirlenen esaslar çerçevesinde yurt dışı yatay geçiş kontenjanı kapsamı dışında değerlendirilir.
+(5) Yurt dışı üniversitelerden yapılan başvurularda öğrencinin yurt dışında öğrenim gördüğü yükseköğretim kurumunun ve eğitimin yapıldığı programın ön lisans veya lisans diploması vermeye yetkili bir kurum olarak Yükseköğretim Kurulu tarafından tanınması ve kayıtlı olduğu diploma programının, yatay geçiş için başvurduğu önlisans veya lisans diploma programına eşdeğerliğinin ilgili üniversite tarafından kabul edilmesi şartı aranır.
+(6) Yurt dışındaki yükseköğretim kurumlarından yatay geçişte, yurt dışındaki aynı yükseköğretim kurumundan bir programın her bir sınıfına geçiş yapabilecek öğrenci sayısı o programın ilgili sınıfının yurt dışı kontenjanının yüzde 15’ini geçemez. Yüzde 15’in hesaplanmasında 1’in altındaki sayılar 1’e tamamlanır. Virgülden sonraki kısım 5’ten küçükse alttaki tam sayıya, 5 ve yukarısında ise bir üst tam sayıya tamamlanır.
+Kurumlar arası yatay geçiş ve Yurt dışı yükseköğretim kurumlarından yatay geçiş değerlendirme
+MADDE 18 –
+(1) Başvurularla ilgili ön değerlendirmeyi, üniversite senatosunun belirlemiş olduğu ilkeler çerçevesinde, ilgili yönetim kurulları tarafından oluşturulan komisyonlar yapar.
+(2) Başvurular, adayların genel not ortalaması ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı dikkate alınarak, üniversite senatosu tarafından belirlenmiş olan kriterlere göre değerlendirilir ve ayrılan kontenjana göre geçiş sağlanır.
+Kurumlar arası yatay geçiş ve Yurt dışı yükseköğretim kurumlarından yatay geçiş intibak işlemleri
+MADDE 19 –
+(1) Yatay geçişle gelen öğrencilerin önceki diploma programından aldığı ve başarılı olduğu derslerin intibakının yapılarak, bu derslere ilişkin daha önce alınan notlar transkripte işlenir ve not ortalamasına eklenir.
+(2) Yatay geçiş başvurusu ODTÜ dışından (kurum dışı) kabul edilen öğrencilerin, daha önce kayıtlı oldukları yükseköğretim kurumlarından almış oldukları CC
+ve üzeri, S veya bunların eşdeğeri not alınmış derslerden hangilerinin sayılacağı ilgili
+bölüm başkanlığının önerisi ve fakülte yönetim kurulu kararı doğrultusunda, yeni programlarına güncel müfredata göre sayılabilir. Bu derslerin öğrencilerin yarıyıl ve genel not ortalaması hesaplarına katılması ile ilgili esaslar Senato tarafından belirlenir.
+(3) ODTÜ dışından başvurusu kabul edilen adayların intibak işlemlerinde, kabul edildiği program müfredatının toplam kredi sayısının en fazla yarısı kadar kredi sayımı yapılarak ders muafiyet işlemi yapılır.
+(4) Kabul edilen adayların, intibak işlemlerinde hangi sınıfa ve döneme kabul alacağı ilgili programın toplam ders sayısı ve bir yarıyıldaki ders yüküne göre ilgili bölüm başkanlığınca hesaplanarak Fakülte Yönetim Kurulu kararı ile belirlenir.
+Özel durumlar
+MADDE 20 –
+(1) Kamu kurum ve kuruluşlarında asli ve sürekli kamu hizmetlerinde görevlendirilenlerin, sürekli olarak bir başka yere atanmaları halinde, kendileri ile bakmakla yükümlü oldukları çocukları ve eşleri, eşdeğer diploma programının, son sınıf veya son iki yarıyılı dışında her sınıf veya yarıyılına eğitim-öğretim yılının başlamasından itibaren en geç bir ay içinde kayıtlı oldukları diploma programına girişteki merkezi yerleştirme puanları, gidecekleri yükseköğretim kurumundaki diploma programının yerleştikleri yıl itibariyle taban puanından daha yüksek olmak şartı ile kontenjan aranmaksızın nakledilebilirler.
+(2) Yurt dışındaki yükseköğretim kurumlarından yatay geçişte öğrencinin anne veya babasının, devlet hizmetinde görevli ise görevinin sona ermesi sebebiyle Türkiye’ye dönmesi, işçi ise kesin dönüş yapması halinde, yabancı dil sınıfı hariç en az bir yıl okumuş ve yıl sonu sınavlarının tamamını başarı ile vermiş olması yatay geçiş başvurusu için yeterlidir. Yatay geçiş başvurusu yapılan yükseköğretim kurumunun ilgili yönetim kurulları bu yolla başvuran öğrencileri yurt dışı yatay geçiş kontenjanı kapsamı dışında değerlendirir.
+(3) Türkiye’de hizmet görmekte olan yabancı diplomatların çocuklarının yükseköğretim kurumlarına başvuruları, kontenjan şartı aranmaksızın başvurduğu yükseköğretim kurumunun yönetim kurulu tarafından değerlendirilir. Başvurunun kabul edilmesi halinde her bir öğrenci için gerekli intibak hazırlanır.
+BEŞİNCİ BÖLÜM
+Merkezi Yerleştirme Puanıyla Yatay Geçiş
+(Ek Madde 1 Kapsamında Yatay Geçiş)
+Merkezi yerleştirme puanıyla yatay geçiş
+MADDE 21 –
+(1) Programa yatay geçişe ilişkin başvuru takvimi, öğrenci kontenjanına ilişkin esaslar ile yatay geçişlere ilişkin usul ve esaslar Yükseköğretim Yürütme Kurulu tarafından belirlenir.
+(2) Belirlenen usul ve esaslar uyarınca öğrencilerin başvuruları ilgili kurullar tarafından değerlendirilerek yatay geçişleri kabul edilir.
+(3) Başvurunun kontenjandan fazla olduğu durumlarda ÖSYS puanı en yüksek adaydan başlayıp sıralanarak kontenjan kadar adayın yatay geçişi kabul edilir.
+Merkezi yerleştirme puanıyla yatay geçiş için başvuru koşulları
+MADDE 22–
+(1) Bu kapsamda başvuru yapacak adayların aşağıda belirtilen koşulları sağlaması gerekir.
+a) Yükseköğretim Yürütme Kurulu tarafından belirlenen usul ve esaslar uyarınca öğrencilerin başvuruları fakültelerin ilgili kurulları tarafından değerlendirilerek kabul edilir.
+b) Öğrencinin başvuru sırasında eşdeğer bir programda kayıtlı veya izinli (öğrenci statüsünde) olması zorunludur.
+c) Öğrencinin, yükseköğrenim kurumuna kayıt olduğu yıldaki merkezi yerleştirme puanının, yatay geçiş yapmak istediği programın aynı yıla ait genel kontenjan taban puanına eşit veya yüksek olması gerekir.
+ç) Dikey Geçiş Sınavı (DGS) puanı ile yerleşen öğrenciler sadece DGS Kılavuzlarında tercih edebilecekleri yükseköğretim lisans programlarına yatay geçiş başvurusu yapabilirler.
+d) Adayların bir program için tercih hakkı bulunmaktadır.
+e) Merkezi Yerleştirme Puanıyla Yatay geçiş (Ek madde 1) kapsamında başka bir Yükseköğretim kurumuna kayıt olup YÖK Ek Madde 1 Uygulama esasları gereği geri dönme hakkını kullanacak adaylardan iki yıl süreyi geçirmiş adayların İngilizce Yeterliklerini belgelemeleri zorunludur.
+f) ODTÜ’de hazırlık sınıfı öğrencisi olup Merkezi Yerleştirme Puanıyla Yatay geçiş (Ek madde 1) kapsamında başka bir yükseköğretim kurumuna yatay geçiş ile giden ve Ek Madde 1 kapsamında geri dönme hakkını kullanmak isteyen öğrenciler hazırlık sınıfına kabul edilmez, İngilizce yeterliğini belgelemesi durumunda lisans programına kayıt hakkı verilir.
+Merkezi yerleştirme puanıyla kurum içi yatay geçiş
+MADDE 23 –
+(1) Öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği diploma programının taban puanına eşit veya yüksek olması durumunda öğrenci (hazırlık sınıfı hariç) yatay geçiş için başvuru yapabilir.
+Merkezi yerleştirme puanıyla kurumlar arası yatay geçiş
+MADDE 24 –
+(1) Öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği diploma programının taban puanına eşit veya yüksek olması durumunda, öğrenci, hazırlık sınıfı da dahil olmak üzere yatay geçiş için başvuru yapabilir.
+Merkezi yerleştirme puanıyla yatay geçiş değerlendirme
+MADDE 25 –
+(1) Başvurularla ilgili ön değerlendirmeyi, üniversite senatosunun belirlemiş olduğu ilkeler çerçevesinde, ilgili yönetim kurulları tarafından oluşturulan komisyonlar yapar.
+Merkezi yerleştirme puanıyla yatay geçiş intibak işlemleri
+MADDE  26  - (1)
+Merkezi yerleştirme puanıyla kurum içi yatay geçiş intibak işlemi kurum içi yatay geçiş intibak işlemleri ile aynıdır.
+(2) Merkezi yerleştirme puanıyla kurumlar arası yatay geçiş intibak işlemi kurumlar arası yatay geçiş intibak işlemleri ile aynıdır.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Başvuru için gerekli belgeler
+MADDE 27 –
+(1)
+Başvurunun değerlendirmeye alınması için yatay geçiş duyurusunda belirtilen belgelerin son başvuru tarihine kadar teslim edilmesi gerekir.
+(2) Eksik belgeli başvurular değerlendirmeye alınmaz.
+Başvuru tarihleri
+MADDE 28 –
+(1)
+Başvuru tarihleri, ilgili yönetmelik kapsamında Yükseköğretim Kurulu Başkanlığı ve/veya üniversite tarafından ilgili internet adreslerinde ilan edilir.
+(2) Başvurular, bütün belgeler tamamlanmış olarak ilgili internet adresinde belirtilen şekilde yapılır.
+(3) Koşulları sağlamadığı için veya eksik belge nedeni ile başvurusu değerlendirmeye alınmayan adaylara başvuru ücreti ve evrakı iadesi yapılmaz.
+Yaz okulu
+MADDE 29 –
+(1)
+Yaz okulunda alınan dersler ve notları, bunu izleyen Güz yarıyılı başvurularında değerlendirmeye alınmaz.
+Katkı payı ödemeleri
+MADDE 30 –
+(1)
+Yatay geçiş ile kurum/ bölüm değiştiren öğrenciler katkı paylarını önceki kurum/bölümlerinde geçirdikleri öğrenim süreleri de göz önüne alınarak öderler.
+Azami süre
+MADDE 31 –
+(1)
+Yatay geçiş ile kurum/bölüm değiştiren öğrencilerin önceki kurumlarında/programlarında harcamış oldukları süreler öğrenim süresine dahil edilir. İlgili fakülte tarafından yapılan intibak işlemindeki sayılan ders sayısı dikkate alınır. Ancak öğrencilerin azami sürelerinin belirlenmesinde toplam süre, kanunla belirtilen süreleri aşamaz.
+Kuzey Kıbrıs Kampusu
+MADDE 32
+– (1) Bu Yönergenin Kuzey Kıbrıs Kampusunda yürütülen lisans programlarına uygulanmasına ilişkin usul ve esaslar Senato tarafından belirlenir.
+Yürürlükten kaldırılan yönerge
+MADDE 33 –
+(1)
+22/02/2022 tarihli Üniversite Senatosu kararı ile kabul edilen Ortadoğu Teknik Üniversite Lisans Programları Yatay Geçiş Yönergesi yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 34 –
+(1)
+Bu Yönerge 2023-2024 Akademik yılından itibaren yürürlüğe girer.
+Yürütme
+MADDE 35 –
+(1) Bu Yönerge hükümlerini Orta Doğu Teknik Üniversitesi Rektörü yürütür.
+Son güncelleme
+12/01/2026 - 15:25

@@ -1,0 +1,41 @@
+2024 - 2025 Akademik Yılı Bahar Dönemi Etkileşimli Kayıt ve Danışman Onayları
+Sevgili Öğrencilerimiz,
+2024-2025 Akademik Yılı Bahar Dönemi ders kayıt sistem üzerinden çevrim içi
+(online)
+ortamda yapılacaktır. Bu doğrultuda, etkileşimli kayıt arayüzüne “Request Registration Approval” butonu eklenmiştir. İlgili dönem kayıtlarında, öğrencilerimiz almak istedikleri dersleri ekledikten ve ders alma sürecini tamamladıktan sonra bu butona basarak Danışman Onay Programına kayıt bilgilerinin iletilmesini sağlayacaklardır. “Request Registration Approval” butonunu kullanarak danışman onayı alma isteği iletmeyen öğrencilerimiz danışman onayı alamayacaklardır.
+Danışmanlar, Danışman Onay Programını kullanarak kayıt onay talebi olan öğrencileri görüntüleyebilecek ve öğrenci şifre girişine gerek kalmadan kayıt onayı verebileceklerdir. Onay sonrasında öğrenciye sistem tarafından otomatik olarak “Kayıt onayınız yapılmıştır” şeklinde bir e-posta gönderilecektir.
+Danışman, onay talebi olan öğrencisi ile kayıt işlemleri konusunda iletişim kurmak isterse, Danışman Onay Programında bulunan arayüzdeki “Düzeltme İsteği” butonunu kullanarak, ilgili öğrenciye “Kayıt Onayı Düzeltme İşlemi” konulu e-posta gönderebilecektir. Bu şekilde öğrenci, gerekli değişiklikleri yaparak etkileşimli kayıt programından danışmanına tekrar onay talebi gönderebilecektir. Bahsedilen süreç sonunda öğrenci, çevrim içi
+(online)
+ortamda kayıt ve danışman onayı işlemlerini tamamlamış olacaktır.
+Öğrencilerimizin ders kaydı ve kayıt onayı işlemleri ile ilgili süreçleri danışmanları ile iletişim içinde sürdürmeleri gerekmektedir. Süreçte herhangi bir sorun veya mağduriyet yaşanmaması için bu konuya özellikle dikkat edilmesi büyük önem arz etmektedir. Öğrencilerimizin kayıt onayı süresi içinde "Kayıt onayınız yapılmıştır” e-postasının kendilerine ulaştığından emin olmaları gerekmektedir.
+Etkileşimli kayıt işlemleri
+https://register.metu.edu.tr/
+adresinden yapılacaktır.
+Etkileşimli kayıtların ilk günü danışman onay programı saat 10.00’da açılır. Öğrencilerin kayda girmeden önce, alacakları dersler ile ilgili olarak danışmanları ile iletişime geçmeleri gerekir.
+Kayıt veya ders ekleme bırakma süreci içinde danışman onayı alındıktan sonra, bir değişiklik yapılması gerektiğinde danışmanınızla iletişime geçilerek danışman onayının kaldırılması, kayıt programında değişiklikler yapıldıktan sonra yeniden danışman onayı alınması gerekir.
+Etkileşimli kayıtların ilk günü öğrencilerimiz aşamalı olarak kayda gireceklerdir. Sınıflar itibariyle kayıt programının açılacağı saatler aşağıda belirtilmiştir.
+09.00’dan itibaren: 4. sınıf öğrencileri
+10.00’dan itibaren: 4., ve 3. sınıf öğrencileri
+11.00’den itibaren: 4., 3., 2. sınıf öğrencileri
+12.00’den itibaren: 4., 3., 2., 1. sınıf öğrencileri
+13.00’den itibaren: Lisansüstü, ve  4., 3., 2., 1. sınıf öğrencileri
+Öğrenciler için Etkileşimli Kayıtlar;
+12 Şubat 2025 saat 09.00’ da başlar, 14 Şubat 2025 saat 17.00'de
+kayıt programı üzerinden ders ekleme işlemi
+sona erer.
+Danışman Onayları;
+Etkileşimli Kayıtların ilk günü olan
+12 Şubat 2025
+, saat
+10.00'da başlar, son gün
+ü olan
+14 Şubat 2025
+saat
+23.59'da sona erer.
+Sağlıklı günler ve başarılar dileriz.
+Not 1: Ders seçimleri sırasında bir veya birden fazla seçmeli dersin kapasitesi dolduktan sonra, ders bırakma (drop) işlemleri nedeniyle yeniden bir kapasite açığı oluşması durumunda, bu dersin kapasitesi sistem tarafından rastgele bir süre sonra tekrar açılacaktır.
+Not 2: Katkı payı/öğrenim ücreti ödemekle yükümlü öğrenciler tarafından öncelikle ödeme işlemlerinin yapılması, ardından ders kaydı ve danışman onay süreçlerinin yürütülmesi gerekmektedir.
+Not 3: Kayıt programına kampüs dışından erişimlerde VPN bağlantısı şartı bulunmamaktadır.
+Not 4: Etkileşimli kayıtlar kampüs içi ve kampüs dışına aynı zamanda açılacaktır.
+Son güncelleme
+03/12/2025 - 15:23

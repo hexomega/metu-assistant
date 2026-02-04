@@ -1,0 +1,74 @@
+ORTA DOĞU TEKNİK ÜNİVERSİTESİ ÇEVRİM İÇİ (ONLINE) SINAV UYGULAMA USUL VE ESASLARI
+Amaç
+Bu kılavuzun amacı, Orta Doğu Teknik Üniversitesi Eğitim-Öğretim Yönetmeliklerine dayanarak çevrim içi (online) sınav süreç ve işlemlerine ilişkin usul ve esasları belirlemektir. ODTÜ bünyesinde yapılacak çevrim içi sınavların etik ilkeler çerçevesinde KVKK ve kişisel hak ve özgürlükler gözetilerek gerçekleştirilmesi hedeflenir.
+Kapsam
+Bu doküman çevrim içi (online) sınav süreç ve işlemlerine ilişkin usul ve esasları kapsar.
+Tanımlar
+Bu dokümanda geçen;
+YÖK:
+Yükseköğretim Kurulu Başkanlığını,
+Senato:
+Orta Doğu Teknik Üniversitesi Senatosunu,
+Rektör:
+Orta Doğu Teknik Üniversitesi Rektörünü,
+KVKK:
+6698 sayılı Kişisel Verilerin Korunması Kanununu,
+KVKK Açık Rıza:
+Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rıza
+ODTUCLASS:
+Orta Doğu Teknik Üniversitesi  Öğrenme Yönetim Sistemini,
+BİDB:
+Orta Doğu Teknik Üniversitesi Bilgi İşlem Daire Başkanlığını,
+UZEM:
+Orta Doğu Teknik Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezini,
+Öğrenci:
+Orta Doğu Teknik Üniversitesi bünyesindeki akademik birimlerce düzenlenen
+Çevrim içi (Online) Sınav
+: Sınava giren öğrenci ile sınav sorumlusunun aynı fiziksel ortamda bulunmadığı, internet ortamında yapılan sınavı,
+Sorumlu Öğretim Elemanı:
+Sınavın sorunsuz ve etik ilkelere uygun şekilde yürütülmesinden sorumlu, sınav dersini veren ve varsa sınavın yürütülmesine destek veren öğretim elemanını,
+ifade eder.
+Çevrim içi (online) sınav ortamı
+Çevrim içi sınavlar Orta Doğu Teknik Üniversitesi altyapısı üzerinden sağlanan ODTUCLASS (
+https://odtuclass.metu.edu.tr
+) platformu aracılığı ile yürütülmektedir.
+Çevrim içi (online) sınav uygulaması
+Öğrenciler ODTUCLASS’ı ODTÜ BİDB tarafından sağlanan kullanıcı adı ve şifresi ile kullanırlar.
+Çevrim içi sınava Orta Doğu Teknik Üniversitesi Çevrim içi Sınav Uygulama Usul ve Esasları doğrultusunda internet bağlantısı olan her yerden bilgisayar, tablet ya da akıllı telefon gibi teknolojik cihazlar kullanılarak girilebilir. Çevrim içi sınavların sorunsuz tamamlanması için kesintisiz bir internet bağlantısına sahip olunması gerekmektedir.
+Çevrim içi sınavlarda sınav güvenliğinin sağlanması amacıyla çevrim dışı sınavlardan farklı denetim kuralları ve yöntemleri uygulanır.
+Öğrencilerin sınavlara sınav takviminde yer alan ya da kendilerine duyurulmuş olan gün ve saatte girmeleri gerekmektedir.
+Sınav başında veya gerekli görüldüğünde sınav esnasında kimlik doğrulaması yapılabilir.
+Çevrim içi sınav kurallarının ve etik ilkelerin duyurusu sorumlu öğretim elemanı tarafından yapılır.
+Öğrencilerin sınavdan önce ilgili dersin sayfasındaki KVKK Açık Rıza Formunu (Consent Form for Turkish Personal Data Protection) okuyup onay vermeleri gerekmektedir. Sorumlu öğretim elemanı KVKK Açık Rıza onayını ODTUCLASS üzerinden daha önceden hazırlanan şablonu kullanarak alır. Açık rıza vermeyen öğrencilerin ders başarısı değerlendirmesinde yerel sunucularda çalışan video konferans yazılımı (örn. Big Blue Button –
+https://odtuzem.metu.edu.tr/tr/akademik#big-blue-button
+) kullanılacaktır.
+Çevrim içi sınav öncesi gerekli teknik kontrollerin yapılması sorumluluğu sorumlu öğretim elemanı, sınav sorumluları ve koordinatörlerine aittir. ODTÜ UZEM ve BİDB sınavların sorunsuz yürütülmesi için koordinasyon desteği sağlar. Çevrim içi sınava girecek öğrenci sayısının 500 ve üzeri olması durumunda ODTÜ UZEM’in sınavdan en az bir hafta önce bilgilendirilmesi gerekmektedir. ODTUCLASS sunucusu üzerindeki kullanıcı yükünün belirlenebilmesi için sorumlu öğretim elemanlarının sınavları en az bir hafta önceden ODTUCLASS üzerinde oluşturması gerekir.
+Sorumlu öğretim elemanı çevrim içi sınavlarda öğrencilerin sınav penceresi dışında herhangi bir sekme ya da sayfa açmasını engelleyen güvenli tarayıcıların (örn. Safe Exam Browser|SEB -
+https://odtuzem.metu.edu.tr/tr/akademik#safe-exam-browser
+) kullanılmasını talep edebilir.
+Öğrencilerin sınava katıldıkları cihazdaki mikrofon, hoparlör ve kameranın sınav süresince kullanılabilir durumda olması öğrencinin sorumluluğundadır.
+Sorumlu öğretim elemanının talebi halinde öğrenciler kamera ve mikrofonlarını açık tutmak zorundadırlar.
+Çevrim içi sınavın şeffaflığının ve denetlenebilirliğinin sağlanması için, sınavlar sorumlu öğretim elemanı tarafından kayıt altına alınabilir ve arşivlenebilir. Sınav kaydı, Orta Doğu Teknik Üniversitesi tarafından onay verilen ve KVKK Açık Rıza Formunda belirtilen lisanslı yazılımların kullanımıyla gerçekleştirilir.
+Öğrenciler sınav sorularını ve yanıtlarını, sorumlu öğretim elemanının izni olmadan herhangi bir şekilde kopyalayamaz ve paylaşamaz.
+Sorumlu öğretim elemanı tarafından belirlenen sınav süresinin kontrolü öğrencinin sorumluluğundadır.
+Öğrencinin yüzü, sınav boyunca kimliği belirlenecek şekilde açık olmalıdır.
+Kulak içinde, üzerinde veya etrafında işitme cihazları haricinde bir cihaz kullanılamaz. İşitme cihazı kullanan öğrencilerin dersi veren sorumlu öğretim elemanına sınav öncesinde bilgi vermesi gerekir.
+Sınavın yapıldığı ortamda sınava katılan öğrenci haricinde kimse bulunmamalıdır. Öğrenciler sınav esnasında sorumlu öğretim elemanı dışında kimseyle iletişim kurmamalıdır.
+Sınav ortamının aydınlatması, kameranın öğrenciyi ve bulunduğu ortamı sınav süresince net bir şekilde kaydetmesini sağlayacak şekilde olmalıdır.
+Öğrencilerin sınav boyunca kameranın görüş açısı içinde olmaları gerekmektedir. Herhangi bir sebeple sınav ortamı terk edilmemelidir. Sorumlu öğretim elemanı tarafından önceden duyurulmak kaydıyla, öğrencilerden sınav esnasında kullanılmak üzere kamera özelliği bulunduran ek bir cihaz talep edilebilir.
+Sınav sorumluları tarafından talep edilmedikçe akıllı saat kullanılmamalıdır. Ayrıca sınav için kullanılan bilgisayar, tablet ya da akıllı telefon dışında herhangi bir görsel-işitsel cihaz sınav ortamında bulunmamalıdır.
+İnternet kesintisi, elektrik kesintisi ve sistem donması gibi teknik bir nedenden ötürü sınavı sekteye uğrayan öğrenci, sorumlu öğretim elemanının onayı ile kalan süre içinde sınavını tamamlayabilir.
+Sınav süresince toplu oturumda çözülemeyen sınav güvenliğiyle ilgili durumlarda, video konferans yazılımında öğrencilerin toplu odadan ara odaya alınması opsiyonu kullanılabilir.
+ODTÜ çevrim içi ve çevrim dışı sınav yönetmeliği çerçevesinde ve sınava girecek öğrencilere duyurulmak koşuluyla, dersin niteliğine bağlı olarak, dersi veren sorumlu öğretim elemanı tarafından kişisel hak ve özgürlükleri sınırlamayan ek sınav kuralları getirilebilir.
+Çevrim içi sınavlarda herhangi bir şekilde kopya çekmeye teşebbüs eden ya da çeken, başka öğrencilerin kopya çekmesine yardımcı olan öğrencilerin disiplin işlemleri 2547 sayılı Yükseköğretim Kanunu’nun
+“Öğrencilerin disiplin işleri”
+başlıklı 54’üncü maddesinde yer alan düzenlemelere göre yürütülür.
+Engelli öğrenciler için ek maddeler
+Derslerde engel durumu nedeniyle zorluk yaşayan ve akademik uyarlama hizmeti almak isteyen öğrencilerin, Engelsiz ODTÜ Birimi ve/veya dersi veren sorumlu öğretim elemanı ve akademik bölümlerindeki engelli öğrenci danışmanı (liste için:
+https://engelsiz.metu.edu.tr/tr/engelli-ogrenci-danismanlari
+) ile en kısa sürede iletişime geçmeleri gerekmektedir.
+Diğer hükümler
+Uygulama usul ve esaslarında yer almayan durumlarda ilgili mevzuat hükümleri uygulanır. İlgili mevzuat hükümlerinin de bulunmaması halinde YÖK, ODTÜ Senatosu, Rektörlük ve ilgili yönetim kurulu kararları uygulanır.
+Bu esaslar ilan edildiği tarihten itibaren yürürlüğe girer ve ODTÜ Rektörlüğü tarafından yürütülür.
+Son güncelleme
+23/12/2025 - 14:53
