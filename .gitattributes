@@ -1,0 +1,2 @@
+data/vectordb/*.faiss filter=lfs diff=lfs merge=lfs -text
+data/vectordb/*.pkl filter=lfs diff=lfs merge=lfs -text
