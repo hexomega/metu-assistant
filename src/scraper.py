@@ -95,7 +95,7 @@ def scrape_page(url: str) -> tuple[str, list[str], list[str]] | None:
         response.raise_for_status()
         
         # Handle encoding
-        response.encoding = response.apparent_encoding
+        response.encoding = 'utf-8'
         
         soup = BeautifulSoup(response.text, 'html.parser')
           
@@ -186,10 +186,15 @@ def run_scraper(base_urls: list[str] = None, max_pages: int = None) -> dict:
                 all_pdf_links.extend(pdf_links)
                 stats['pdfs_found'] += len(pdf_links)
             
-            # Add new links to queue
+            # Add new links to queue (only under base_url path)
+            base_path = urlparse(base_url).path.rstrip('/')
             for link in page_links:
                 if link not in visited and link not in to_visit:
-                    to_visit.append(link)
+                    link_path = urlparse(link).path
+                    if base_path and link_path.startswith(base_path):
+                        to_visit.append(link)
+                    elif not base_path:
+                        to_visit.append(link)
             
             # Be polite - wait between requests
             time.sleep(SCRAPE_DELAY)

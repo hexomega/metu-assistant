@@ -22,7 +22,7 @@ FAISS_INDEX_NAME = "metu_faiss_index"
 
 def get_embedding_function():
     return HuggingFaceEmbeddings(
-        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        model_name="intfloat/multilingual-e5-large",
         model_kwargs={'device': 'cpu'},
         encode_kwargs={'normalize_embeddings': True},
     )

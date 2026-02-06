@@ -1,13 +1,11 @@
 """
 METU Assistant - Streamlit Chat Interface
-
 A RAG-powered chatbot for METU students.
 """
 
 import streamlit as st
 from src.rag_chain import METUAssistant, test_connection
 from src.embeddings import get_collection_stats
-
 
 # Page configuration
 st.set_page_config(
@@ -114,10 +112,10 @@ def render_sidebar():
         st.markdown("""
         Bu asistan ODTÜ öğrencilerine yardımcı olmak için tasarlanmıştır.
         
-        This assistant is designed to help METU students.
-        (c) Efe Misirli - efemisirli@gmail.com
+        This assistant is designed to help METU students.\n
+        (c) Efe Misirli - efemisirli@gmail.com\n
         **Veri Kaynakları / Data Sources:**
-        - Öğrenci İşleri DB Web Sitesi ve İlgili Yönetmelikler
+        - Öğreni İşleri DB Web Sitesi ve İlgili Yönetmelikler
         - Uluslararasi Işbirliği Ofisi Web Sitesi
         - Kafeterya Web Sitesi
         """)

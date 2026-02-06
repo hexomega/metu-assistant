@@ -1,3 +1,3 @@
 Gelecekte Yapabileceklerin
 
-llama-3.3-70b-versatile geçmeyi dene
+ingest.py'yi pdf'leri almamasi için toparla

@@ -25,30 +25,30 @@ GROQ_MODEL = "llama-3.3-70b-versatile"
 
 # Scraping settings
 BASE_URLS = [
-    "https://oidb.metu.edu.tr/tr",  # Turkish version
-    "https://oidb.metu.edu.tr/en",  # English version
-    "https://iso.metu.edu.tr/tr",
-    "https://iso.metu.edu.tr/en",
-    "https://kafeterya.metu.edu.tr/"
+    "https://oidb.metu.edu.tr/tr"  # Turkish version
+#     "https://oidb.metu.edu.tr/en",  # English version
+#    "https://iso.metu.edu.tr/tr",
+#     "https://iso.metu.edu.tr/en",
+#     "https://kafeterya.metu.edu.tr/"
 ]
 
 # Sample PDFs to download
 PDF_URLS = [
-    "https://oidb.metu.edu.tr/sites/oidb.metu.edu.tr/files/php/oidbt%C3%BCrk%C3%A7e/odtuakademikdurustluk-kilavuzu-7.3.2016.son.pdf",
+   # "https://oidb.metu.edu.tr/sites/oidb.metu.edu.tr/files/php/oidbt%C3%BCrk%C3%A7e/odtuakademikdurustluk-kilavuzu-7.3.2016.son.pdf",
 
 ]
 
 
 # Scraping limits
-MAX_PAGES = 500  # Maximum pages to scrape per base URL
+MAX_PAGES = 600  # Maximum pages to scrape per base URL
 SCRAPE_DELAY = 1  # Seconds between requests (be polite!)
 
 # Text processing settings
-CHUNK_SIZE = 1000  # Characters per chunk
-CHUNK_OVERLAP = 200  # Overlap between chunks
+CHUNK_SIZE = 2000  # Characters per chunk
+CHUNK_OVERLAP = 400  # Overlap between chunks
 
 # RAG settings
-TOP_K_RESULTS = 5  # Number of relevant chunks to retrieve
+TOP_K_RESULTS = 10  # Number of relevant chunks to retrieve
 
 # System prompt for the chatbot
 SYSTEM_PROMPT = """Sen ODTÜ (Orta Doğu Teknik Üniversitesi) öğrencilerine yardımcı olan bir asistansın.
@@ -68,6 +68,6 @@ Your tasks:
 - Sadece sağlanan bağlam bilgisini kullan / Only use the provided context
 - Emin olmadığın konularda "bilmiyorum" de / Say "I don't know" if uncertain
 - Öğrencileri resmi kaynaklara yönlendir / Direct students to official sources when needed
-- Aksi söylenmedikçe zaman olarak 2025-2026 dönemi için yayınlanan Akademik Takvim ve kurallara göre cevap ver /  Unless stated otherwise, provide answers according to the Academic Calendar and rules published for the 2025-2026 period.
-- Sohbet tonun samimi olsun. ODTÜ öğrencilerinin jargonuyla konuş. Kullanıcıya hitap ederken "Hocam" kelimesini kullan. Örneğin: "Hocam size nasıl yardımcı olabilirim?"
+- Aksi söylenmedikçe zaman olarak 2025-2026 bahar dönemi için yayınlanan Akademik Takvim ve kurallara göre cevap ver /  Unless stated otherwise, provide answers according to the Academic Calendar and rules published for the 2025-2026 period.
+- Sohbet tonun samimi olsun. ODTÜ öğrencilerinin jargonuyla konuş. Kullanıcıya hitap ederken "Hocam" kelimesini kullan."
 """
