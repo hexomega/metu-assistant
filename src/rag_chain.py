@@ -138,22 +138,28 @@ class METUAssistant:
         Returns:
             The assistant's response.
         """
-        # Invoke the chain
-        response = self.chain.invoke({
-            "question": user_message,
-            "chat_history": self.chat_history,
-        })
+        try:
+            # Invoke the chain
+            response = self.chain.invoke({
+                "question": user_message,
+                "chat_history": self.chat_history,
+            })
         
-        # Update chat history
-        self.chat_history.append(HumanMessage(content=user_message))
-        self.chat_history.append(AIMessage(content=response))
+            # Update chat history
+            self.chat_history.append(HumanMessage(content=user_message))
+            self.chat_history.append(AIMessage(content=response))
         
-        # Keep history manageable (last 10 exchanges)
-        if len(self.chat_history) > 20:
-            self.chat_history = self.chat_history[-20:]
+            # Keep history manageable (last 10 exchanges)
+            if len(self.chat_history) > 20:
+                self.chat_history = self.chat_history[-20:]
         
-        return response
-    
+            return response
+        except Exception as e:
+            error_str = str(e)
+            if "429" in error_str or "rate_limit" in error_str:
+                return "⚠️ Sistem şu anda yoğun. Lütfen birkaç dakika sonra tekrar deneyin.\n\n⚠️ System is currently busy. Please try again in a few minutes."
+            raise e    
+        
     def clear_history(self):
         """Clear the conversation history."""
         self.chat_history = []
