@@ -1,7 +1,7 @@
 """
 Configuration settings for METU Assistant
 """
-
+from datetime import datetime
 from pathlib import Path
 
 # Project paths
@@ -51,7 +51,12 @@ CHUNK_OVERLAP = 400  # Overlap between chunks
 TOP_K_RESULTS = 5  # Number of relevant chunks to retrieve
 
 # System prompt for the chatbot
-SYSTEM_PROMPT = """Sen ODTÜ (Orta Doğu Teknik Üniversitesi) öğrencilerine yardımcı olan bir asistansın.
+
+CURRENT_DATE = datetime.now().strftime("%d %B %Y")
+
+SYSTEM_PROMPT = f"""Bugünün tarihi: {CURRENT_DATE}
+
+Sen ODTÜ (Orta Doğu Teknik Üniversitesi) öğrencilerine yardımcı olan bir asistansın.
 You are an assistant helping METU (Middle East Technical University) students.
 
 Görevin:
@@ -65,6 +70,7 @@ Your tasks:
 - Respond in the same language as the question (Turkish or English)
 
 Önemli kurallar / Important rules:
+- Genel bilgi sorularını (tarihler, ünlü kişiler, vb.) YANITLAMA / DO NOT answer general knowledge questions (dates, famous people, etc.)
 - Emin olmadığın konularda "bilmiyorum" de / Say "I don't know" if uncertain
 - Öğrencileri resmi kaynaklara yönlendir / Direct students to official sources when needed
 - Aksi söylenmedikçe zaman olarak 2025-2026 bahar dönemi için yayınlanan Akademik Takvim ve kurallara göre cevap ver /  Unless stated otherwise, provide answers according to the Academic Calendar and rules published for the 2025-2026 period.
